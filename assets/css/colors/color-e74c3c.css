@@ -1,0 +1,71 @@
+/*
+ * Author: Carlos Alvarez
+ * URL: http://alvarez.is
+ *
+ * Project Name: NewFirm - Business Bootstrap 3 Theme
+ * Version: 1.0
+ * URL: http://alvarez.is
+ */
+ 
+/* COLOR CONF */
+
+
+/* Links */
+a {
+    color: #e74c3c;
+}
+
+.si i {
+	color: #e74c3c;
+}
+
+
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
+color: #ffffff;
+background-color: #e74c3c;
+}
+
+.navbar-default .navbar-nav > li > a:hover {
+color: #e74c3c;
+}
+
+.btn-theme {
+  background-color: #e74c3c;
+}
+
+.tabbable .nav-stacked > li:active, li:focus, li.active h4 {
+	color: #e74c3c;
+}
+
+#cta-bar:hover {
+	background: #e74c3c;	
+}
+
+p.capitalize:first-letter {
+	background: #e74c3c; 
+}
+
+.team-info {
+  background: #e74c3c;
+}
+
+#black i {
+	color: #e74c3c;
+}
+
+.progress-bar-theme {
+  background-color: #e74c3c;
+}
+
+.team-stat i {
+	color: #e74c3c;
+}
+
+.pricing-table-plan {
+	border-top: 4px solid #e74c3c;
+}
+
+.blog-post blockquote {
+  border-left: 4px solid #e74c3c;
+}
+
