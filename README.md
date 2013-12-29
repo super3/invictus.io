@@ -4,7 +4,7 @@ Invictus
 Static web files for the Invictus [website bounty](https://bitsharestalk.org/index.php?topic=1742.0).
 
 
-## Requirements - [Full Details](https://bitsharestalk.org/index.php?topic=1742.0)
+## Requirements and Specs - [Full Details](https://bitsharestalk.org/index.php?topic=1742.0)
 
 ### Static Content
  Static Content or Basic PHP to manage headers/footers/language translation is preferred to systems dependent upon databases.  The site should load quickly and the content should be easily updated and versioned with github.  To test/deploy the site should be as simple as a git pull into the document root of a PHP enabled server.
