@@ -51,7 +51,7 @@
     			<div class="col-lg-8 col-lg-offset-2">
     				<h2>Invictus builds Distributed Autonomous Companies, known as DACs. We also build software and tools
     					for the entire cryptocurrency ecosystem.</h2>
-    				<button type="button" class="btn btn-cta btn-lg">What is a DAC?</button>
+    				<a class="btn btn-cta btn-lg" href="dac.php">What is a DAC?</a>
     			</div>
     		</div><!-- /row -->
     	</div><!-- /container -->
@@ -70,11 +70,11 @@
 		</div><!-- /row -->
 		<div class="row mt centered">	
 			<div class="col-lg-6 desc">
-				<a class="zoom blue" href="http://protoshares.com"><img class="img-responsive" src="assets/img/protoshares-logo.png" alt="" /></a>
+				<a class="zoom blue" href="funding-protoshares.php"><img class="img-responsive" src="assets/img/protoshares-logo.png" alt="" /></a>
 				<p>ProtoShares - Cryptocurrency/Cryptoequity</p>
 			</div>
 			<div class="col-lg-6 desc">
-				<a class="zoom blue" href="#"><img class="img-responsive" src="assets/img/angelshares-logo.png" alt="" /></a>
+				<a class="zoom blue" href="funding-angelshares.php"><img class="img-responsive" src="assets/img/angelshares-logo.png" alt="" /></a>
 				<p>AngelShares - Angel Investing in a Blockchain</p>
 			</div>
 		</div><!-- /row -->
@@ -157,7 +157,7 @@
     			<div class="col-lg-8 col-lg-offset-2">
     				<h2>Invictus Innovations consists of a global development team, and thousands 
     					of community members to make this all possible.</h2>
-    				<button type="button" class="btn btn-cta btn-lg">Our Team</button>
+    				<a class="btn btn-cta btn-lg" href="team.php">Our Team</a>
     			</div>
     		</div><!-- /row -->
     	</div><!-- /container -->
