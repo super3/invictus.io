@@ -52,7 +52,7 @@
 
     	</div><!-- /row -->
 			
-		</div><!-- /container -->
+		
 	</div><!-- /white -->
 
 <?php include 'footer.php'; ?>
