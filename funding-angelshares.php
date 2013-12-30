@@ -1,18 +1,99 @@
 <?php include 'header.php'; ?>
-	
-	<! ========== BLACK SECTION ================================================================================================= 
+
+	<! ========== FULL PROJECT WRAP ============================================================================================= 
 	=============================================================================================================================>    
-	<div id="black">
-		<div class="container mts">
-			<div class="row mt centered">
-				<div class="col-lg-8 col-lg-offset-2">
-					<h1>Invictus Innovation Funding: Angelshares</h1>
-					<hr>
-					<h4>Our resources for the development of exciting DACs</h4>
-				</div>
-			</div><!-- /row -->
+	<div id="fullproject">
+		<div class="container">
 		</div><!-- /container -->
-	</div><!-- /black -->
+	</div><!-- /fullproject -->
+
+	<! ========== FEATURED WORDS ================================================================================================ 
+	=============================================================================================================================>    
+    <div class="container">
+		<div class="row mt centered ">
+			<div class="col-lg-4 col-lg-offset-4">
+				<h3>What are Angelshares?</h3>
+				<hr>
+			</div><!-- /col-lg-4 -->
+		</div><!-- /row -->
+    
+    	<div class="row mt">
+    		<div class="col-lg-4">
+    			<h4>About</h4>
+    			<p>
+					AngelShares, like ProtoShares, represent a way to gain a stake in the new crypto-equity industry.  
+					ProtoShares acknowledge a contribution to the launch of the new industry, representing a proof of work done in
+					generating public interest. AngelShares acknowledge an equally important financial contribution to the industry
+					infrastructure.
+    			</p>
+    		</div><!-- /col-lg-4 -->
+    		
+    		<div class="col-lg-8">
+    			<h4>Shares in DACs</h4>
+    			<p style="text-align: justify;">								
+					Both ProtoShares and AngelShares rely upon the willingness of developers to honor those contributions 
+					with shares in the DACs they develop.  We expect a Social Consensus to form in the marketplace about
+					what constitutes honorable developer behavior. ProtoShares and AngelShares constitute concrete documentation
+					of what benefits developers received from those who laid the industry foundation.  Shares in individual
+					DACs are concrete way for developers to acknowledge and reciprocate those benefits.  How the market
+					responds to a new DAC will depend upon how well that DAC is perceived to have honored the emerging 
+					Social Consensus.
+				</p>
+				<p style="text-align: justify;">
+					We see a consensus beginning to form around the following principles:  
+					(a) Developers should seek a reasonable balance between equal-opportunity lotteries
+					and ways to compensate those who sacrifice their savings or labor. 
+					(b) The market needs to give developers freedom to raise funds to develop, support
+					and promote their new DACs.  We believe that the following allocation represents 
+					the minimum fair genesis allocation.
+				</p>
+				<ul style="list-style-type: circle;">
+					<li>10% of the crypto-equity should be allocated to holders of ProtoShares.</li>
+					<li>10% of the crypto-equity should be allocated to holders of AngelShares.</li>
+					<li>80% of the crypto-equity should be customized to the needs of each DAC.</li>
+				</ul>
+
+    		</div><!-- /col-lg-4 -->
+    		
+	
+
+    	</div><!-- /row -->
+    </div><!-- /container -->
+
+
+	<! ========== PORTFOLIO SECTION ============================================================================================= 
+	=============================================================================================================================>    
+	<div class="container">
+		<div class="row mt centered ">
+			<div class="col-lg-4 col-lg-offset-4">
+				<h3>Related Works</h3>
+				<hr>
+			</div>
+		</div><!-- /row -->
+		<div class="row mt centered">	
+			<div class="col-lg-3 desc">
+				<a class="zoom blue" href="#"><img class="img-responsive" src="assets/img/portfolio/port01.jpg" alt="" /></a>
+				<p>APE - <i class="fa fa-heart-o"></i></p>
+			</div>
+			<div class="col-lg-3 desc">
+				<a class="zoom blue" href="#"><img class="img-responsive" src="assets/img/portfolio/port02.jpg" alt="" /></a>
+				<p>RAIDERS - <i class="fa fa-heart-o"></i></p>
+			</div>
+			<div class="col-lg-3 desc">
+				<a class="zoom blue" href="#"><img class="img-responsive" src="assets/img/portfolio/port03.jpg" alt="" /></a>
+				<p>VIKINGS - <i class="fa fa-heart-o"></i></p>
+			</div>
+			<div class="col-lg-3 desc">
+				<a class="zoom blue" href="#"><img class="img-responsive" src="assets/img/portfolio/port01.jpg" alt="" /></a>
+				<p>APE - <i class="fa fa-heart-o"></i></p>
+			</div>
+		</div><!-- /row -->
+		<div class="row mt centered">
+			<div class="col-lg-4 col-lg-offset-4">
+    			<button type="button" class="btn btn-yellow btn-lg">CONTACT US NOW</button>
+			</div>
+		</div><!-- /row -->
+	</div><!-- /container -->
 
 	<! ========== Content   	 ================================================================================================ 
 	=============================================================================================================================>    
