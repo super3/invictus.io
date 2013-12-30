@@ -45,11 +45,11 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="#"><b>Invictus</b> Innovations</a>
+      <a class="navbar-brand" href="/"><b>Invictus</b> Innovations</a>
     </div>
     <div class="navbar-collapse collapse">
       <ul class="nav navbar-nav navbar-right">
-        <li class="active"><a href="index.html">Home</a></li>
+        <li class="active"><a href="index.php">Home</a></li>
         <li><a href="dac.php">What is a DAC?</a></li>
 
       <li class="dropdown">
