@@ -1,3 +1,4 @@
+<?php include 'header.php'; ?>
     <!-- Fixed navbar -->
     <div class="navbar navbar-default navbar-fixed-top">
       <div class="container">
@@ -235,3 +236,4 @@
 			</div><!-- /row -->
 		</div><!-- /container -->
 	</div><!-- /grey -->
+<?php include 'footer.php'; ?>
