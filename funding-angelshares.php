@@ -12,49 +12,22 @@
     <div class="container">
 		<div class="row mt centered ">
 			<div class="col-lg-4 col-lg-offset-4">
-				<h3>What are Angelshares?</h3>
+				<h3>AngelShares - Angel Investing in a Blockchain</h3>
 				<hr>
 			</div><!-- /col-lg-4 -->
 		</div><!-- /row -->
     
     	<div class="row mt">
-    		<div class="col-lg-4">
-    			<h4>About</h4>
-    			<p>
-					AngelShares, like ProtoShares, represent a way to gain a stake in the new crypto-equity industry.  
-					ProtoShares acknowledge a contribution to the launch of the new industry, representing a proof of work done in
-					generating public interest. AngelShares acknowledge an equally important financial contribution to the industry
-					infrastructure.
-    			</p>
-    		</div><!-- /col-lg-4 -->
-    		
-    		<div class="col-lg-8">
-    			<h4>Shares in DACs</h4>
-    			<p style="text-align: justify;">								
-					Both ProtoShares and AngelShares rely upon the willingness of developers to honor those contributions 
-					with shares in the DACs they develop.  We expect a Social Consensus to form in the marketplace about
-					what constitutes honorable developer behavior. ProtoShares and AngelShares constitute concrete documentation
-					of what benefits developers received from those who laid the industry foundation.  Shares in individual
-					DACs are concrete way for developers to acknowledge and reciprocate those benefits.  How the market
-					responds to a new DAC will depend upon how well that DAC is perceived to have honored the emerging 
-					Social Consensus.
-				</p>
-				<p style="text-align: justify;">
-					We see a consensus beginning to form around the following principles:  
-					(a) Developers should seek a reasonable balance between equal-opportunity lotteries
-					and ways to compensate those who sacrifice their savings or labor. 
-					(b) The market needs to give developers freedom to raise funds to develop, support
-					and promote their new DACs.  We believe that the following allocation represents 
-					the minimum fair genesis allocation.
-				</p>
-				<ul style="list-style-type: circle;">
-					<li>10% of the crypto-equity should be allocated to holders of ProtoShares.</li>
-					<li>10% of the crypto-equity should be allocated to holders of AngelShares.</li>
-					<li>80% of the crypto-equity should be customized to the needs of each DAC.</li>
-				</ul>
-
-    		</div><!-- /col-lg-4 -->
-    		
+		<div class="col-lg-12">
+		<h3>What are Angelshares?</h3>					
+						<p style="text-align: justify;">								
+							AngelShares, like ProtoShares, represent a way to gain a stake in the new crypto-equity industry.  
+							ProtoShares acknowledge a contribution to the launch of the new industry, representing a proof
+							of work done in generating public interest.  AngelShares acknowledge an equally important financial
+							contribution to the industry infrastructure.
+						</p>
+		</div><!-- /col-lg-4 -->
+		
 	
 
     	</div><!-- /row -->
@@ -66,7 +39,7 @@
 	<div class="container">
 		<div class="row mt centered ">
 			<div class="col-lg-4 col-lg-offset-4">
-				<h3>Related Works</h3>
+				<h3>Charts</h3>
 				<hr>
 			</div>
 		</div><!-- /row -->
@@ -103,14 +76,8 @@
 			<div class="inner-page row">
 			
 				<div class="row">				
-					<div class="col-lg-8">					
-						<h3>What are Angelshares?</h3>					
-							<p style="text-align: justify;">								
-								AngelShares, like ProtoShares, represent a way to gain a stake in the new crypto-equity industry.  
-								ProtoShares acknowledge a contribution to the launch of the new industry, representing a proof of work done in generating public interest.  
-								AngelShares acknowledge an equally important financial contribution to the industry infrastructure.
-							</p>
-							
+					<div class="col-lg-12">					
+										
 						<h3>Shares in DACs</h3>	
 							<p style="text-align: justify;">								
 								Both ProtoShares and AngelShares rely upon the willingness of developers to honor those contributions with shares in the DACs they develop.  We expect a Social Consensus to form in the marketplace about what constitutes honorable developer behavior. ProtoShares and AngelShares constitute concrete documentation of what benefits developers received from those who laid the industry foundation.  Shares in individual DACs are concrete way for developers to acknowledge and reciprocate those benefits.  How the market responds to a new DAC will depend upon how well that DAC is perceived to have honored the emerging Social Consensus.
@@ -148,12 +115,7 @@
 									<li><a href="#">Social Consensus - PDF file of the social contract between Invictus Innovations and investors</a></li>
 								</ul>
 							</p>	
-					</div>
-					<div class="col-lg-4" style="padding-top: 25px;">
-						<div class="headerimgholder">
-							<img src="assets/img/AngelShares.png">
-						</div>
-					</div>					
+					</div>			
 				</div>	
 				<br><br>
 
