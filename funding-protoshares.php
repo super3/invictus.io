@@ -1,18 +1,11 @@
 <?php include 'header.php'; ?>
 	
-	<! ========== BLACK SECTION ================================================================================================= 
+	<! ========== FULL PROJECT WRAP ============================================================================================= 
 	=============================================================================================================================>    
-	<div id="black">
-		<div class="container mts">
-			<div class="row mt centered">
-				<div class="col-lg-8 col-lg-offset-2">
-					<h1>Invictus Innovation Funding: Protoshares</h1>
-					<hr>
-					<h4>Our resources for the development of exciting DACs</h4>
-				</div>
-			</div><!-- /row -->
+	<div id="proto-big">
+		<div class="container">
 		</div><!-- /container -->
-	</div><!-- /black -->
+	</div><!-- /fullproject -->
 
 	<! ========== Content   	 ================================================================================================ 
 	=============================================================================================================================>    
@@ -22,7 +15,7 @@
 			<div class="inner-page row">
 			
 				<div class="row">				
-					<div class="col-lg-8">					
+					<div class="col-lg-12">					
 						<h3>What are ProtoShares?</h3>					
 							<p style="text-align: justify;">								
 								ProtoShares is a class of crypto-currency that let you capture a position in one or more cool new DACs before it
@@ -47,14 +40,10 @@
 								own more or less shares.
 							</p>
 							<p>
-								Visit the Protoshares website: <a href="http://protoshares.com">http://protoshares.com</a>
+								<a class="btn btn-yellow btn-lg" href="http://protoshares.com">Visit Official Website</a>
 							</p>
-					</div>
-					<div class="col-lg-4" style="padding-top: 25px;">
-						<div class="headerimgholder">
-							<img src="assets/img/protoshares-logo.png">
-						</div>
-					</div>					
+								
+					</div>				
 				</div>	
 				<br><br>
 

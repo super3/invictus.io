@@ -557,6 +557,28 @@ p.capitalize:first-letter {
     background-size: cover;
 }
 
+/* Full width project Wrap */
+#angel-big {
+	background: url(../img/proto-big.png) no-repeat center top;
+	margin-top: -20px;
+	padding-top:110px;
+	text-align:center;
+	background-attachment: relative;
+	background-position: center center;
+	min-height: 300px;
+	width: 100%;
+	
+    -webkit-background-size: 100%;
+    -moz-background-size: 100%;
+    -o-background-size: 100%;
+    background-size: 100%;
+
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
 
 #fullproject h1 {
 	color: white;
