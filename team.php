@@ -117,4 +117,5 @@
 		</div><!-- /row -->
 
 	</div><!-- /container -->	
+	</div><!-- /container -->	
 <?php include 'footer.php'; ?>
