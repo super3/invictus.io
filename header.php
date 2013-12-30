@@ -55,9 +55,9 @@
       <li class="dropdown">
           <a href="#" class="dropdown-toggle" data-toggle="dropdown">Funding <i class="fa fa-angle-down"></i></a>
           <ul class="dropdown-menu">
-            <li><a href="#">Overview</a></li>
-            <li><a href="#">ProtoShares (PTS)</a></li>
-            <li><a href="#">AngelShares (AGS)</a></li>
+            <li><a href="funding-overview.php">Overview</a></li>
+            <li><a href="funding-protoshares.php">ProtoShares (PTS)</a></li>
+            <li><a href="funding-overview.php">AngelShares (AGS)</a></li>
           </ul>
       </li>
 
