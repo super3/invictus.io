@@ -34,13 +34,13 @@
 			</p>
 			<p>
 				Those who donate bitcoins to this Angel Address will proportionally split 5000 AngelShares
-				(<a href="https://coinplorer.com/PTS/Addresses/PaNGELmZgzRQCKeEKM6ifgTqNkC4ceiAWw">(See Block Explorer)</a>:
+				<a href="https://coinplorer.com/PTS/Addresses/PaNGELmZgzRQCKeEKM6ifgTqNkC4ceiAWw">(See Block Explorer)</a>:
 
 			</p>
 				<pre>1ANGELwQwWxMmbdaSWhWLqBEtPTkWb8uDc</pre>
 			<p>
 				Those who donate ProtoShares to this Angel Address will proportionally split 5000 AngelShares
-				(<a href="https://coinplorer.com/PTS/Addresses/PaNGELmZgzRQCKeEKM6ifgTqNkC4ceiAWw">(See Block Explorer)</a>:
+				<a href="https://coinplorer.com/PTS/Addresses/PaNGELmZgzRQCKeEKM6ifgTqNkC4ceiAWw">(See Block Explorer)</a>:
 			</p>
 				<pre>PaNGELmZgzRQCKeEKM6ifgTqNkC4ceiAWw</pre>
 			<p>
@@ -58,16 +58,29 @@
 
 	<! ========== PORTFOLIO SECTION ============================================================================================= 
 	=============================================================================================================================>    
-	<div class="container">
+	<div class="container" style="margin-top:0px;">
 		<div class="row mt centered ">
 			<div class="col-lg-4 col-lg-offset-4">
 				<h3>Charts</h3>
 				<hr>
 			</div>
 		</div><!-- /row -->
-		<div class="row mt centered">
-			<div class="col-lg-4 col-lg-offset-4">
-    			<button type="button" class="btn btn-yellow btn-lg">Add some content</button>
+		<div class="row mt centered">	
+			<div class="col-lg-3 desc">
+				<a class="zoom blue" href="#"><img class="img-responsive" src="assets/img/portfolio/port01.jpg" alt="" /></a>
+				<p>APE - <i class="fa fa-heart-o"></i></p>
+			</div>
+			<div class="col-lg-3 desc">
+				<a class="zoom blue" href="#"><img class="img-responsive" src="assets/img/portfolio/port02.jpg" alt="" /></a>
+				<p>RAIDERS - <i class="fa fa-heart-o"></i></p>
+			</div>
+			<div class="col-lg-3 desc">
+				<a class="zoom blue" href="#"><img class="img-responsive" src="assets/img/portfolio/port03.jpg" alt="" /></a>
+				<p>VIKINGS - <i class="fa fa-heart-o"></i></p>
+			</div>
+			<div class="col-lg-3 desc">
+				<a class="zoom blue" href="#"><img class="img-responsive" src="assets/img/portfolio/port01.jpg" alt="" /></a>
+				<p>APE - <i class="fa fa-heart-o"></i></p>
 			</div>
 		</div><!-- /row -->
 	</div><!-- /container -->
