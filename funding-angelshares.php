@@ -9,7 +9,7 @@
 
 	<! ========== FEATURED WORDS ================================================================================================ 
 	=============================================================================================================================>    
-    <div class="container">
+    <div class="container" style="margin-bottom: 0px;">
 		<div class="row mt centered ">
 			<div class="col-lg-8 col-lg-offset-2">
 				<h3>AngelShares - Angel Investing in a Blockchain</h3>
