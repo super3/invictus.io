@@ -35,3 +35,49 @@
   </head>
 
   <body>
+
+<!-- Fixed navbar -->
+<div class="navbar navbar-default navbar-fixed-top">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="#"><b>Invictus</b> Innovations</a>
+    </div>
+    <div class="navbar-collapse collapse">
+      <ul class="nav navbar-nav navbar-right">
+        <li class="active"><a href="index.html">Home</a></li>
+        <li><a href="dac.php">What is a DAC?</a></li>
+
+      <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown">Funding <i class="fa fa-angle-down"></i></a>
+          <ul class="dropdown-menu">
+            <li><a href="#">Overview</a></li>
+            <li><a href="#">ProtoShares (PTS)</a></li>
+            <li><a href="#">AngelShares (AGS)</a></li>
+          </ul>
+      </li>
+
+      <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown">Coins, Software, and DACs<i class="fa fa-angle-down"></i></a>
+          <ul class="dropdown-menu">
+            <li><a href="#" style="color: grey; text-decoration:underline;">Coins</a></li>
+            <li><a href="#">Memorycoin 2.0</a></li>
+            <li><a href="#" style="color: grey; text-decoration:underline;">Software</a></li>
+            <li><a href="#">Keyhotee</a></li>
+            <li><a href="#" style="color: grey; text-decoration:underline;">DACs</a></li>
+            <li><a href="#">Bitshares</a></li>
+          </ul>
+      </li>
+
+      <li><a href="https://bitsharestalk.org/">Community</a></li>
+      <li><a href="#"><img src="assets/img/us.png" alt="US Flag"/></a></li>
+      <li><a href="http://www.invictus-innovations.cn/ZH/"><img src="assets/img/cn.png" alt="US Flag"/></a></li>
+    
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div>
+</div>
