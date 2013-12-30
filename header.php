@@ -57,7 +57,7 @@
           <ul class="dropdown-menu">
             <li><a href="funding-overview.php">Overview</a></li>
             <li><a href="funding-protoshares.php">ProtoShares (PTS)</a></li>
-            <li><a href="funding-overview.php">AngelShares (AGS)</a></li>
+            <li><a href="funding-angelshares.php">AngelShares (AGS)</a></li>
           </ul>
       </li>
 
@@ -65,11 +65,11 @@
           <a href="#" class="dropdown-toggle" data-toggle="dropdown">Coins, Software, and DACs<i class="fa fa-angle-down"></i></a>
           <ul class="dropdown-menu">
             <li><a href="#" style="color: grey; text-decoration:underline;">Coins</a></li>
-            <li><a href="#">Memorycoin 2.0</a></li>
+            <li><a href="memory-coin.php">Memorycoin 2.0</a></li>
             <li><a href="#" style="color: grey; text-decoration:underline;">Software</a></li>
-            <li><a href="#">Keyhotee</a></li>
+            <li><a href="keyhotee.php">Keyhotee</a></li>
             <li><a href="#" style="color: grey; text-decoration:underline;">DACs</a></li>
-            <li><a href="#">Bitshares</a></li>
+            <li><a href="bitshares.php">Bitshares</a></li>
           </ul>
       </li>
 
