@@ -23,7 +23,7 @@
 			
 				<div class="row">				
 					<div class="col-lg-8">					
-						<div class="alert alert-warning" style="padding-top: 10px;">
+						<div class="alert alert-warning" style="margin-top: 30px;">
 							MemoryCoin 2.0 is a 3rd party cryptocurrency that honors Protoshares. 
 							This coin is not officially endorsed by Invictus or the community. 
 						</div>
