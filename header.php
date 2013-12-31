@@ -64,7 +64,7 @@
       <li class="dropdown">
           <a href="#" class="dropdown-toggle" data-toggle="dropdown">Coins, Software, and DACs<i class="fa fa-angle-down"></i></a>
           <ul class="dropdown-menu">
-            <li><a href="#" style="color: grey; text-decoration:underline;">Coins</a></li>
+            <li><a href="#" style="color: grey; text-decoration:underline;">3rd Party Coins</a></li>
             <li><a href="memory-coin.php">Memorycoin 2.0</a></li>
             <li><a href="#" style="color: grey; text-decoration:underline;">Software</a></li>
             <li><a href="keyhotee.php">Keyhotee</a></li>

@@ -23,6 +23,10 @@
 			
 				<div class="row">				
 					<div class="col-lg-8">					
+						<div class="alert alert-warning">
+							MemoryCoin 2.0 is a 3rd party cryptocurrency that honors Protoshares. 
+							This coin is not officially endorsed by Invictus or the community. 
+						</div>
 						<h3>What is MemoryCoin?</h3>					
 							<p style="text-align: justify;">
 							Memorycoin (MMC) is a cryptocurrency that uses a special Proof Of Work mechanism to prevent GPU/ASIC mining. The coin uses a small SHA512 component, like Bitcoin, 

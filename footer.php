@@ -28,11 +28,11 @@
 				<div class="col-lg-3">
 					<h4>Exchanges</h4>
 					<p>
-						<i class="https://bter.com/trade/pts_btc"></i>Bter - PTS/BTC<br/>
-						<i class="https://bter.com/trade/pts_cny"></i>Bter - PTS/CNY<br/>
-						<i class="fa fa-angle-right"></i> A full width post<br/>
-						<i class="fa fa-angle-right"></i> We talk about something nice<br/>
-						<i class="fa fa-angle-right"></i> Yet another single post<br/>
+						<i class="fa fa-angle-right"><a href="https://bter.com/trade/pts_cny">Bter - PTS/CNY</a><br/>
+						<i class="fa fa-angle-right"><a href="https://bter.com/trade/pts_btc">Bter - PTS/BTC</a><br/>
+						<i class="fa fa-angle-right"></i><a href="https://www.cryptsy.com/markets/view/119">Cryptsy - PTS/BTC</a><br/>
+						<i class="fa fa-angle-right"></i><a href="http://www.btc38.com/trade.html?btc38_trade_coin_name=pts">BTC38 - PTS/CNY</a><br/>
+						<i class="fa fa-angle-right"></i><a href="https://peatio.com/">Peatio</a><br/>
 					</p>
 				</div><!-- /col-lg-3 -->
 				
@@ -40,23 +40,19 @@
 				<div class="col-lg-3">
 					<h4>Mining</h4>
 					<p>
-						<i class="fa fa-angle-right"></i> A post with an image<br/>
-						<i class="fa fa-angle-right"></i> Other post with a video<br/>
-						<i class="fa fa-angle-right"></i> A full width post<br/>
-						<i class="fa fa-angle-right"></i> We talk about something nice<br/>
-						<i class="fa fa-angle-right"></i> Yet another single post<br/>
+						<i class="fa fa-angle-right"><a href="http://pts.rpool.net">http://pts.rpool.net</a> -  3% fee, payout per share of last round
+						<i class="fa fa-angle-right"><a href="http://ptspool.com/">http://ptspool.com/</a> -  4% fee,  Pay Per Share 
+						<i class="fa fa-angle-right"><a href="http://ypool.net">http://ypool.net</a> -  6% fee, multicoin pool,  Pay Per Share
+						<i class="fa fa-angle-right"><a href="https://bitsharestalk.org/index.php?topic=236.0">Bytemaster</a> - Pay Per Share
 					</p>
 				</div><!-- /col-lg-3 -->
 				
 				<!-- LATEST POSTS -->
 				<div class="col-lg-3">
-					<h4>Services</h4>
+					<h4>Info</h4>
 					<p>
-						<i class="fa fa-angle-right"></i> A post with an image<br/>
-						<i class="fa fa-angle-right"></i> Other post with a video<br/>
-						<i class="fa fa-angle-right"></i> A full width post<br/>
-						<i class="fa fa-angle-right"></i> We talk about something nice<br/>
-						<i class="fa fa-angle-right"></i> Yet another single post<br/>
+						<i class="fa fa-angle-right"><a href="https://bitsharestalk.org/index.php?topic=1631.0">Announcing Angel Shares &amp; BitShares Allocation</a><br/>
+					 <i class="fa fa-angle-right"><a href="http://bitsharestalk.org/donate.html">Donate to BitShares Forum</a><br/>
 					</p>
 				</div><!-- /col-lg-3 -->
 				

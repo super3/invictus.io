@@ -36,7 +36,8 @@
     		<div class="col-lg-4 centered">
     			<i class="fa fa-user"></i>
     			<h4>Full-Time Devs and Backing</h4>
-    			<p>Anyone can develop a <a href="#">DAC</a>, but base development is done by us. We are a software company with over $2M in funding and capital.</p>
+    			<p>We are software company with 10+ full time employees. We are backed by a 2,000+ member community and
+    			   <a href="https://bitsharestalk.org/index.php?board=38.0">ample funding</a>. </p>
     		</div>    	
 
     	
