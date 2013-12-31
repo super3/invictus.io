@@ -48,7 +48,7 @@
 								
 					</div>				
 
-					<div class="row mt centered ">
+					<div class="row">
 						<div class="col-lg-4">
 							<h3>Current Prices</h3>
 							<hr>
