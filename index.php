@@ -64,7 +64,8 @@
 			<div class="col-lg-6 col-lg-offset-3">
 				<h3>Funding Models</h3>
 				<hr>
-				Invictus uses a dual-funding models to raise capital for development.</a> 
+				Invictus uses a two-pronged decentralized funding model. This provides equal opportunity for
+				miners, traders, and investors.</a> 
 				<hr>
 			</div>
 		</div><!-- /row -->
@@ -155,9 +156,11 @@
     	<div class="container">
     		<div class="row">
     			<div class="col-lg-8 col-lg-offset-2">
-    				<h2>Invictus Innovations consists of a global development team, and thousands 
-    					of community members to make this all possible.</h2>
+    				<h2>Invictus engineers market forces to produce outcomes without the
+    				   need for contracts or violence.</h2>
     				<a class="btn btn-cta btn-lg" href="team.php">Our Team</a>
+    				<a class="btn btn-cta btn-lg" href="https://bitsharestalk.org/">Our Community</a>
+
     			</div>
     		</div><!-- /row -->
     	</div><!-- /container -->

@@ -55,36 +55,6 @@
     	</div><!-- /row -->
     </div><!-- /container -->
 
-
-	<! ========== PORTFOLIO SECTION ============================================================================================= 
-	=============================================================================================================================>    
-	<div class="container" style="margin-top:0px;">
-		<div class="row mt centered ">
-			<div class="col-lg-4 col-lg-offset-4">
-				<h3>Charts</h3>
-				<hr>
-			</div>
-		</div><!-- /row -->
-		<div class="row mt centered">	
-			<div class="col-lg-3 desc">
-				<a class="zoom blue" href="#"><img class="img-responsive" src="assets/img/portfolio/port01.jpg" alt="" /></a>
-				<p>APE - <i class="fa fa-heart-o"></i></p>
-			</div>
-			<div class="col-lg-3 desc">
-				<a class="zoom blue" href="#"><img class="img-responsive" src="assets/img/portfolio/port02.jpg" alt="" /></a>
-				<p>RAIDERS - <i class="fa fa-heart-o"></i></p>
-			</div>
-			<div class="col-lg-3 desc">
-				<a class="zoom blue" href="#"><img class="img-responsive" src="assets/img/portfolio/port03.jpg" alt="" /></a>
-				<p>VIKINGS - <i class="fa fa-heart-o"></i></p>
-			</div>
-			<div class="col-lg-3 desc">
-				<a class="zoom blue" href="#"><img class="img-responsive" src="assets/img/portfolio/port01.jpg" alt="" /></a>
-				<p>APE - <i class="fa fa-heart-o"></i></p>
-			</div>
-		</div><!-- /row -->
-	</div><!-- /container -->
-
 	<! ========== Content   	 ================================================================================================ 
 	=============================================================================================================================>    
 

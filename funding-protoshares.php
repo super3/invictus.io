@@ -18,7 +18,7 @@
 			<div class="inner-page row">
 			
 				<div class="row">				
-					<div class="col-lg-8">					
+					<div class="col-lg-7">					
 						<h3>What are ProtoShares?</h3>					
 							<p style="text-align: justify;">								
 								ProtoShares is a class of crypto-currency that let you capture a position in one or more cool new DACs before it
@@ -49,7 +49,7 @@
 					</div>				
 
 					<div class="row">
-						<div class="col-lg-4">
+						<div class="col-lg-5">
 							<h3>Current Prices</h3>
 							<hr>
 

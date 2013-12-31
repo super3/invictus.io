@@ -22,18 +22,14 @@
 						2020 Kraft Dr., Suite 3030<br/>
 						 Blacksburg, VA 24060, USA<br/>
 					</p>
-					<p>
-						<i class="fa fa-mobile"></i> +55 4893.8943<br/>
-						<i class="fa fa-envelope-o"></i> hello@yourdomain.com
-					</p>
 				</div><! --/col-lg-3 -->
 				
 				<!-- LATEST POSTS -->
 				<div class="col-lg-3">
 					<h4>Exchanges</h4>
 					<p>
-						<i class="fa fa-angle-right"></i> A post with an image<br/>
-						<i class="fa fa-angle-right"></i> Other post with a video<br/>
+						<i class="https://bter.com/trade/pts_btc"></i>Bter - PTS/BTC<br/>
+						<i class="https://bter.com/trade/pts_cny"></i>Bter - PTS/CNY<br/>
 						<i class="fa fa-angle-right"></i> A full width post<br/>
 						<i class="fa fa-angle-right"></i> We talk about something nice<br/>
 						<i class="fa fa-angle-right"></i> Yet another single post<br/>
