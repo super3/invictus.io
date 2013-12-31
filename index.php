@@ -166,33 +166,4 @@
     		</div><!-- /row -->
     	</div><!-- /container -->
     </div><! --/cta02 -->
-
-	<! ========== BRANDS & CLIENTS =============================================================================================== 
-	=============================================================================================================================>    
-	<div id="grey">
-		<div class="container">
-			<div class="row mt centered ">
-				<div class="col-lg-4 col-lg-offset-4">
-					<h3>Latest News</h3>
-					<hr>
-				</div><!-- /col-lg-4 -->
-			</div><!-- /row -->
-			
-			<div class="row centered">
-				<div class="col-lg-3 pt">
-					<img class="img-responsive" src="assets/img/clients/client01.png" alt="">
-				</div>
-				<div class="col-lg-3 pt">
-					<img class="img-responsive" src="assets/img/clients/client02.png" alt="">
-				</div>
-				<div class="col-lg-3 pt">
-					<img class="img-responsive" src="assets/img/clients/client03.png" alt="">
-				</div>
-				<div class="col-lg-3 pt">
-					<img class="img-responsive" src="assets/img/clients/client04.png" alt="">
-				</div>
-
-			</div><!-- /row -->
-		</div><!-- /container -->
-	</div><!-- /grey -->
 <?php include 'footer.php'; ?>
