@@ -18,5 +18,10 @@ elseif ($_REQUEST['exchange'] == 'Peatio')
 {
 
 }
+elseif ($_REQUEST['exchange'] == 'MtGox')
+{
+	$api_val = file_get_contents('http://data.mtgox.com/api/2/BTCUSD/money/ticker');	
+	echo $api_val;	
+}
 
 ?>

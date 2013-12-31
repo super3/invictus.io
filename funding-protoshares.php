@@ -63,20 +63,23 @@
 							</ul>
 							<table class="table table-bordered">
 								<tr>
-									<th>Price (PTS/BTC)</th>
-									<th>High (PTS/BTC)</th>
-									<th>Low (PTS/BTC)</th>
+									<th>Price (USD)*</th>
+									<th>Price (BTC/PTS)</th>
+									<th>High (BTC/PTS)</th>
+									<th>Low (BTC/PTS)</th>
 									<th>Volume</th>
 								</tr>
 								<tr>
+									<td id="price-usd">0</td>
 									<td id="price-val">0</td>
 									<td id="high-val">0</td>
 									<td id="low-val">0</td>
 									<td id="vol-val">0</td>						
 								</tr>
 							</table>
+							<small>* USD is calculated from MtGox BTC price and Exchange PTS price.</small>
 
-							<h3>Price Trend (PTS/BTC)</h3>
+							<h3>Price Trend (BTC/PTS)</h3>
 							<hr>
 
 							<div>

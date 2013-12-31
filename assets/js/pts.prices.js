@@ -87,20 +87,32 @@ function updatePrices(){
 
 	var exchange = getCurrentExchange();
 
-	$.getJSON( "getprice.php?exchange=" + exchange, function( data ) {
+	$.getJSON( "getprice.php?exchange=MtGox", function( gox_data ) {
+		$.getJSON( "getprice.php?exchange=" + exchange, function( data ) {
 
-		if(exchange === "Bter"){
-			$("#price-val").empty().append(data.last);	
-			$("#high-val").empty().append(data.high);	
-			$("#low-val").empty().append(data.low);	
-			$("#vol-val").empty().append(data.vol_pts);	
-		}
-		else if (exchange === "Cryptsy"){
-			$("#price-val").empty().append(parseFloat(data.return.markets.PTS.lasttradeprice).toFixed(4));	
-			$("#high-val").empty().append(parseFloat(getCryptsyHigh(data)).toFixed(4));	
-			$("#low-val").empty().append(parseFloat(getCryptsyLow(data)).toFixed(4));	
-			$("#vol-val").empty().append(parseFloat(data.return.markets.PTS.volume).toFixed(4));				
-		}
+			if(exchange === "Bter"){
+
+				// Calculate the USD value based on MtGox last price and exchange BTC/PTS last price = (USD/BTC) / (BTC/PTS) 
+				var usd = (parseFloat(gox_data.data.last.value) * parseFloat(data.last)).toFixed(2);
+
+				$("#price-usd").empty().append("$" + usd);	
+				$("#price-val").empty().append(data.last);	
+				$("#high-val").empty().append(data.high);	
+				$("#low-val").empty().append(data.low);	
+				$("#vol-val").empty().append(data.vol_pts);	
+			}
+			else if (exchange === "Cryptsy"){
+				
+				// Calculate the USD value based on MtGox last price and exchange BTC/PTS last price = (USD/BTC) / (BTC/PTS) 
+				var usd = (parseFloat(gox_data.data.last.value) * parseFloat(data.return.markets.PTS.lasttradeprice)).toFixed(2);
+
+				$("#price-usd").empty().append("$" + usd);	
+				$("#price-val").empty().append(parseFloat(data.return.markets.PTS.lasttradeprice).toFixed(4));	
+				$("#high-val").empty().append(parseFloat(getCryptsyHigh(data)).toFixed(4));	
+				$("#low-val").empty().append(parseFloat(getCryptsyLow(data)).toFixed(4));	
+				$("#vol-val").empty().append(parseFloat(data.return.markets.PTS.volume).toFixed(4));				
+			}
+		});
 	});
 }
 
