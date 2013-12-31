@@ -135,13 +135,17 @@
 						
 						<div class="tab-pane" id="tab2">
 							<div class="tab-mod">
+								<a href="keyhotee.php">
 								<img class="img-responsive" src="assets/img/browser-02.png" alt="">
+								</a>
 							</div><!-- /tab-mod -->
 						</div><! --/tab1 -->
 
 						<div class="tab-pane" id="tab3">
 							<div class="tab-mod">
+								<a href="bitshares.php">
 								<img class="img-responsive" src="assets/img/browser-03.png" alt="">
+								</a>
 							</div><!-- /tab-mod -->
 						</div><! --/tab1 -->
 					</div><! --/Tab-content
