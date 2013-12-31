@@ -1,4 +1,7 @@
 <?php include 'header.php'; ?>
+
+<?php echo "<script src=\"assets/js/chart.js\"></script>
+    <script src=\"assets/js/pts.prices.js\"></script>"; ?>
 	
 	<! ========== FULL PROJECT WRAP ============================================================================================= 
 	=============================================================================================================================>    
@@ -15,7 +18,7 @@
 			<div class="inner-page row">
 			
 				<div class="row">				
-					<div class="col-lg-12">					
+					<div class="col-lg-8">					
 						<h3>What are ProtoShares?</h3>					
 							<p style="text-align: justify;">								
 								ProtoShares is a class of crypto-currency that let you capture a position in one or more cool new DACs before it
@@ -44,8 +47,45 @@
 							</p>
 								
 					</div>				
+
+					<div class="row mt centered ">
+						<div class="col-lg-4">
+							<h3>Current Prices</h3>
+							<hr>
+
+							<ul id="exchange_list" class="nav nav-pills">
+							  <li class="active"><a href="#">Bter</a></li>
+							  <li ><a href="#">Cryptsy</a></li>
+							  <!-- Unsupported exchanges right now
+							  <li class="disabled" ><a href="#">Btc38</a></li>
+							  <li class="disabled" ><a href="#">Peatio</a></li>
+							  -->
+							</ul>
+							<table class="table table-bordered">
+								<tr>
+									<th>Price (PTS/BTC)</th>
+									<th>High (PTS/BTC)</th>
+									<th>Low (PTS/BTC)</th>
+									<th>Volume</th>
+								</tr>
+								<tr>
+									<td id="price-val">0</td>
+									<td id="high-val">0</td>
+									<td id="low-val">0</td>
+									<td id="vol-val">0</td>						
+								</tr>
+							</table>
+
+							<h3>Price Trend (PTS/BTC)</h3>
+							<hr>
+
+							<div>
+								<canvas id="ptsChart" width="400" height="200"></canvas>
+							</div>
+						</div>
+
+					</div>		
 				</div>	
-				<br><br>
 
 			</div> 		
  	
