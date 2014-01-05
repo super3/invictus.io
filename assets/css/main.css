@@ -537,7 +537,7 @@ p.capitalize:first-letter {
 
 /* Full width project Wrap */
 #angel-big {
-	background: url(../img/bitshare-big.png) no-repeat center top;
+	background: url(../img/angel-big.png) no-repeat center top;
 	margin-top: -20px;
 	padding-top:110px;
 	text-align:center;
@@ -559,7 +559,7 @@ p.capitalize:first-letter {
 
 /* Full width project Wrap */
 #bitshare-big {
-	background: url(../img/angel-big.png) no-repeat center top;
+	background: url(../img/bitshare-big.png) no-repeat center top;
 	margin-top: -20px;
 	padding-top:110px;
 	text-align:center;
