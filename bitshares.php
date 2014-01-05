@@ -2,17 +2,10 @@
 
 	<! ========== BLACK SECTION ================================================================================================= 
 	=============================================================================================================================>    
-	<div id="black">
-		<div class="container mts">
-			<div class="row mt centered">
-				<div class="col-lg-8 col-lg-offset-2">
-					<h1>Bitshares</h1>
-					<hr>
-					<h4>A work-in-progress revolutionary DAC</h4>
-				</div>
-			</div><!-- /row -->
+	<div id="bitshare-big">
+		<div class="container">
 		</div><!-- /container -->
-	</div><!-- /black -->
+	</div><!-- /fullproject -->
 
 	<! ========== Content   	 ================================================================================================ 
 	=============================================================================================================================>    
@@ -22,7 +15,7 @@
 			<div class="inner-page row">
 			
 				<div class="row">				
-					<div class="col-lg-8">					
+					<div class="col-lg-12">					
 						<h3>What are Bitshares?</h3>					
 							<p style="text-align: justify;">								
 								BitShares is a revolutionary new bank and exchange that could rival the value of the largest banks in the world such as JP Morgan and Bank of America in just a few years. How could this new upstart grow so quickly? BitShares offers a bank account that earns 5% interest where funds can be transferred in minutes anywhere in the world with more privacy and security than a Swiss bank account.  Your account can never be frozen, your funds cannot be seized, and the bank can never face collapse due to loan defaults or fraud.  All of this is made possible without requiring any employees, lawyers, regulatory compliance, vaults, buildings, and other infrastructure required by traditional banks.  
@@ -45,12 +38,7 @@
 									<li><a href="https://www.youtube.com/watch?v=5BV55IrZi7g&html5=1&hd=1">Bitshares Introductory Video</a></li>
 								</ul>
 							</p>	
-					</div>
-					<div class="col-lg-4" style="padding-top: 20px;">
-						<div class="headerimgholder">
-							<img src="assets/img/Bitshares.png">
-						</div>
-					</div>					
+					</div>				
 				</div>	
 				<br><br>
 
