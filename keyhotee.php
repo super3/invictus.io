@@ -2,17 +2,16 @@
 	
 	<! ========== BLACK SECTION ================================================================================================= 
 	=============================================================================================================================>    
-	<div id="black">
-		<div class="container mts">
-			<div class="row mt centered">
-				<div class="col-lg-8 col-lg-offset-2">
-					<h1>Keyhotee</h1>
-					<hr>
-					<h4>Guardian of your privacy</h4>
+    <div id="headerwrap">
+    	<div class="container">
+			<div class="row">
+				<div class="col-lg-8 col-lg-offset-2 centered">
+					<h1 class="slideUp">Identity. Email. Checkbook.</h1>
+					<img class="img-responsive" src="assets/img/browser.png" alt="">
 				</div>
 			</div><!-- /row -->
-		</div><!-- /container -->
-	</div><!-- /black -->
+    	</div><!-- /container -->
+    </div> <!-- /headerwrap -->
 
 	<! ========== Content   	 ================================================================================================ 
 	=============================================================================================================================>    
@@ -26,7 +25,7 @@
 						<h3>What is Keyhotee?</h3>					
 							<p style="text-align: justify;">
 								Keyhotee is a platform for taking back control of your digital life.  Phonetically named after the heroic <a target="_blank" href="http://en.wikipedia.org/wiki/Don_Quixote">Don Quixote de la Mancha</a>, Keyhotee invokes the unconquerable spirit 
-								of a once and future era.  A spirit of chivalry, integrity and ability to trust ... tilting the windmills of our day without question or pause.
+								of a once and future era.
 							</p>
 							
 						<h3>Keyhotee is the guardian of your privacy</h3>	
@@ -61,10 +60,10 @@
 							<p style="text-align: justify;">
 							 Just as with email, Keyhotee lets you chat with your associates by their Keyhotee ID in real-time -- with no one recording or listening in.  
 							 Every word is encrypted and you don't even have to think about it.  
-							</p>		
-						
-				
-												
+							</p>
+								
+					</div>
+					<div class="col-lg-4" style="padding-top: 20px;">
 						<h3>Resources</h3>	
 							<p>	
 								<ul style="list-style-type: circle;">
@@ -72,10 +71,6 @@
 									<li><a href="https://bitsharestalk.org/index.php?board=2.0">Keyhotee discussion board - Bitsharetalk.org forum</a></li>									
 								</ul>
 							</p>	
-							
-						<img src="assets/img/KeyhoteeWallet.png">
-					</div>
-					<div class="col-lg-4" style="padding-top: 20px;">
 						<div class="headerimgholder">
 							<img src="assets/img/Keyhotee Scale.png">
 						</div>
