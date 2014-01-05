@@ -27,7 +27,7 @@
 		</div><!-- /row -->
 		<div class="row mt centered">	
 			<div class="col-lg-4 desc">
-				<a class="zoom blue" href="#"><img class="img-responsive" src="assets/img/bitcoin.png" alt="" /></a>
+				<a class="zoom blue" href="#"><img class="img-responsive" src="assets/img/team/Daniel Larimer - Bio Card.png" alt="" /></a>
 				<p>	Daniel Larimer <br>CEO America, CTO, Founder, Chairman </p>
 				<p style="text-align: justify;">
 					Daniel Larimer is a Virginia based entrepreneur and software engineer with a passion to find free market solutions to secure life, liberty and property for all. 
