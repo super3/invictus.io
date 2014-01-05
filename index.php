@@ -6,7 +6,7 @@
     	<div class="container">
 			<div class="row">
 				<div class="col-lg-8 col-lg-offset-2 centered">
-					<h1 class="slideUp">Decentralized Solutions.</h1>
+					<h1 class="slideUp">Identity. Email. Checkbook. <b>Keyhotee.</b></h1>
 					<img class="img-responsive" src="assets/img/browser.png" alt="">
 				</div>
 			</div><!-- /row -->
