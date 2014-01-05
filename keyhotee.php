@@ -66,8 +66,9 @@
 					<div class="col-lg-4" style="padding-top: 20px;">
 						<h3>Downloads</h3>	
 							<p>	
-								Note Keyhotee is now in alpha testing. There may be unstability and many bugs.
-								<a class="btn btn-yellow btn-lg" href="bin/keyhotee_0.5.0.zip">Download Keyhotee 0.5(Windows) - Alpha</a>
+								Note: Keyhotee is now in alpha testing. There may be unstability and many bugs. 
+								Please <a href="https://bitsharestalk.org/index.php?board=2.0">report</a> any problems you have.
+								<a class="btn btn-yellow btn-lg" href="bin/keyhotee_0.5.0.zip">Download Keyhotee 0.5 (Windows)</a>
 							</p>	
 						<h3>Resources</h3>	
 							<p>	
