@@ -54,8 +54,6 @@
 					his own chain of private schools in Beijing,Shanghai,Shenzhen and Nanjing. He supports bitcointalk.org as a VIP member and as a lifetime member of the Bitcoin Foundation. 
 				</p>-->
 			</div>
-		</div><!-- /row -->
-		<div class="row mt centered">	
 			<div class="col-lg-6 desc">
 				<a class="zoom blue" href="#"><img class="img-responsive" src="assets/img/team/Stan Larimer - Bio Card.png" alt="" /></a>
 				<!--<p>	Stan Larimer<br>President, Chief Operating Officer  </p>
