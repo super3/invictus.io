@@ -26,9 +26,9 @@
 								perception pillars. These pillars are the market’s assessment of:
 							</p>
 							<ul style="list-style-type: circle;">
-								<li>• The speculative value of a future DAC share.</li>
-								<li>• The probability that the DAC can and will be successfully fielded.</li>
-								<li>• Confidence that the ProtoShares map to an equitable share in the implementation.</li>
+								<li>The speculative value of a future DAC share.</li>
+								<li>The probability that the DAC can and will be successfully fielded.</li>
+								<li>Confidence that the ProtoShares map to an equitable share in the implementation.</li>
 							</ul> <br>
 							<p style="text-align: justify;">
 								Developers use ProtoShares to raise capital with which to implement a new idea. They are a new
