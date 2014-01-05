@@ -26,26 +26,26 @@
 			</div>
 		</div><!-- /row -->
 		<div class="row mt centered">	
-			<div class="col-lg-4 desc">
+			<div class="col-lg-6 desc">
 				<a class="zoom blue" href="#"><img class="img-responsive" src="assets/img/team/Daniel Larimer - Bio Card.png" alt="" /></a>
-				<p>	Daniel Larimer <br>CEO America, CTO, Founder, Chairman </p>
+				<!--<p>	Daniel Larimer <br>CEO America, CTO, Founder, Chairman </p>
 				<p style="text-align: justify;">
 					Daniel Larimer is a Virginia based entrepreneur and software engineer with a passion to find free market solutions to secure life, liberty and property for all. 
 					In addition to software development, Daniel is a self-taught expert in Austrian economics. He has recently co-founded Invictus Innovations Incorporated with the mission of 
 					developing decentralized solutions to centralized problems where he serves as the CTO and is the chief architect of the BitShares peer-to-peer trust-less, 
-					black-chain-based,financial system. 
+					black-chain-based,financial system. -->
 				</p>
 			</div>
-			<div class="col-lg-4 desc">
-				<a class="zoom blue" href="#"><img class="img-responsive" src="assets/img/bitcoin.png" alt="" /></a>
+			<div class="col-lg-6 desc">
+				<a class="zoom blue" href="#"><img class="img-responsive" src="assets/img/team/Bo Shen - Bio Card.png" alt="" /></a>
 				<p>	Bo Shen<br>Director, CEO China </p>
 				<p style="text-align: justify;">
 					Bo Shen is an evangelist, entrepreneur and inverter in math based ecosystem. As a veteran of the financial and Internet industries, Bo Shen has been actively involved in Bitcoin, Ripple and BitShares. 
 					He is currently the one of three founding members of the Bitcoin Foundation's China Chapter, the Director of MyBitfund, Invictus Innovations and RippleChina.  
 				</p>
 			</div>
-			<div class="col-lg-4 desc">
-				<a class="zoom blue" href="#"><img class="img-responsive" src="assets/img/bitcoin.png" alt="" /></a>
+			<div class="col-lg-6 desc">
+				<a class="zoom blue" href="#"><img class="img-responsive" src="assets/img/team/Li Xiaolai - Bio Card.png" alt="" /></a>
 				<p>	Li Xiaolai<br>Director </p>
 				<p style="text-align: justify;">
 					Li Xiaolai is an entrepreneur, author, social innovator and educator based in Beijing. Author of the best-selling book Befriending Time.
@@ -56,8 +56,8 @@
 			</div>
 		</div><!-- /row -->
 		<div class="row mt centered">	
-			<div class="col-lg-4 desc">
-				<a class="zoom blue" href="#"><img class="img-responsive" src="assets/img/bitcoin.png" alt="" /></a>
+			<div class="col-lg-6 desc">
+				<a class="zoom blue" href="#"><img class="img-responsive" src="assets/img/team/Stan Larimer - Bio Card.png" alt="" /></a>
 				<p>	Stan Larimer<br>President, Chief Operating Officer  </p>
 				<p style="text-align: justify;">
 					Stan Larimer is a senior program manager and systems/hardware/ software engineer with 37 years experience with unmanned systems in the aerospace and internet industries. 
@@ -65,8 +65,8 @@
 					the Air Force Wright Patterson Labs and many of the top companies in the American aerospace industry, He also taught rocket science at the U.S.Air Force Academy.  
 				</p>
 			</div>
-			<div class="col-lg-4 desc">
-				<a class="zoom blue" href="#"><img class="img-responsive" src="assets/img/bitcoin.png" alt="" /></a>
+			<div class="col-lg-6 desc">
+				<a class="zoom blue" href="#"><img class="img-responsive" src="assets/img/team/Brian Page Bio Card.png" alt="" /></a>
 				<p>	Brian Page<br>Director of Marketing </p>
 				<p style="text-align: justify;">
 					Brian Page is a trends investor, entrepreneur and marketing specialist with a passion for building the next great brand. 
@@ -75,8 +75,8 @@
 					He's thrilled to be joining the Invictus team as its brand champion. 
 				</p>
 			</div>
-			<div class="col-lg-4 desc">
-				<a class="zoom blue" href="#"><img class="img-responsive" src="assets/img/bitcoin.png" alt="" /></a>
+			<div class="col-lg-6 desc">
+				<a class="zoom blue" href="#"><img class="img-responsive" src="assets/img/team/Charles Evans - Bio Card.png" alt="" /></a>
 				<p>	Dr. Charles Evans<br>Economic Consultant </p>
 				<p style="text-align: justify;">
 					Teaches Finance and Economics, both on-line and in the classroom and has spent the past two decades working on the Internet in several capacities.
@@ -85,16 +85,16 @@
 				</p>
 			</div>
 			<div class="row mt centered">	
-			<div class="col-lg-4 desc">
-				<a class="zoom blue" href="#"><img class="img-responsive" src="assets/img/bitcoin.png" alt="" /></a>
+			<div class="col-lg-6 desc">
+				<a class="zoom blue" href="#"><img class="img-responsive" src="assets/img/team/Pam Larimer - Bio Card.png" alt="" /></a>
 				<p>	Pam Larimer<br>Board Secretary Business Administrator   </p>
 				<p style="text-align: justify;">
 					Pam Larimer has 30 years experience as Office Manager for Booster Products in Ohio, is administrator and executive assistant for the Florida Public Schools and Admissions Director and 
 					Assistant to the Headmaster at Loudoun Country Day School, an elite private school in Virginia  
 				</p>
 			</div>
-			<div class="col-lg-4 desc">
-				<a class="zoom blue" href="#"><img class="img-responsive" src="assets/img/bitcoin.png" alt="" /></a>
+			<div class="col-lg-6 desc">
+				<a class="zoom blue" href="#"><img class="img-responsive" src="assets/img/team/Dan Notestein - Bio Card.png" alt="" /></a>
 				<p>	Dan Notestein<br>Contractor, Consultant, Senior S/W Engineer  </p>
 				<p style="text-align: justify;">
 					Dan Notestein's industry experience includes 14 years of hardware and software development. 
@@ -103,8 +103,8 @@
 					In addition to his system level work, Notestein was also responsible for designing several high-speed data acquisition and control boards that operated in the system. He is now a free-lance developer. 
 				</p>
 			</div>
-			<div class="col-lg-4 desc">
-				<a class="zoom blue" href="#"><img class="img-responsive" src="assets/img/bitcoin.png" alt="" /></a>
+			<div class="col-lg-6 desc">
+				<a class="zoom blue" href="#"><img class="img-responsive" src="assets/img/team/Omar Asor - Bio CArd.png" alt="" /></a>
 				<p>	Ohad Asor<br>Developer  </p>
 				<p style="text-align: justify;">
 					Ohad Asor is a Mathematician and a Software Engineer, experienced at the top Israeli software companies since 1995.
