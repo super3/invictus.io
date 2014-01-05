@@ -67,7 +67,7 @@
 						<h3>Downloads</h3>	
 							<p>	
 								Note: Keyhotee is now in alpha testing. There may be unstability and many bugs. 
-								Please <a href="https://bitsharestalk.org/index.php?board=2.0">report</a> any problems you have.
+								Please <a href="https://bitsharestalk.org/index.php?board=2.0">report</a> any problems you have. <br/>
 								<a class="btn btn-yellow btn-lg" href="bin/keyhotee_0.5.0.zip">Download Keyhotee 0.5 (Windows)</a>
 							</p>	
 						<h3>Resources</h3>	
