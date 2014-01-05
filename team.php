@@ -33,8 +33,8 @@
 					Daniel Larimer is a Virginia based entrepreneur and software engineer with a passion to find free market solutions to secure life, liberty and property for all. 
 					In addition to software development, Daniel is a self-taught expert in Austrian economics. He has recently co-founded Invictus Innovations Incorporated with the mission of 
 					developing decentralized solutions to centralized problems where he serves as the CTO and is the chief architect of the BitShares peer-to-peer trust-less, 
-					black-chain-based,financial system. -->
-				</p>
+					black-chain-based,financial system.
+				</p> -->
 			</div>
 			<div class="col-lg-6 desc">
 				<a class="zoom blue" href="#"><img class="img-responsive" src="assets/img/team/Bo Shen - Bio Card.png" alt="" /></a>
