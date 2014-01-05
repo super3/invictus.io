@@ -101,20 +101,20 @@
 					<div class="tabbable">
 			            <ul class="nav nav-stacked" id="myTab">
 			              <li class="active"><a href="#tab1">
+			              		<h4><i class="fa fa-angle-right"></i> Keyhotee (Early 2014)</h4>
+							  	<p>Keyhotee integrates and defends your online identity, reputation, communications, and crypto-transactions.</p>
+						  </a></li>
+
+			              <li><a href="#tab2">
+							  	<h4><i class="fa fa-angle-right"></i> BitShares (Late 2014)</h4>
+							  	<p>Our first DAC and, in fact and represents a category for many unmanned banks and exchanges.</p>
+						  </a></li>
+			              
+			              <li class=""><a href="#tab3">		  	
 							  	<h4><i class="fa fa-angle-right"></i> Memorycoin 2.0 (MMC)</h4>
 							  	<p>First cryptocurrency to honor Protoshares. 
 							  	PTS holders before block 32000 
 							  	   hold Memorycoin.</p>
-						  </a></li>
-
-			              <li><a href="#tab2">
-							  	<h4><i class="fa fa-angle-right"></i> Keyhotee (Early 2014)</h4>
-							  	<p>Keyhotee integrates and defends your online identity, reputation, communications, and crypto-transactions.</p>
-						  </a></li>
-			              
-			              <li class=""><a href="#tab3">
-							  	<h4><i class="fa fa-angle-right"></i> BitShares (Late 2014)</h4>
-							  	<p>Our first DAC and, in fact and represents a category for many unmanned banks and exchanges.</p>
 						  </a></li>
 						  
 			             
@@ -127,15 +127,15 @@
 					<div class="tab-content">
 						<div class="tab-pane active" id="tab1">
 							<div class="tab-mod">
-								<a href="http://memorycoin.info/">
-									<img class="img-responsive" src="assets/img/browser-01.png" alt="">
+								<a href="keyhotee.php">
+									<img class="img-responsive" src="assets/img/browser-03.png" alt="">
 								</a>
 							</div><!-- /tab-mod -->
 						</div><! --/tab1 -->
 						
 						<div class="tab-pane" id="tab2">
 							<div class="tab-mod">
-								<a href="keyhotee.php">
+								<a href="bitshares.php">
 								<img class="img-responsive" src="assets/img/browser-02.png" alt="">
 								</a>
 							</div><!-- /tab-mod -->
@@ -143,8 +143,8 @@
 
 						<div class="tab-pane" id="tab3">
 							<div class="tab-mod">
-								<a href="bitshares.php">
-								<img class="img-responsive" src="assets/img/browser-03.png" alt="">
+								<a href="http://memorycoin.info/">
+								<img class="img-responsive" src="assets/img/browser-01.png" alt="">
 								</a>
 							</div><!-- /tab-mod -->
 						</div><! --/tab1 -->
