@@ -51,12 +51,10 @@
 				<div class="col-lg-3">
 					<h4>Info</h4>
 					<p>
-					<i class="fa fa-angle-right"></i> <a href="https://bitsharestalk.org/index.php?topic=1631.0">Angel Shares &amp; BitShares Allocation</a><br/>
-					<i class="fa fa-angle-right"></i> <a href="http://bitsharestalk.org/donate.html">Donate to BitShares Forum</a>
-					<i class="fa fa-angle-right"></i> <a href="https://github.com/super3/invictus">Code for Invictus.io</a>
-					<i class="fa fa-angle-right"></i> <a href="https://github.com/super3/invictus/issues?milestone=1&ampl;state=open">Report Problems with Invictus.io</a>
-
-					<br/><br/><br/>
+						<i class="fa fa-angle-right"></i> <a href="https://bitsharestalk.org/index.php?topic=1631.0">Angel Shares &amp; BitShares Allocation</a><br/>
+						<i class="fa fa-angle-right"></i> <a href="http://bitsharestalk.org/donate.html">Donate to BitShares Forum</a><br/>
+						<i class="fa fa-angle-right"></i> <a href="https://github.com/super3/invictus">Code for Invictus.io</a><br/>
+						<i class="fa fa-angle-right"></i> <a href="https://github.com/super3/invictus/issues?milestone=1&ampl;state=open">Report Problems with Invictus.io</a>
 					</p>
 				</div><!-- /col-lg-3 -->
 				
