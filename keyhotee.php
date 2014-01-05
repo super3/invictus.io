@@ -6,7 +6,7 @@
     	<div class="container">
 			<div class="row">
 				<div class="col-lg-8 col-lg-offset-2 centered">
-					<h1 class="slideUp">Identity. Email. Checkbook.</h1>
+					<h1 class="slideUp">Keyhotee.</h1>
 					<img class="img-responsive" src="assets/img/browser.png" alt="">
 				</div>
 			</div><!-- /row -->
@@ -64,6 +64,11 @@
 								
 					</div>
 					<div class="col-lg-4" style="padding-top: 20px;">
+						<h3>Downloads</h3>	
+							<p>	
+								Note Keyhotee is now in alpha testing. There may be unstability and many bugs.
+								<a class="btn btn-yellow btn-lg" href="bin/keyhotee_0.5.0.zip">Download Keyhotee 0.5(Windows) - Alpha</a>
+							</p>	
 						<h3>Resources</h3>	
 							<p>	
 								<ul style="list-style-type: circle;">
