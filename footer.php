@@ -44,8 +44,8 @@
 						<i class="fa fa-angle-right"></i> <a href="http://ptspool.com/">http://ptspool.com/</a> -  4% fee <br/>
 						<i class="fa fa-angle-right"></i> <a href="http://ypool.net">http://ypool.net</a> -  6% fee<br/>
 						<i class="fa fa-angle-right"></i> <a href="https://bitsharestalk.org/index.php?topic=236.0">Bytemaster</a><br/>
-				
-				</div><!-- /col-lg-3 -->	</p>
+					</p>
+				</div><!-- /col-lg-3 -->	
 				
 				<!-- LATEST POSTS -->
 				<div class="col-lg-3">
