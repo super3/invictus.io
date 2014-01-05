@@ -6,8 +6,10 @@
     	<div class="container">
 			<div class="row">
 				<div class="col-lg-8 col-lg-offset-2 centered">
-					<h1 class="slideUp">Identity. Email. Checkbook. <span style="color: #EAEAEA;">Keyhotee</span></h1>
-					<img class="img-responsive" src="assets/img/browser.png" alt="">
+					<h1 class="slideUp">Identity. Email. Checkbook.</h1>
+					<a href="http://invictus.io/keyhotee.php">
+						<img class="img-responsive" src="assets/img/browser.png" alt="">
+					</a>
 				</div>
 			</div><!-- /row -->
     	</div><!-- /container -->
