@@ -79,6 +79,9 @@
 			<p>
 				Every day the shares are divided among those who donated that day.
 			</p>
+			<p>
+								<a class="btn btn-yellow btn-lg" href="http://angelshares.info/beta/">Visit Angelshares.info (Still in beta!)</a>
+							</p>
 						</div>
 
 					</div>		
