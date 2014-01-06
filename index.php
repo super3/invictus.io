@@ -169,7 +169,7 @@
                         </div><!-- /row -->
                         
                         <p>   
-						<b>FOR IMMEDIATE RELEASE: January 2, 2014<b>
+						<b>FOR IMMEDIATE RELEASE: January 2, 2014</b>
 						<br/><br/>
 						Invictus Innovations is proud to announce <a href="http://invictus.io/funding-angelshares.php">AngelShares</a>,
 						a groundbreaking crowd funding campaign aimed to develop new decentralized autonomous companies (DACs).
