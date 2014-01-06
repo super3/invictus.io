@@ -161,24 +161,27 @@
         =============================================================================================================================>    
         <div id="grey">
                 <div class="container">
-                        <div class="row mt centered ">
+                        <div class="row mt centered" stlye="margin-bottom: 5px;">
                                 <div class="col-lg-8 col-lg-offset-2">
-                                        <h3>LInvictus Innovations Announces Initial Launch of AngelShares</h3>
+                                        <h3>Invictus Innovations Announces Initial Launch of AngelShares</h3>
                                         <hr>
                                 </div><!-- /col-lg-4 -->
                         </div><!-- /row -->
                         
                         <p>   
-						FOR IMMEDIATE RELEASE: January 2, 2014
+						<b>FOR IMMEDIATE RELEASE: January 2, 2014<b>
 						<br/><br/>
-						Invictus Innovations is proud to announce AngelShares, a groundbreaking crowd funding campaign 
-						aimed to develop new decentralized autonomous companies (DACs).  AngelShares are being made 
-						available just two months after the launch of ProtoShares, which rocketed to a $25 million 
-						dollar market cap in its first month.  Although traded as a crypto-currency, Protoshares is
+						Invictus Innovations is proud to announce <a href="http://invictus.io/funding-angelshares.php">AngelShares</a>,
+						a groundbreaking crowd funding campaign aimed to develop new decentralized autonomous companies (DACs).
+						<a href="http://invictus.io/funding-angelshares.php">AngelShares</a> are being made 
+						available just two months after the launch of 
+						<a href="http://invictus.io/funding-protoshares.php">ProtoShares</a>, which rocketed to a 
+						<a href="http://coinmarketcap.com/">$25 million	dollar market cap</a> in its first month.  
+						Although traded as a crypto-currency, Protoshares is
 						unique in that its value is derived from a social contract. This contract grants those who 
 						hold ProtoShares a stake in Invictus' flagship DAC, a Decentralized Bank and Exchange called 
-						BitShares.  Invictus expects to raise over $4 million dollars worth of ProtoShares and
-						Bitcoin in the first quarter of 2014 through the release of AngelShares.
+						<a href="http://invictus.io/bitshares.php">BitShares</a>.  Invictus expects to raise over $4 million 
+						dollars worth of ProtoShares and Bitcoin in the first quarter of 2014 through the release of AngelShares.
 						<br/><br/>
 						To obtain AngelShares, individuals make a donation to a public ProtoShares or Bitcoin address
 						from a local wallet.  The record of every donation is recorded securely in the respective blockchain,
@@ -187,8 +190,8 @@
 						<br/><br/>
 						AngelShares represents a fresh attempt to strike a balance between techniques used by Mastercoin,
 						Ripple and others. Beginning January 1, AngelShares will be available to the public. Take advantage
-						of this unique opportunity by donating today.  To learn more or to participate, please visit:
-						http://invictus.io/funding-angelshares.php
+						of this unique opportunity by donating today.  To learn more or to participate, 
+						<a href="http://invictus.io/funding-angelshares.php">click here</a>.
 						<br/><br/>
 						AngelShares are an abstract concept, are non-transferable, and do not represent a legal contract
 						between Invictus and those who send a donation. The value of owning AngelShares is derived 
