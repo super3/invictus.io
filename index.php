@@ -31,7 +31,7 @@
     		</div>
     		<div class="col-lg-4 centered">
     			<i class="fa fa-eye"></i>
-    			<h4>Transparency</h4>
+    			<h4>Transparent</h4>
     			<p>
           			With radical transparency, <a href="https://github.com/InvictusInnovations/ProtoShares">open source development</a>, ready finance, collaborators and a team to make it all happen. 
           		</p>
@@ -67,7 +67,7 @@
 			<div class="col-lg-6 col-lg-offset-3">
 				<h3>Funding Models</h3>
 				<hr>
-				Invictus uses a two-pronged decentralized funding model. This provides equal opportunity for
+				We works towards our goal of an open, distributed cryptographic trading and stocks market, <a href="#">Bitshares</a>, using a two-pronged decentralized funding model. This provides equal opportunity for
 				miners, traders, and investors.</a> 
 				<hr>
 			</div>
@@ -113,10 +113,9 @@
 						  </a></li>
 			              
 			              <li class=""><a href="#tab3">		  	
-							  	<h4><i class="fa fa-angle-right"></i> Memorycoin 2.0 (MMC)</h4>
-							  	<p>First cryptocurrency to honor Protoshares. 
-							  	PTS holders before block 32000 
-							  	   hold Memorycoin.</p>
+							  	<h4><i class="fa fa-angle-right"></i> Nameshares</h4>
+							  	<p>A distributed naming system based on cryptocurrency innovations. 
+								</p>
 						  </a></li>
 						  
 			             
