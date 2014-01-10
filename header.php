@@ -55,12 +55,13 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="/"><b>Invictus</b> Innovations</a>
+      <a class="navbar-brand" href="index.php"><b>Invictus</b> Innovations</a>
     </div>
     <div class="navbar-collapse collapse">
       <ul class="nav navbar-nav navbar-right">
-        <li class="active"><a href="index.php">Home</a></li>
-        <li><a href="dac.php">What is a DAC?</a></li>
+        <li class="active"><a href="news.php">News</a></li>
+        <li><a href="bitshares.php">Bitshares</a></li>
+        <li><a href="keyhotee.php">Keyhotee</a></li>
 
       <li class="dropdown">
           <a href="#" class="dropdown-toggle" data-toggle="dropdown">Funding <i class="fa fa-angle-down"></i></a>
@@ -72,13 +73,20 @@
       </li>
 
       <li class="dropdown">
-          <a href="#" class="dropdown-toggle" data-toggle="dropdown">Coins, Software, and DACs<i class="fa fa-angle-down"></i></a>
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown">Our Products<i class="fa fa-angle-down"></i></a>
           <ul class="dropdown-menu">
-            <li><a href="#" style="color: grey; text-decoration:underline;">Software</a></li>
+            <li><a href="#" style="color: grey; text-decoration:underline;">Consumer software</a></li>
             <li><a href="keyhotee.php">Keyhotee</a></li>
-            <li><a href="#" style="color: grey; text-decoration:underline;">DACs</a></li>
-            <li><a href="bitshares.php">Bitshares</a></li>
-            <li><a href="#" style="color: grey; text-decoration:underline;">3rd Party Coins</a></li>
+            <li><a href="#" style="color: grey; text-decoration:underline;">Financial products</a></li>
+            <li><a href="bitshares.php">Bitshares (BTS)</a></li>
+            <li><a href="#">LuckyShares  (LKS)</a></li>
+            <li><a href="#">DomainShares (DMS)</a></li>
+			<li><a href="#">Bank and EXchange (BEX)</a></li>
+			<li><a href="#">Commodities EXchange (CEX)</a></li>
+			<li><a href="#" style="color: grey; text-decoration:underline;">Distributed Funding</a></li>
+            <li><a href="funding-protoshares.php">ProtoShares (PTS)</a></li>
+            <li><a href="funding-angelshares.php">AngelShares (AGS)</a></li>			
+            <li><a href="#" style="color: grey; text-decoration:underline;">Collaborations</a></li>
             <li><a href="memory-coin.php">Memorycoin 2.0</a></li>
           </ul>
       </li>

@@ -6,7 +6,8 @@
     	<div class="container">
 			<div class="row">
 				<div class="col-lg-8 col-lg-offset-2 centered">
-					<h1 class="slideUp">Identity. Email. Checkbook.</h1>
+					<h1 class="slideUp">Distributed solutions. Cryptocurrency innovation.</h1>
+					<h2 class="slideUp">Meet Invictus Innovations Inc.</h2>
 					<a href="http://invictus.io/keyhotee.php">
 						<img class="img-responsive" src="assets/img/browser.png" alt="">
 					</a>
@@ -52,9 +53,8 @@
     	<div class="container">
     		<div class="row">
     			<div class="col-lg-8 col-lg-offset-2">
-    				<h2>Invictus builds Distributed Autonomous Companies, known as DACs. We also build software and tools
-    					for the entire cryptocurrency ecosystem.</h2>
-    				<a class="btn btn-cta btn-lg" href="dac.php">What is a DAC?</a>
+    				<h2>We believe in the possibilities of cryptocurrencies and are committed, every day, to making their advantages available to the general population.</h2>
+    				<a class="btn btn-cta btn-lg" href="#.php">Our philosophy</a>
     			</div>
     		</div><!-- /row -->
     	</div><!-- /container -->
@@ -84,7 +84,7 @@
 		</div><!-- /row -->
 		
 	</div><!-- /container -->
-
+	
 	<! ========== FEATURES - TAB ================================================================================================ 
 	=============================================================================================================================>    
 
@@ -92,7 +92,7 @@
 		<div class="container">
 			<div class="row mt centered ">
 				<div class="col-lg-4 col-lg-offset-4">
-					<h3>Coins, Software, and DACs</h3>
+					<h3>Our products</h3>
 					<hr>
 				</div><!-- /col-lg-4 -->
 			</div><!-- /row -->
@@ -157,6 +157,20 @@
 		</div><!-- /container -->
 	</div><!-- /white -->
 
+	<! ========== CALL TO ACTION 1 ============================================================================================== 
+	=============================================================================================================================>    
+    <div id="cta01">
+    	<div class="container">
+    		<div class="row">
+    			<div class="col-lg-8 col-lg-offset-2">
+    				<h2>Invictus builds Distributed Autonomous Companies, known as DACs. We also build software and tools
+    					for the entire cryptocurrency ecosystem.</h2>
+    				<a class="btn btn-cta btn-lg" href="dac.php">What is a DAC?</a>
+    			</div>
+    		</div><!-- /row -->
+    	</div><!-- /container -->
+    </div><! --/cta01 -->
+	
         <! ========== BRANDS & CLIENTS =============================================================================================== 
         =============================================================================================================================>    
         <div id="grey">
