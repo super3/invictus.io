@@ -12,8 +12,7 @@
 
 	<div id="white">
 		<div class="container">			
-			<div class="inner-page row">
-			
+			<div class="inner-page row">			
 				<div class="row">				
 					<div class="col-lg-12">					
 						<h3>What are Bitshares?</h3>					
@@ -42,11 +41,7 @@
 				</div>	
 				<br><br>
 
-			</div> 		
- 	
-
-    	</div><!-- /row -->
-			
+			</div><!-- /row -->
 		</div><!-- /container -->
 	</div><!-- /white -->
 

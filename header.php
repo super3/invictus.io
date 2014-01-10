@@ -69,7 +69,7 @@
             <!--<li><a href="funding-overview.php">Overview</a></li>-->
             <li><a href="funding-protoshares.php">ProtoShares (PTS)</a></li>
             <li><a href="funding-angelshares.php">AngelShares (AGS)</a></li>
-			<li><a href="funding-protoshares.php">Funding Philosophy</a></li>
+			<li><a href="funding-philosophy.php">Funding Philosophy</a></li>
           </ul>
       </li>
 
