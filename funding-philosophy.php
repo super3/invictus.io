@@ -45,7 +45,7 @@
 						<h3>Join us</h3>
 							<p style="text-align: justify;">
 								By investing in either Protoshares (PTS) or Angelshares (AGS) you will get a stake defined in the genesis block of BitShares. Either technnology will bring in 50 percent of the funding and thus stake in BitShares.
-								Owning a part of one or both of these products will give you 
+								Owning a part of one or both of these products will ensure early access to Bitshares! Join the revolution!
 							</p>	
 							
 						<h3>Resources</h3>	
