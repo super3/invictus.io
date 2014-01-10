@@ -21,13 +21,13 @@
 								with the possibilities that the last decades of economic innovation have brought us. This will be the combination of the best of two worlds and will be a major step towards general cryptocurrency acceptance. 
 							</p>
 							<p style="text-align: justify;">
-								We as Invictus Innovations acknowledge that the base of an economy is not our currencies we have available but the possibilities we have for trading. The basis of the implementation of this idea is that BitShares (BTS) offers a bank account that earns 5% interest where funds can be transferred in minutes anywhere in the world with more privacy and security than a Swiss bank account.  
+								We as Invictus Innovations acknowledge that the base of an economy is not the currencies we have available but the possibilities and freedom we have for trading. The way implement his idea is that BitShares (BTS) offers a bank account that earns 5% interest where funds can be transferred in minutes anywhere in the world with more privacy and security than a Swiss bank account.  
 								Your account can never be frozen, your funds cannot be seized, and the bank can never face collapse due to loan defaults or fraud.  All of this is made possible without requiring any employees, lawyers, regulatory compliance, vaults, buildings, and other infrastructure required by traditional banks.  
 								And it will allow you to do anything with your funds, both fiat and digital, that you can do in the fiat world, from investments to selling packaged financial products.
 							</p>
 							<p style="text-align: justify;">
-								Unlike existing banks, you can hold your balance denominated in gold, silver, oil, or other commodities in additional to national currencies while earning 5% interest. 
-							    BitShares can achieve this feat using the same technology that makes Bitcoin possible, irrevokable decentralized automated consensus forming.     
+								Unlike existing banks, BitShares is currency agnostic, you can hold your balance denominated in gold, silver, oil, or other commodities in additional to national currencies while earning 5% interest. 
+							    BitShares can achieve this impressive feat using the same technology that makes Bitcoin possible, irrevokable decentralized automated consensus forming.     
 							</p>
 							<h3>For consumers</h3>
 							<p style="text-align: justify;">
