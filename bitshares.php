@@ -27,8 +27,7 @@
 							</p>
 							<p style="text-align: justify;">
 								Unlike existing banks, you can hold your balance denominated in gold, silver, oil, or other commodities in additional to national currencies while earning 5% interest. 
-								In addition to acting as a bank, BitShares also serves as an exchange where currencies, commodities, and stock derivatives can be traded with most of the features used by professional traders including shorts and options.  
-								 BitShares can achieve this feat using the same technology that makes Bitcoin possible, irrevokable decentralized automated consensus forming.     
+							    BitShares can achieve this feat using the same technology that makes Bitcoin possible, irrevokable decentralized automated consensus forming.     
 							</p>
 							<h3>For consumers</h3>
 							<p style="text-align: justify;">
