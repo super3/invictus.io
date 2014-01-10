@@ -23,16 +23,17 @@
 							AngelShares are created to acknowledge the equally important financial contribution to the development of an open, distributed, crypto-equity product called <a href="#">Bitshares</a>
 						</p>
 
-						<h3>Shares in DACs</h3>	
+						<h3>Take part in new products</h3>	
 							<p style="text-align: justify;">								
-							Both ProtoShares and AngelShares rely upon the willingness of developers to honor those contributions
-							with shares in the DACs they develop.  We expect a Social Consensus to form in the marketplace about
+							Both ProtoShares and AngelShares rely upon the willingness of us and allied developers to honor those contributions
+							with shares in new products that we as Invictus Innovations and others develop.  From Allied developers we expect a Social Consensus to form in the marketplace about
 							what constitutes honorable developer behavior. ProtoShares and AngelShares constitute concrete 
 							documentation of what benefits developers received from those who laid the industry foundation.  
-							Shares in individual DACs are concrete way for developers to acknowledge and reciprocate those benefits.
-							How the market responds to a new DAC will depend upon how well that DAC is perceived to have honored 
+							Shares in individual products are concrete way for developers to acknowledge and reciprocate those benefits.
+							How the market responds to these new products, or <a href="What-is-a-DAC.html#top">DACs</a>, will depend upon how well that product is perceived to have honored 
 							the emerging Social Consensus.
 							</p>
+						<h3>Social Consensus</h3>
 							<p style="text-align: justify;">
 							We see a consensus beginning to form around the following principles: 
 							(a) Developers should seek a reasonable balance between equal-opportunity lotteries and ways to compensate
@@ -41,8 +42,8 @@
 							the minimum fair genesis allocation.
 							</p>
 							<ul style="list-style-type: circle;">
-							<li>10% of the crypto-equity should be allocated to holders of ProtoShares.</li>
-							<li>10% of the crypto-equity should be allocated to holders of AngelShares.</li>
+							<li>10% of the crypto-equity should be allocated to holders of Bitshare PTS (ProtoShares).</li>
+							<li>10% of the crypto-equity should be allocated to holders of Bitshare AGS (AngelShares).</li>
 							<li>80% of the crypto-equity should be customized to the needs of each DAC.</li>
 							</ul>
 
