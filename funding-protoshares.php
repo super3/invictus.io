@@ -21,13 +21,13 @@
 					<div class="col-lg-7">					
 						<h3>What are ProtoShares?</h3>					
 							<p style="text-align: justify;">								
-								ProtoShares is a class of crypto-currency that let you capture a position in one or more cool new DACs before it
-								they are ever implemented. The speculative value of a DACs ProtoShares is a subjective mix of three market
+								ProtoShares is a class of crypto-currency, based of Bitcoin, that lets you capture a position in one or more new products before
+								they are even implemented. It is also a fund raising mechanism for Bitshares. The speculative value of a DACs ProtoShares is a subjective mix of three market
 								perception pillars. These pillars are the market’s assessment of:
 							</p>
 							<ul style="list-style-type: circle;">
-								<li>The speculative value of a future DAC share.</li>
-								<li>The probability that the DAC can and will be successfully fielded.</li>
+								<li>The speculative value of a future product or DAC share.</li>
+								<li>The probability that the product or DAC can and will be successfully fielded.</li>
 								<li>Confidence that the ProtoShares map to an equitable share in the implementation.</li>
 							</ul> <br>
 							<p style="text-align: justify;">

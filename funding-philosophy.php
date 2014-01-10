@@ -31,8 +31,8 @@
 						<h3>As an technologist</h3>
 							<p style="text-align: justify;">
 								BitShares PTS, or Protoshares, is our first developed investment vehicle. It is a cryptocurrency, based off the well-known Bitcoin protocol, that is minable (generation of coins by input of computational work) by every cryptocurrency enthusiast.
-								Currently it is one of the largest alternative-cryptocurrencies, backed by many miners, supporting innovation. Stake in BitShares PTS will be directly mapped to every new financial product that we develop. 
-								Mine or buy PTS on cryptomarket places to be a part of this technological base of our new products. <br>Read more about BitShares PTS: <a href="funding-protoshares.php">here</a>
+								Currently it is one of the largest alternative-cryptocurrencies, backed by many miners, supporting innovation. Stake in BitShares PTS will be directly mapped to every new financial product that we develop. Furthermore owning Protoshares, 
+								already allows you to trade, speculate and buy products using an Invictus Innovations product. Mine or buy PTS on cryptomarket places to be a part of this technological base of our new products. <br>Read more about BitShares PTS: <a href="funding-protoshares.php">here</a>
 							</p>
 							
 						<h3>As an investor</h3>
