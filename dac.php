@@ -9,10 +9,6 @@
 					<h1>What is a DAC?</h1>
 					<hr>
 					<h4>Emerging complexity as a new foundation for corporations </h4>
-					
-					<div class="headerimgholder">
-						<img src="assets/img/NeuralNetworkPlaceholder.jpg">
-					</div>
 				</div>
 			</div><!-- /row -->
 		</div><!-- /container -->
@@ -52,10 +48,10 @@
 								The same is true for the Alt-Coins. These Alt-Coins offer a wide range of services. Miners and participants 'vote' by picking a DAC and an implementation of it. This has resulted in networks which shares are sometimes valued at hundreds of dollars.
 								A further analysis of Bitcoin as a DAC can be found <a href="http://letstalkbitcoin.com/bitcoin-and-the-three-laws-of-robotics/#.UjjO0mTFT7v">here</a>. 								
 							</p>
-							
+
 					</div>
 					<div class="col-lg-4" style="padding-top: 60px;">
-						<img src="assets/img/DACS.png">
+						<img src="assets/img/ticker.jpg" width="400px" height="400px">
 					</div>
 				</div>	
 				
@@ -68,44 +64,53 @@
 							Development of these applications costs resources and to fund the development of these DACs we have developed <a href="protoshares.com">Protoshares</a> and  <a href="#">Angelshares</a>. Protoshares (PTS) raises capital by crowd funding. 
 							Angelshares are the investors equivalent of Protoshares. If there is a new DAC idea that we as Invictus Innovations 'launch' in the market, it will be split it off from ProtoShares. In effect, owning ProtoShares will give you some stake in every DAC Invictus Innovations will release.
 						</p>					
-						
-					<h3>A new age:</h3>
-				
-					Distributed Autonomous Corporations have many advantages.  DACs are...<br><br>
-					<ul style="list-style-type: circle;">
-						<li>Corporations – They are, and of a right ought to be, free and independent persons.</li>
-						<li>Autonomous – once up to speed; they no longer need (or heed) their creators.</li>
-						<li>Distributed – there are no central points of control or failure that can be attacked.</li>
-						<li>Transparent – their books and business rules are auditable by all as all transactions are visible.</li>
-						<li>Confidential – customer information is securely (and incorruptibly) protected.</li>
-						<li>Trustworthy – because no interaction with them depends on trust.</li>
-						<li>Fiduciaries – acting solely in their customers’ and shareholders’ interests.</li>
-						<li>Self-regulating – they obey the rules set for them like, well, robots.</li>
-						<li>Incorruptible – no one can exercise seductive or coercive influence over them.</li>
-						<li>Sovereign – over their digital resources.  They don’t need governments to exist.</li>
-					</ul>
+				</div>	
 
-					Metaphorically, DACs work very much like familiar brick and mortar corporations.<br><br>
-					<ul style="list-style-type: circle;">
-						<li>They can be non-profit, for-profit or both at the same time!</li>
-						<li>You can access their products and services on-line.</li>
-						<li>You can buy and sell their stocks and bonds.</li>
-						<li>Shareholders can earn dividends; bondholders can earn interest.</li>
-						<li>Behaviors, rules and by-laws can only change by stakeholder majorities.</li>
-					</ul>							
-
+				</div class="row">
+					<div class="col-lg-5" style="padding-top: 30px;">
+						<img src="assets/img/NeuralNetworkPlaceholder.jpg" width="400px" height="400px">
+					</div>				
+					<div class="col-lg-7" style="margin-bottom: -25px;">				
+						<h3>A new age:</h3>
 					
-					<h3>List of Official Invictus Innovation DACs</h3>
-						<p>	
-							<ul style="list-style-type: circle;">
-								<li><a href="protoshares.com">Protoshares (PTS) - Open Source Crowd Funding Virtual Currency</a></li>
-								<li><a href="https://bitsharestalk.org/index.php?board=2.0">Keyhotee - The guardian of your privacy</a></li>
-								<li><a href="https://bitsharestalk.org/index.php?board=3.0">Bitshares - A Work-In-Progress Decentralized Bank &amp; Exchange</a></li>
-								<li><a href="http://memorycoin.info">MemoryCoin 2.0 (MMC)</a></li>
-								<li><a href="https://bitsharestalk.org/index.php?board=9.0">Alternative DACs discussion</a></li>
-							</ul>
-						</p>	
+						Distributed Autonomous Corporations have many advantages.  DACs are...<br><br>
+						<ul style="list-style-type: circle;">
+							<li>Corporations – They are, and of a right ought to be, free and independent persons.</li>
+							<li>Autonomous – once up to speed; they no longer need (or heed) their creators.</li>
+							<li>Distributed – there are no central points of control or failure that can be attacked.</li>
+							<li>Transparent – their books and business rules are auditable by all as all transactions are visible.</li>
+							<li>Confidential – customer information is securely (and incorruptibly) protected.</li>
+							<li>Trustworthy – because no interaction with them depends on trust.</li>
+							<li>Fiduciaries – acting solely in their customers’ and shareholders’ interests.</li>
+							<li>Self-regulating – they obey the rules set for them like, well, robots.</li>
+							<li>Incorruptible – no one can exercise seductive or coercive influence over them.</li>
+							<li>Sovereign – over their digital resources.  They don’t need governments to exist.</li>
+						</ul>
+
+						Metaphorically, DACs work very much like familiar brick and mortar corporations.<br><br>
+						<ul style="list-style-type: circle;">
+							<li>They can be non-profit, for-profit or both at the same time!</li>
+							<li>You can access their products and services on-line.</li>
+							<li>You can buy and sell their stocks and bonds.</li>
+							<li>Shareholders can earn dividends; bondholders can earn interest.</li>
+							<li>Behaviors, rules and by-laws can only change by stakeholder majorities.</li>
+						</ul>							
 					</div>	
+				</div>
+				<br><br>
+				<div class="row">
+					<div class="col-lg-12">
+						<h3>List of Official Invictus Innovation DACs</h3>
+							<p>	
+								<ul style="list-style-type: circle;">
+									<li><a href="protoshares.com">Protoshares (PTS) - Open Source Crowd Funding Virtual Currency</a></li>
+									<li><a href="https://bitsharestalk.org/index.php?board=2.0">Keyhotee - The guardian of your privacy</a></li>
+									<li><a href="https://bitsharestalk.org/index.php?board=3.0">Bitshares - A Work-In-Progress Decentralized Bank &amp; Exchange</a></li>
+									<li><a href="http://memorycoin.info">MemoryCoin 2.0 (MMC)</a></li>
+									<li><a href="https://bitsharestalk.org/index.php?board=9.0">Alternative DACs discussion</a></li>
+								</ul>
+							</p>	
+					</div>
 				</div>				
 			</div> 		
  	

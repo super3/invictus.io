@@ -6,7 +6,8 @@
     	<div class="container">
 			<div class="row">
 				<div class="col-lg-8 col-lg-offset-2 centered">
-					<h1 class="slideUp">Identity. Email. Checkbook.</h1>
+					<h1 class="slideUp">Distributed solutions. Cryptocurrency innovation.</h1>
+					<h2 class="slideUp">Meet Invictus Innovations Inc.</h2>
 					<a href="http://invictus.io/keyhotee.php">
 						<img class="img-responsive" src="assets/img/browser.png" alt="">
 					</a>
@@ -30,7 +31,7 @@
     		</div>
     		<div class="col-lg-4 centered">
     			<i class="fa fa-eye"></i>
-    			<h4>Transparency</h4>
+    			<h4>Transparent</h4>
     			<p>
           			With radical transparency, <a href="https://github.com/InvictusInnovations/ProtoShares">open source development</a>, ready finance, collaborators and a team to make it all happen. 
           		</p>
@@ -52,9 +53,8 @@
     	<div class="container">
     		<div class="row">
     			<div class="col-lg-8 col-lg-offset-2">
-    				<h2>Invictus builds Distributed Autonomous Companies, known as DACs. We also build software and tools
-    					for the entire cryptocurrency ecosystem.</h2>
-    				<a class="btn btn-cta btn-lg" href="dac.php">What is a DAC?</a>
+    				<h2>We believe in the possibilities of cryptocurrencies and are committed, every day, to making their advantages available to the general population.</h2>
+    				<a class="btn btn-cta btn-lg" href="#.php">Our philosophy</a>
     			</div>
     		</div><!-- /row -->
     	</div><!-- /container -->
@@ -67,7 +67,7 @@
 			<div class="col-lg-6 col-lg-offset-3">
 				<h3>Funding Models</h3>
 				<hr>
-				Invictus uses a two-pronged decentralized funding model. This provides equal opportunity for
+				We works towards our goal of an open, distributed cryptographic trading and stocks market, <a href="#">Bitshares</a>, using a two-pronged decentralized funding model. This provides equal opportunity for
 				miners, traders, and investors.</a> 
 				<hr>
 			</div>
@@ -84,7 +84,7 @@
 		</div><!-- /row -->
 		
 	</div><!-- /container -->
-
+	
 	<! ========== FEATURES - TAB ================================================================================================ 
 	=============================================================================================================================>    
 
@@ -92,7 +92,7 @@
 		<div class="container">
 			<div class="row mt centered ">
 				<div class="col-lg-4 col-lg-offset-4">
-					<h3>Coins, Software, and DACs</h3>
+					<h3>Our products</h3>
 					<hr>
 				</div><!-- /col-lg-4 -->
 			</div><!-- /row -->
@@ -113,10 +113,9 @@
 						  </a></li>
 			              
 			              <li class=""><a href="#tab3">		  	
-							  	<h4><i class="fa fa-angle-right"></i> Memorycoin 2.0 (MMC)</h4>
-							  	<p>First cryptocurrency to honor Protoshares. 
-							  	PTS holders before block 32000 
-							  	   hold Memorycoin.</p>
+							  	<h4><i class="fa fa-angle-right"></i> Nameshares</h4>
+							  	<p>A distributed naming system based on cryptocurrency innovations. 
+								</p>
 						  </a></li>
 						  
 			             
@@ -157,6 +156,20 @@
 		</div><!-- /container -->
 	</div><!-- /white -->
 
+	<! ========== CALL TO ACTION 1 ============================================================================================== 
+	=============================================================================================================================>    
+    <div id="cta01">
+    	<div class="container">
+    		<div class="row">
+    			<div class="col-lg-8 col-lg-offset-2">
+    				<h2>Invictus builds Distributed Autonomous Companies, known as DACs. We also build software and tools
+    					for the entire cryptocurrency ecosystem.</h2>
+    				<a class="btn btn-cta btn-lg" href="dac.php">What is a DAC?</a>
+    			</div>
+    		</div><!-- /row -->
+    	</div><!-- /container -->
+    </div><! --/cta01 -->
+	
         <! ========== BRANDS & CLIENTS =============================================================================================== 
         =============================================================================================================================>    
         <div id="grey">

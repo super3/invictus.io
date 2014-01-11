@@ -3,7 +3,7 @@
 	<div id="cta-bar">
 		<div class="container">
 			<div class="row centered">
-				<a href="dac.php"><h4>Are You Ready For The Next Step?</h4></a>
+				<a href="join-us.php"><h4>Are You Ready For The Next Step?</h4></a>
 			</div>
 		</div><!-- /container -->
 	</div><!-- /cta-bar -->
