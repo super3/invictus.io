@@ -27,7 +27,7 @@
     			<p>
              		Invictus plans to offer over $1m dollars in bounties in the near future. 
              		We need developers to build a new class of web tools, algoritms, and apps. <br/> <br/>
-             		<a href="https://bitsharestalk.org/index.php?board=38.0">Earn money today!</a>
+             		<a class="btn btn-blue btn-lg" href="https://bitsharestalk.org/index.php?board=38.0">Earn money today!</a>
         	    </p>
     		</div>
     		<div class="col-lg-4 centered">
@@ -35,7 +35,7 @@
     			<h4>Angels</h4>
     			<p>
           			A way to gain a stake in this new and exciting industry without mining coins. <br/> <br/>
-          		<a href="http://invictus.io/funding-angelshares.php">Donations of fund decentralized solutions.</a>
+          		<a class="btn btn-blue btn-lg" href="http://invictus.io/funding-angelshares.php">Donations to fund decentralized solutions.</a>
           		</p>
     		</div>
     		<div class="col-lg-4 centered">
@@ -43,7 +43,7 @@
     			<h4>Speculators</h4>
     			<p>A class of crypto-currency, based of Bitcoin, that lets you capture a position in one or more new 
     				products before they are even implemented.  <br/><br/>
-    			   <a href="http://invictus.io/funding-protoshares.php">Earn 10% sake in all future Bitshares.</a>. 
+    			   <a class="btn btn-blue btn-lg" href="http://invictus.io/funding-protoshares.php">Earn 10% sake in all future Bitshares.</a>
     			</p>
     		</div>    	
 
