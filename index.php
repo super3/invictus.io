@@ -22,25 +22,28 @@
     <div class="container">
     	<div class="row mt">
     		<div class="col-lg-4 centered">
-    			<i class="fa fa-paperclip"></i>
-    			<h4>Research Driven</h4>
+    			<!--<i class="fa fa-user"></i>-->
+    			<h4>Developers</h4>
     			<p>
-              No copy, paste, release here. We already have developed <a href="http://static.squarespace.com/static/51fb043ee4b0608e46483caf/t/5261691de4b079be91734445/1382115613469/MomentumProofOfWork.pdf">a new mining algorithm</a>,
-              and are working on <a href="https://static.squarespace.com/static/51fb043ee4b0608e46483caf/t/52a1214de4b055489470ed4b/1386291533371/TransactionsAsProofOfStake10.pdf">a new proof of stake system</a>.
-          </p>
+             		Invictus plans to offer over $1m dollars in bounties in the near future.
+             		<a href="https://bitsharestalk.org/index.php?board=38.0">Earn money today!</a>
+        	    </p>
     		</div>
     		<div class="col-lg-4 centered">
-    			<i class="fa fa-eye"></i>
-    			<h4>Transparent</h4>
+    			<!--<i class="fa fa-eye"></i>-->
+    			<h4>Angels</h4>
     			<p>
-          			With radical transparency, <a href="https://github.com/InvictusInnovations/ProtoShares">open source development</a>, ready finance, collaborators and a team to make it all happen. 
+          			A way to gain a stake in this new and exciting industry without mining coins.
+          		<a href="http://invictus.io/funding-angelshares.php">Donations of fund decentralized solutions.</a>
           		</p>
     		</div>
     		<div class="col-lg-4 centered">
-    			<i class="fa fa-user"></i>
-    			<h4>Full-Time Devs and Backing</h4>
-    			<p>We are software company with 10+ full time employees. We are backed by a 2,000+ member community and
-    			   <a href="https://bitsharestalk.org/index.php?board=38.0">ample funding</a>. </p>
+    			<!--<i class="fa fa-user"></i>-->
+    			<h4>Speculators</h4>
+    			<p>A class of crypto-currency, based of Bitcoin, that lets you capture a position in one or more new 
+    				products before they are even implemented.
+    			   <a href="http://invictus.io/funding-protoshares.php">Earn 10% sake in all future Bitshares.</a>. 
+    			</p>
     		</div>    	
 
     	
