@@ -35,7 +35,7 @@
     			<h4>Angels</h4>
     			<p>
           			A way to gain a stake in this new and exciting industry without mining coins. <br/> <br/>
-          		<a class="btn btn-primary btn-lg" href="http://invictus.io/funding-angelshares.php">Donations to fund decentralized solutions.</a>
+          		<a class="btn btn-primary btn-lg" href="http://invictus.io/funding-angelshares.php">Fund decentralized solutions.</a>
           		</p>
     		</div>
     		<div class="col-lg-4 centered">
