@@ -113,7 +113,7 @@
 
 			              <li><a href="#tab2">
 							  	<h4><i class="fa fa-angle-right"></i> BitShares (Late 2014)</h4>
-							  	<p>Our first DAC and, in fact and represents a category for many unmanned banks and exchanges.</p>
+							  	<p>Our first DAC, which introduces a new model for unmanned banks and exchanges.</p>
 						  </a></li>
 			              
 			              <li class=""><a href="#tab3">		  	
