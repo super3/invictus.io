@@ -43,7 +43,7 @@
     			<h4>Speculators</h4>
     			<p>A class of crypto-currency, based of Bitcoin, that lets you capture a position in one or more new 
     				products before they are even implemented.  <br/><br/>
-    			   <a class="btn btn-primary btn-lg" href="http://invictus.io/funding-protoshares.php">Earn 10% sake in all future Bitshares.</a>
+    			   <a class="btn btn-primary btn-lg" href="http://invictus.io/funding-protoshares.php">Earn 10% stake in all future Bitshares.</a>
     			</p>
     		</div>    	
 
