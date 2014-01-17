@@ -114,16 +114,7 @@
 			              <li><a href="#tab2">
 							  	<h4><i class="fa fa-angle-right"></i> BitShares (Late 2014)</h4>
 							  	<p>Our first DAC, which introduces a new model for unmanned banks and exchanges.</p>
-						  </a></li>
-			              
-			              <li class=""><a href="#tab3">		  	
-							  	<h4><i class="fa fa-angle-right"></i> Nameshares</h4>
-							  	<p>A distributed naming system based on cryptocurrency innovations. 
-								</p>
-						  </a></li>
-						  
-			             
-						  
+						  </a></li>					  
 			            </ul> <!-- /tabs -->
 					</div><!-- /tabbable -->
 				</div><! --/col-lg-3 -->

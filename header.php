@@ -80,15 +80,9 @@
             <li><a href="keyhotee.php">Keyhotee</a></li>
             <li><a href="#" style="color: grey; text-decoration:underline;">Financial products</a></li>
             <li><a href="bitshares.php">Bitshares (BTS)</a></li>
-            <li><a href="#">LuckyShares  (LKS)</a></li>
-            <li><a href="#">DomainShares (DMS)</a></li>
-			<li><a href="#">Bank and EXchange (BEX)</a></li>
-			<li><a href="#">Commodities EXchange (CEX)</a></li>
-			<li><a href="#" style="color: grey; text-decoration:underline;">Distributed Funding</a></li>
+		      	<li><a href="#" style="color: grey; text-decoration:underline;">Distributed Funding</a></li>
             <li><a href="funding-protoshares.php">ProtoShares (PTS)</a></li>
             <li><a href="funding-angelshares.php">AngelShares (AGS)</a></li>			
-            <li><a href="#" style="color: grey; text-decoration:underline;">Collaborations</a></li>
-            <li><a href="memory-coin.php">Memorycoin 2.0</a></li>
           </ul>
       </li>
 
