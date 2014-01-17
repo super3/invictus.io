@@ -79,11 +79,11 @@
 		<div class="row mt centered">	
 			<div class="col-lg-6 desc">
 				<a class="zoom blue" href="funding-protoshares.php"><img class="img-responsive" src="assets/img/protoshares-logo.png" alt="" /></a>
-				<p>ProtoShares - Cryptocurrency/Cryptoequity</p>
+				<p>Bitshares PTS - Cryptocurrency/Cryptoequity</p>
 			</div>
 			<div class="col-lg-6 desc">
 				<a class="zoom blue" href="funding-angelshares.php"><img class="img-responsive" src="assets/img/angelshares-logo.png" alt="" /></a>
-				<p>AngelShares - Angel Investing in a Blockchain</p>
+				<p>Bitshares AGS - Angel Investing in a Blockchain</p>
 			</div>
 		</div><!-- /row -->
 		
