@@ -15,10 +15,11 @@
 
     <!-- Custom styles for this template -->
     <link href="assets/css/main.css" rel="stylesheet">
-    <link href="assets/css/colors/color-3498db.css" rel="stylesheet">    
+    <link href="assets/css/colors/color-3498db.css" rel="stylesheet">
     <link href="assets/css/animations.css" rel="stylesheet">
     <link href="assets/css/font-awesome.min.css" rel="stylesheet">
-    
+    <link href="assets/css/invictus.css" rel="stylesheet">
+
     <!-- JavaScripts needed at the beginning
     ================================================== -->
     <script type="text/javascript" src="http://alvarez.is/demo/newfirm/assets/js/twitterFetcher_v10_min.js"></script>
@@ -26,7 +27,7 @@
     <script src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
     <script src="assets/js/hover.zoom.js"></script>
     <script src="assets/js/hover.zoom.conf.js"></script>
-    
+
     <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
       <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
@@ -71,7 +72,7 @@
             <li><a href="bitshares.php">Bitshares (BTS)</a></li>
 		      	<li><a href="#" style="color: grey; text-decoration:underline;">Distributed Funding</a></li>
             <li><a href="funding-protoshares.php">ProtoShares (PTS)</a></li>
-            <li><a href="funding-angelshares.php">AngelShares (AGS)</a></li>			
+            <li><a href="funding-angelshares.php">AngelShares (AGS)</a></li>
           </ul>
       </li>
 -->
@@ -82,7 +83,7 @@
       <li><a href="#"><img src="assets/img/us.png" alt="US Flag"/></a></li>
       <li><a href="http://www.invictus-innovations.cn/ZH/"><img src="assets/img/cn.png" alt="US Flag"/></a></li>
       -->
-    
+
       </ul>
     </div><!--/.nav-collapse -->
   </div>
