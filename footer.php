@@ -1,12 +1,6 @@
 	<! ========== CALL TO ACTION BAR =============================================================================================== 
 	=============================================================================================================================>    
-	<div id="cta-bar">
-		<div class="container">
-			<div class="row centered">
-				<a href="join-us.php"><h4>Are You Ready For The Next Step?</h4></a>
-			</div>
-		</div><!-- /container -->
-	</div><!-- /cta-bar -->
+  
 	
 	<! ========== FOOTER ======================================================================================================== 
 	=============================================================================================================================>    
@@ -25,6 +19,7 @@
 				</div><! --/col-lg-3 -->
 				
 				<!-- LATEST POSTS -->
+        <!--
 				<div class="col-lg-3">
 					<h4>Exchanges</h4>
 					<p>
@@ -34,9 +29,12 @@
 						<i class="fa fa-angle-right"></i> <a href="http://www.btc38.com/trade.html?btc38_trade_coin_name=pts">BTC38 - PTS/CNY</a><br/>
 						<i class="fa fa-angle-right"></i> <a href="https://peatio.com/">Peatio</a><br/>
 					</p>
-				</div><!-- /col-lg-3 -->
+				</div>
+        -->
+        <!-- /col-lg-3 -->
 				
 				<!-- LATEST POSTS -->
+        <!--
 				<div class="col-lg-3">
 					<h4>Mining</h4>
 					<p>
@@ -44,7 +42,9 @@
 						<i class="fa fa-angle-right"></i> <a href="http://ptspool.com/">http://ptspool.com/</a> -  4% fee <br/>
 						<i class="fa fa-angle-right"></i> <a href="http://ypool.net">http://ypool.net</a> -  6% fee<br/>
 					</p>
-				</div><!-- /col-lg-3 -->	
+				</div>
+        -->
+        <!-- /col-lg-3 -->	
 				
 				<!-- LATEST POSTS -->
 				<div class="col-lg-3">

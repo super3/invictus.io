@@ -59,20 +59,9 @@
     </div>
     <div class="navbar-collapse collapse">
       <ul class="nav navbar-nav navbar-right">
-        <li class="active"><a href="news.php">News</a></li>
-        <li><a href="bitshares.php">Bitshares</a></li>
+        <li><a href="bitsharesx.php">BitShares X</a></li>
         <li><a href="keyhotee.php">Keyhotee</a></li>
-
-      <li class="dropdown">
-          <a href="#" class="dropdown-toggle" data-toggle="dropdown">Funding <i class="fa fa-angle-down"></i></a>
-          <ul class="dropdown-menu">
-            <!--<li><a href="funding-overview.php">Overview</a></li>-->
-            <li><a href="funding-protoshares.php">ProtoShares (PTS)</a></li>
-            <li><a href="funding-angelshares.php">AngelShares (AGS)</a></li>
-			<li><a href="funding-philosophy.php">Funding Philosophy</a></li>
-          </ul>
-      </li>
-
+<!--
       <li class="dropdown">
           <a href="#" class="dropdown-toggle" data-toggle="dropdown">Our Products<i class="fa fa-angle-down"></i></a>
           <ul class="dropdown-menu">
@@ -85,10 +74,14 @@
             <li><a href="funding-angelshares.php">AngelShares (AGS)</a></li>			
           </ul>
       </li>
+-->
 
+  <!--    <li><a href="blog.php">Blog</a></li> -->
       <li><a href="https://bitsharestalk.org/">Community</a></li>
+      <!--
       <li><a href="#"><img src="assets/img/us.png" alt="US Flag"/></a></li>
       <li><a href="http://www.invictus-innovations.cn/ZH/"><img src="assets/img/cn.png" alt="US Flag"/></a></li>
+      -->
     
       </ul>
     </div><!--/.nav-collapse -->
