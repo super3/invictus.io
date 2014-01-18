@@ -26,9 +26,9 @@
 							<p style="text-align: justify;">		
 								We as Invictus Innovations see a bright future for the cryptocurrencies. We are on the verge of a new breakthrough in economics, the likes we have not seen in decades.
 								To develop and build these exciting products requires significant funding. The development of the next level cryptocurrency and equity exchange, <a href="#">Bitshares (BTS)</a> , and our other <a href="What-is-a-DAC.html#top">DACs</a>,
-								is thus funded like our main motto; open and distributed. We will explain here how to be a part of this new technology by taking part in one or both of our capitol raising products.
+								is thus funded like our main motto; open and distributed. We will explain here how to be a part of this new technology by taking part in one or both of our capital raising products.
 							</p>
-						<h3>As an technologist</h3>
+						<h3>As a technologist</h3>
 							<p style="text-align: justify;">
 								BitShares PTS, or Protoshares, is our first developed investment vehicle. It is a cryptocurrency, based off the well-known Bitcoin protocol, that is minable (generation of coins by input of computational work) by every cryptocurrency enthusiast.
 								Currently it is one of the largest alternative-cryptocurrencies, backed by many miners, supporting innovation. Stake in BitShares PTS will be directly mapped to every new financial product that we develop. Furthermore owning Protoshares, 
@@ -37,7 +37,7 @@
 							
 						<h3>As an investor</h3>
 							<p style="text-align: justify;">	
-								BitShares AGS, or Angelshares, are the investor equivalent of technologists Protoshares. Shares in this product are acquirable in a novel way. Every day for 200 days, 10.000 stakes are mapped to the investors in Angelshares.
+								BitShares AGS, or Angelshares, are the investor equivalent of technologists Protoshares. Shares in this product are acquirable in a novel way. Every day for 200 days, 10,000 stakes are mapped to the investors in Angelshares.
 								Invest using either BitShares PTS or Bitcoin. After 200 days, 2 million stakes will be distributed, the same number of stakes as in BitShares PTS. Stake in BitShares AGS will be directly mapped to every new financial product that we develop.
 								<br>Read more about BitShares AGS: <a href="funding-angelshares.php">here</a> 						
 							</p>

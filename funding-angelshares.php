@@ -18,14 +18,14 @@
 					<div class="col-lg-7">					
 						<h3>What is BitShares AGS?</h3>					
 						<p style="text-align: justify;">								
-              The Internet has spawned a new era that is transforming our society like never before.  Simultainously giving us 
-              new freedoms and exposing us to previously inconceivable levels of survalance and control.  Invictus Innovations is
+              The Internet has spawned a new era that is transforming our society like never before.  Simultaneously giving us 
+              new freedoms and exposing us to previously inconceivable levels of surveillance and control.  Invictus Innovations is
               leading the way toward a more free society through the development of new technologies that enable the decentralization
               of everything from banking to voting.
 
               We are committed to building technologies that are so decentralized that they are beyond our control once developed.  Building
               these technologies requires significant funding and gives us no direct sources of revenue.  Undeterred from our mission to
-              develope freedom-giving technologies, we have created an opportunity for those who would like to donate to the cause: BitShares AGS. 
+              develop freedom-giving technologies, we have created an opportunity for those who would like to donate to the cause: BitShares AGS. 
 					  </p>
 
 						<h3>How will my donations be used?</h3>	
@@ -40,7 +40,7 @@
             </p>
 						<h3>Take part in BitShares Solutions</h3>	
 							<p style="text-align: justify;">								
-							Both BitShares PTS and BitShares AGS rely upon the willingness of us and allied developers to honor these donations
+							Both BitShares PTS and BitShares AGS rely upon the willingness of us and Allied developers to honor these donations
 							with credits in new decentralized block-chain based products that we as Invictus Innovations and others develop.  All
               of our products are open source and therefore anyone is able to honor the donators who made these technologies possible.
               
@@ -67,8 +67,8 @@
 							<li>Remaining the bitshares should be customized to the needs of each BitShares chain.</li>
 							</ul>
               <br/>
-              This emerging social consensus and resulting network effect will be further reforced by the Social Consensus Software License
-              which will require all derivitive software products to initialize their blockchain according to this consensus.  
+              This emerging social consensus and resulting network effect will be further reinforced by the Social Consensus Software License
+              which will require all derivative software products to initialize their blockchain according to this consensus.  
               <br/>
               <br/>
               <br/>
@@ -79,16 +79,16 @@
 								<h3>How to earn BitShares AGS?</h3>					
                <p style="text-align: justify;">								
                  Beginning New Year’s Day 2014, there will be 10,000 new AGS available in a new patron competition, every day, for 200 days. 
-                 5000 of them will be available to BitShares PTS holders. 5000 of them will be available to Bitcoin holders. 
+                 5,000 of them will be available to BitShares PTS holders. 5,000 of them will be available to Bitcoin holders. 
                  That's ultimately 2,000,000 total shares, just like BitShares PTS.
                </p>
                <p>
-                 Those who donate bitcoins to this Angel Address will proportionally split 5000 AGS
+                 Those who donate bitcoins to this Angel Address will proportionally split 5,000 AGS
                  <a href="https://blockchain.info/address/1ANGELwQwWxMmbdaSWhWLqBEtPTkWb8uDc">(See Block Explorer)</a>:
                </p>
                  <pre>1ANGELwQwWxMmbdaSWhWLqBEtPTkWb8uDc</pre>
                <p>
-                 Those who donate PTS to this Angel Address will proportionally split 5000 AGS
+                 Those who donate PTS to this Angel Address will proportionally split 5,000 AGS
                  <a href="https://coinplorer.com/PTS/Addresses/PaNGELmZgzRQCKeEKM6ifgTqNkC4ceiAWw">(See Block Explorer)</a>:
                </p>
                  <pre>PaNGELmZgzRQCKeEKM6ifgTqNkC4ceiAWw</pre>
