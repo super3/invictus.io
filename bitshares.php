@@ -32,7 +32,7 @@
 							<h3>For consumers</h3>
 							<p style="text-align: justify;">
 								Bitshares will allow you to enjoy what cryptocurrencies offer, a safe, private, fast, irrepressible payments around the globe. Furthermore Bitshares will allow you to leverage your funds, being fiat or equity, in a 
-								similar, distributed fashion. What innovations Bitcoin brought to fiat currencies, what innovations Bitshares will bring to equity and currency trading. 
+								similar, distributed fashion. The innovations that Bitcoin brought to fiat currencies will be equivalent to the innovations that Bitshares will bring to equity and currency trading. 
 							</p>								
 							
 							<h3>For investors</h3>			

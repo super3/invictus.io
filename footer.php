@@ -38,6 +38,7 @@
 				<div class="col-lg-3">
 					<h4>Mining</h4>
 					<p>
+            <i class="fa fa-angle-right"></i< <a href="http://ptsweb.beeeeer.org/>http://ptsweb.beeeeer.org/</a> - 2.5% fee<br/>
 						<i class="fa fa-angle-right"></i> <a href="http://pts.rpool.net">http://pts.rpool.net</a> -  3% fee<br/>
 						<i class="fa fa-angle-right"></i> <a href="http://ptspool.com/">http://ptspool.com/</a> -  4% fee <br/>
 						<i class="fa fa-angle-right"></i> <a href="http://ypool.net">http://ypool.net</a> -  6% fee<br/>
