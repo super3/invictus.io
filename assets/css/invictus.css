@@ -1,0 +1,345 @@
+/* Table of Contents
+
+1 Default
+2 Elements
+	2.1 Nav
+	2.2 Header
+	2.3 Content
+
+
+
+*/
+
+
+/*
+*
+*
+*
+* 1 Default
+*/
+
+p {
+	font-weight: 500;
+	line-height: 24px;
+	color: #1b485d;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	color: #1b485d;
+}
+
+#white {
+	padding: 40px 0;
+}
+
+#white a {
+	text-decoration: underline;
+}
+
+#white a:hover {
+	color: #111;
+}
+
+#white ul {
+	list-style: disc inside;
+	margin: 0;
+	padding: 0;
+	font-weight: 500;
+}
+
+#white ul a {
+	text-decoration: none;
+}
+
+#white .item {
+	padding: 30px 30px 0 0;
+}
+
+#white .item p:last-child {
+	margin-bottom: 0;
+}
+
+.sidebar {
+	padding-top: 90px !important;
+}
+
+.sidebar .block {
+	background-color: #f2f7f9;
+	padding: 20px 30px;
+	color: #1b485d;
+	margin-bottom: 30px;
+}
+
+.sidebar .block h2,
+.sidebar .block h3 {
+	color: #1b485d;
+}
+
+.sidebar .block p {
+	line-height: 24px;
+}
+
+.btn {
+	background-color: #1d4c60;
+	color: #fff;
+	padding: 8px 15px;
+	text-align: center;
+	font-weight: 700;
+	font-size: 15px;
+	border-radius: 3px;
+	text-decoration: none !important;
+}
+
+.btn:hover {
+	background-color: #2c657d;
+	color: #fff !important;
+}
+
+.btn.light {
+	background-color: #80a9ba;
+}
+
+.btn.light:hover {
+	color: #fff !important;
+	background-color: #96becf;
+}
+
+.btn.large {
+	padding: 12px 30px;
+	font-size: 17px;
+}
+
+.btn.large:hover {
+	color: #fff !important;
+}
+
+#f {
+	background-color: #f2f7f9;
+	color: #1b485d;
+}
+
+#f h4 {
+	color: #1b485d;
+}
+
+#f p {
+	color: #1b485d;
+}
+
+#f a {
+	color: #1b485d;
+	text-decoration: underline;
+}
+
+#f a:hover {
+	color: #000;
+}
+
+
+
+
+/*
+*
+*
+*
+* 2 Elements
+*/
+
+/* 2.1 Nav */
+.nav > li > a {
+	font-weight: 700;
+}
+
+/* 2.2 Header */
+#headerwrap.keyhotee {
+	background: none #afe1f8;
+	color: #1b485d;
+}
+
+#headerwrap.keyhotee .row {
+	margin-bottom: 60px;
+}
+
+#headerwrap.keyhotee h1,
+#headerwrap.keyhotee h2 {
+	color: #1b485d;
+}
+
+#headerwrap.keyhotee h3 {
+	font-family: "Open Sans";
+	font-size: 14px;
+	line-height: 20px;
+	text-align: center;
+}
+
+#headerwrap.keyhotee .buttons {
+	padding: 20px 0 10px 0;
+}
+
+#headerwrap.keyhotee .buttons a {
+	display: inline-block;
+	margin: 0 10px;
+}
+
+/* 2.3 Content */
+.boxes {
+	margin-bottom: 70px;
+}
+.lightblue-bg {
+	background-color: #f2f7f9;
+	padding: 60px 0 0 0;
+	overflow: hidden;
+}
+
+.lightblue-bg img {
+	box-shadow: 0 0 40px #aec7d1;
+}
+
+.downloads h2 {
+	font-size: 46px;
+	font-weight: bold;
+	margin-bottom: 30px;
+}
+
+.downloads p {
+	color: #759eaf;
+	font-size: 22px;
+	line-height: 32px;
+	width: 80%;
+}
+
+.paper {
+	text-align: center;
+}
+
+.paper .part-01 {
+	background-color: #1e4b60;
+}
+
+.paper .part-02 {
+	background-color: #afe1f8;
+}
+
+.paper img {
+	display: inline-block;
+}
+
+.paper .download-section {
+	display: none;
+	padding: 50px 0;
+	background-color: #1e4b60;
+	color: #fff;
+}
+
+.paper .download-section h2 a {
+	font-size: 32px;
+	color: #94bed2;
+	text-decoration: none !important;
+}
+
+.paper .download-section h2 a:hover {
+	color: #fff !important;
+}
+
+.full-info {
+	padding: 40px 0;
+}
+
+.full-info h2 {
+	font-weight: bold;
+	font-size: 36px;
+	margin-bottom: 40px;
+}
+
+@media (max-width: 991px) {
+	#headerwrap .col-md-3 {
+		width: 50%;
+		float: left;
+		text-align: center;
+		padding-bottom: 30px;
+	}
+	#headerwrap .col-md-3 h3 {
+		width: 70%;
+		margin: 0 auto;
+	}
+
+	.downloads .col-md-6 {
+		padding-bottom: 50px;
+	}
+
+	.downloads .col-md-6:last-child {
+		padding-bottom: 0;
+	}
+}
+
+@media (max-width: 768px) {
+	.paper .part-01, .paper .part-02 {
+		display: none;
+	}
+
+	.paper .download-section {
+		display: block;
+	}
+
+	#headerwrap .buttons a {
+		display: block !important;
+		margin-bottom: 15px !important;
+		width: 60%;
+		margin: 0 auto 15px auto !important;
+	}
+
+	.full-info {
+		padding: 0 30px;
+	}
+
+}
+
+@media (max-width: 600px) {
+	#headerwrap .col-md-3 {
+		width: 100%;
+		float: none;
+		text-align: center;
+		padding-bottom: 30px;
+	}
+	#headerwrap .col-md-3 h3 {
+		width: 50%;
+		margin: 0 auto;
+	}
+
+	#headerwrap .buttons a {
+		display: block !important;
+		width: 100%;
+		margin: 0 auto 15px 0 !important;
+	}
+
+	.downloads .col-md-6 {
+		text-align: center;
+	}
+
+	.downloads .col-md-6 p {
+		width: 100%;
+	}
+}
+
+@media (max-width: 400px) {
+	#headerwrap .col-md-3 h3 {
+		width: 80%;
+		margin: 0 auto;
+	}
+
+	.btn.large {
+		font-size: 16px;
+		padding: 10px 20px;
+	}
+
+	.downloads p {
+		font-size: 17px;
+		line-height: 25px;
+	}
+
+	.downloads a.btn,
+	.sidebar a.btn {
+		font-size: 14px;
+		padding: 6px 10px;
+	}
+}

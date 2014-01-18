@@ -1,10 +1,10 @@
-	<! ========== CALL TO ACTION BAR =============================================================================================== 
-	=============================================================================================================================>    
-  
-	
-	<! ========== FOOTER ======================================================================================================== 
-	=============================================================================================================================>    
-	
+	<! ========== CALL TO ACTION BAR ===============================================================================================
+	=============================================================================================================================>
+
+
+	<! ========== FOOTER ========================================================================================================
+	=============================================================================================================================>
+
 	<div id="f">
 		<div class="container">
 			<div class="row">
@@ -17,7 +17,7 @@
 						 Blacksburg, VA 24060, USA<br/>
 					</p>
 				</div><! --/col-lg-3 -->
-				
+
 				<!-- LATEST POSTS -->
         <!--
 				<div class="col-lg-3">
@@ -32,7 +32,7 @@
 				</div>
         -->
         <!-- /col-lg-3 -->
-				
+
 				<!-- LATEST POSTS -->
         <!--
 				<div class="col-lg-3">
@@ -44,8 +44,8 @@
 					</p>
 				</div>
         -->
-        <!-- /col-lg-3 -->	
-				
+        <!-- /col-lg-3 -->
+
 				<!-- LATEST POSTS -->
 				<div class="col-lg-3">
 					<h4>Info</h4>
@@ -55,12 +55,12 @@
 						<i class="fa fa-angle-right"></i> <a href="https://github.com/super3/invictus/issues?milestone=1&ampl;state=open">Report Problems with Invictus.io</a>
 					</p>
 				</div><!-- /col-lg-3 -->
-				
-				
+
+
 			</div><! --/row -->
 		</div><!-- /container -->
 	</div><!-- /f -->
-	
+
 
 
     <!-- Bootstrap core JavaScript
@@ -68,23 +68,24 @@
     <!-- Placed at the end of the document so the pages load faster -->
     <script src="assets/js/bootstrap.min.js"></script>
     <script src="assets/js/retina.js"></script>
+    <script src="assets/js/invictus.js"></script>
 	<script>
 		$(window).scroll(function() {
 			$('.si').each(function(){
 			var imagePos = $(this).offset().top;
-	
+
 			var topOfWindow = $(window).scrollTop();
 				if (imagePos < topOfWindow+400) {
 					$(this).addClass("slideUp");
 				}
 			});
 		});
-	</script>    
+	</script>
     <script>
 	    $('#myTab a').click(function (e) {
 		  e.preventDefault()
 		  $(this).tab('show')
 		})
-	</script>  
+	</script>
   </body>
 </html>
