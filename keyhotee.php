@@ -30,7 +30,7 @@
 				</div>
 				<div class="col-md-3">
 					<img src="assets/img/header/header-04.png" alt="Header Icon" />
-					<h3>Cryptocurrency payments means no more giving out of creditcard details.</h3>
+					<h3>Cryptocurrency payments means no more giving out of credit card details.</h3>
 				</div>
 			</div><!-- /row -->
 
