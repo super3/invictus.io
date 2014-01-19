@@ -81,12 +81,12 @@
 
           <div class="row">
             <div class="col-md-5 col-md-offset-1 mono-img">
-              <img src="assets/img/dividend.png" alt="Monopoly" />
+              <img src="assets/img/dividend.png" alt="Dividends" />
               <h3>You</h3>
               <p>receive dividends!</p>
             </div>
             <div class="col-md-5 mono-img">
-              <img src="assets/img/monopoly_banker.png" alt="Monopoly" />
+              <img src="assets/img/money_on_demand.png" alt="Payment On Demand" />
               <h3>200% Reserve,</h3>
               <p>withdraw on demand</p>
             </div>
