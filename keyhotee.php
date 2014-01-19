@@ -26,11 +26,11 @@
 				</div>
 				<div class="col-md-3">
 					<img src="assets/img/header/header-03.png" alt="Header Icon" />
-					<h3>Website connect with your Keyhotee-ID eliminating the need for passwords.</h3>
+					<h3>Website connect with your Keyhotee ID eliminating the need for passwords.</h3>
 				</div>
 				<div class="col-md-3">
 					<img src="assets/img/header/header-04.png" alt="Header Icon" />
-					<h3>Cryptocurrency payments means no more giving out of credit card details.</h3>
+					<h3>Cryptocurrency payments means no more giving out of creditcard details.</h3>
 				</div>
 			</div><!-- /row -->
 
@@ -87,7 +87,7 @@
 				<div class="row">
 					<div class="col-md-6">
 						<h2>Downloads</h2>
-						<p>Note: Keyhotee is now in alpha testing. There may be instability and many bugs. Please report any problems you have.</p>
+						<p>Note: Keyhotee is now in alpha testing. There may be unstability and many bugs. Please report any problems you have.</p>
 						<a class="btn large" href="http://invictus.dev/bin/keyhotee_0.5.0.zip">Download Keyhotee 0.5 (Windows)</a>
 					</div><!-- end col -->
 					<div class="col-md-6 centered">
@@ -178,7 +178,7 @@
 						<div class="block">
 						<h3>Downloads</h3>
 							<p>
-								Note: Keyhotee is now in alpha testing. There may be instability and many bugs.
+								Note: Keyhotee is now in alpha testing. There may be unstability and many bugs.
 								Please <a href="https://bitsharestalk.org/index.php?board=2.0">report</a> any problems you have. <br/>
 							</p>
 							<p><a class="btn btn-lg" href="bin/keyhotee_0.5.0.zip">Download Keyhotee 0.5 (Windows)</a></p>

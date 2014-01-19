@@ -1,72 +1,60 @@
 <?php include 'header.php'; ?>
 
-	<! ========== HEADERWRAP ==================================================================================================== 
+	<! ========== HEADERWRAP ====================================================================================================
 	=============================================================================================================================>
-    <div id="headerwrap">
+    <div id="headerwrap" class="index-page">
     	<div class="container">
 			<div class="row">
-        <table width="1150px" >
-        <tr><td width="50%" align="center">
+        <div class="col-md-5 col-md-offset-1">
 					<h1 class="slideUp">BitShares X</h1>
-					<h2 class="slideUp">Earn 5% or more on Anything.</h2>
-          <p/>
-          <p/>
-             		<a class="btn btn-primary btn-lg" href="bitsharesx.php">Learn More</a>
-          </td>
-          <td align="center">
-					<h1 class="slideUp">Keyhotee</h1>
-					<h2 class="slideUp">Own your Identity</h2>
-          <p/>
-          <p/>
-             		<a class="btn btn-primary btn-lg" href="keyhotee.php">Download Now</a>
-          </tr>
-         </table>
-          <!--
-					<a href="http://invictus.io/keyhotee.php">
-						<img class="img-responsive" src="assets/img/browser.png" alt="">
-					</a>
-          -->
+					<h2 class="slideUp">Decentralized Autonomous Bank Exchange.</h2>
+            <div class="buttons">
+           		<a class="btn btn-primary btn-lg" href="bitsharesx.php">More about BitShares X</a>
+            </div>
+        </div>
+        <div class="col-md-5">
+  					<h1 class="slideUp">Keyhotee</h1>
+  					<h2 class="slideUp">Take back control of your digital life.</h2>
+            <div class="buttons">
+            <a class="btn btn-primary btn-lg" href="keyhotee.php">More about Keyhotee</a>
+            </div>
+          </div>
 			</div><!-- /row -->
     	</div><!-- /container -->
     </div> <!-- /headerwrap -->
-    
 
-	<! ========== FEATURED ICONS ================================================================================================ 
-	=============================================================================================================================>    
+
+	<! ========== FEATURED ICONS ================================================================================================
+	=============================================================================================================================>
+
+  <div class="index-content">
     <div class="container">
     	<div class="row mt">
-    		<div class="col-lg-4 centered">
-    			<!--<i class="fa fa-user"></i>-->
+    		<div class="col-md-4 centered">
+          <div class="inner">
+          <i class="fa fa-cog"></i>
     			<h3>Developers</h3>
-    			<p>
-              <img style="border-radius:20px; -webkit-border-radius: 20px; border:1px solid #;" src="assets/img/developers.jpg" width="270px" height="160"/>
-              <br/>
-              <br/>
-             		<a class="btn btn-primary btn-lg" href="https://bitsharestalk.org/index.php?board=38.0">Build BitShares</a>
-        	    </p>
+       		<a class="btn btn-primary btn-lg" href="https://bitsharestalk.org/index.php?board=38.0">Build BitShares</a>
+          </div>
     		</div>
-    		<div class="col-lg-4 centered">
-    			<!--<i class="fa fa-eye"></i>-->
+    		<div class="col-md-4 centered">
+        <div class="inner">
+          <i class="fa fa-star"></i>
     			<h3>Angels</h3>
-    			<p>
-              <img style="border-radius:20px; -webkit-border-radius: 20px; border:1px solid #;" src="assets/img/angels_chart.png" width="270px" height="160"/>
-              <br/>
-              <br/>
-          		<a class="btn btn-primary btn-lg" href="funding-angelshares.php">Support BitShares</a>
-          		</p>
+      		<a class="btn btn-primary btn-lg" href="funding-angelshares.php">Support BitShares</a>
+          </div>
     		</div>
-    		<div class="col-lg-4 centered">
-    			<!--<i class="fa fa-user"></i>-->
+    		<div class="col-md-4 centered">
+        <div class="inner">
+          <i class="fa fa-bar-chart-o"></i>
     			<h3>Speculators</h3>
-              <img style="border-radius:20px; -webkit-border-radius: 20px; border:1px solid #;" src="assets/img/ptschart.png" width="270px" height="160"/>
-              <br/>
-              <br/>
-    			   <a class="btn btn-primary btn-lg" href="funding-protoshares.php">Trade Now</a>
-    			</p>
-    		</div>    	
+          <a class="btn btn-primary btn-lg" href="funding-protoshares.php">Trade Now</a>
+          </div>
+    		</div>
 
-    	
+
     	</div><!-- /row -->
     </div><!-- /container -->
-    
+    </div><!-- end index-page -->
+
 <?php include 'footer.php'; ?>
