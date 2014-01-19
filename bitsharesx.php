@@ -77,8 +77,8 @@
 
   <div class="container">
     <div class="inner-page row action-buttons">
-      <a class="btn btn-primary btn-lg" href="funding-angelshares.php">Support BitShares</a>
-      <a class="btn btn-primary btn-lg" href="funding-protoshares.php">Trade Now</a>
+      <a class="btn btn-primary btn-lg" href="bitshares-ags.php">Support the BitShares</a>
+      <a class="btn btn-primary btn-lg" href="bitshares-pts.php">Buy Now with BitShares PTS</a>
     </div>
   </div>
 </div>

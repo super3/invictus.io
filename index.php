@@ -41,14 +41,14 @@
         <div class="inner">
           <i class="fa fa-star"></i>
     			<h3>Angels</h3>
-      		<a class="btn btn-primary btn-lg" href="funding-angelshares.php">Support BitShares</a>
+      		<a class="btn btn-primary btn-lg" href="bitshares-ags.php">Support BitShares</a>
           </div>
     		</div>
     		<div class="col-md-4 centered">
         <div class="inner">
           <i class="fa fa-bar-chart-o"></i>
-    			<h3>Speculators</h3>
-          <a class="btn btn-primary btn-lg" href="funding-protoshares.php">Trade Now</a>
+    			<h3>Traders</h3>
+          <a class="btn btn-primary btn-lg" href="bitshares-pts.php">Trade Now</a>
           </div>
     		</div>
 
