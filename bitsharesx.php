@@ -6,10 +6,10 @@
         <div class="container">
         <div class="row">
           <div class="col-lg-12 centered">
-            <h1 class="slideUp">BitsharesX.</h1>
-            <h2 class="slideUp">Decentralized Autonomous Bank Exchange.</h2>
+            <h1 class="slideUp">BitShares X</h1>
+            <h2 class="slideUp">Earn 5% or more on <i>Anything.</i></h2>
             <div class="buttons">
-              <a class="btn smoothScroll" href="#tables">Why BitsharesX</a>
+              <a class="btn smoothScroll" href="#tables">Why BitShares X</a>
               <!--<a class="btn" href="#">Trade now</a>-->
             </div>
           </div>
