@@ -3,11 +3,9 @@
 1 Default
 2 Elements
 	2.1 Nav
-	2.2 Header
-	2.3 Content
-
-
-
+	2.2 Header Keyhotee
+	2.3 Header BitsharesX
+	2.4 Content
 */
 
 
@@ -150,7 +148,7 @@ h1, h2, h3, h4, h5, h6 {
 	font-weight: 700;
 }
 
-/* 2.2 Header */
+/* 2.2 Header Keyhotee */
 #headerwrap.keyhotee {
 	background: none #afe1f8;
 	color: #1b485d;
@@ -158,6 +156,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #headerwrap.keyhotee .row {
 	margin-bottom: 60px;
+	text-align: center;
 }
 
 #headerwrap.keyhotee h1,
@@ -181,7 +180,27 @@ h1, h2, h3, h4, h5, h6 {
 	margin: 0 10px;
 }
 
-/* 2.3 Content */
+/* 2.3 Header BotsharesX */
+#headerwrap.bitsharesx {
+	background: none #105077;
+}
+
+#headerwrap.bitsharesx .buttons {
+	padding: 30px 0 90px 0;
+}
+
+#headerwrap.bitsharesx .buttons a {
+	display: inline-block;
+	margin: 0 10px;
+	padding: 14px 40px;
+	background-color: #4885ab;
+}
+
+#headerwrap.bitsharesx .buttons a:hover {
+	background-color: #619dc3;
+}
+
+/* 2.4 Content */
 .boxes {
 	margin-bottom: 70px;
 }
@@ -251,6 +270,155 @@ h1, h2, h3, h4, h5, h6 {
 	margin-bottom: 40px;
 }
 
+
+#white.bitsharesx .boxes {
+	padding-top: 40px;
+}
+
+#white.bitsharesx .boxes h2 {
+	font-size: 30px;
+	line-height: 40px;
+}
+
+#white.bitsharesx .boxes img.bitsharesx-logo {
+	width: 100%;
+}
+
+#white.bitsharesx .boxes ul {
+	list-style: none outside;
+}
+
+#white.bitsharesx .boxes li {
+	background-color: #4aa6d4;
+	display: inline-block;
+	width: 27%;
+	float: right;
+	color: #fff;
+	min-height: 140px;
+	text-align: center;
+	margin: 0 30px;
+	margin-bottom: 30px;
+	border-radius: 3px;
+}
+
+body #white.bitsharesx .boxes li h3 {
+	margin: 0 0 15px 0;
+	padding: 0;
+	color: #fff;
+	padding: 20px 15px;
+	background-color: #105077;
+	border-top-left-radius: 3px;
+	border-top-right-radius: 3px;
+}
+
+body #white.bitsharesx .boxes li span {
+	font-size: 16px;
+	font-weight: 700;
+}
+
+.bitsharesx .lightblue-bg {
+	overflow: visible;
+	padding-bottom: 90px;
+}
+
+.bitsharesx .specs-table h2 {
+	font-size: 40px;
+	text-align: center;
+	margin-bottom: 50px;
+}
+
+#white.bitsharesx .specs-table ul {
+	list-style: none outside;
+	background-color: #fff;
+	padding: 30px 40px 20px 40px;
+	text-align: center;
+	color: #1b485d;
+	font-size: 15px;
+	border-radius: 3px;
+	border: 1px solid #d8e2e6;
+	box-shadow: 0 2px 2px #d8e2e6;
+}
+
+#white.bitsharesx .specs-table .your-bank ul {
+	color: #668fa2;
+}
+
+.bitsharesx .specs-table li {
+	margin-bottom: 8px;
+	padding-bottom: 8px;
+	border-bottom: 1px solid #f2f7f9;
+}
+
+.bitsharesx .specs-table li:last-child {
+	border: none;
+}
+
+.bitsharesx .specs-table li img {
+	width: 100%;
+	box-shadow: none;
+	margin-bottom: 20px;
+}
+
+.bitsharesx .specs-table li h3 {
+	margin-bottom: 20px;
+}
+
+.bitsharesx .specs-table li.final {
+	padding-top: 10px;
+}
+
+.bitsharesx .specs-table li.final span {
+	display: inline-block;
+	background-color: #faeae7;
+	padding: 10px 20px;
+	color: #a94d3b;
+	border-radius: 3px;
+	font-size: 15px;
+	font-weight: 700;
+}
+
+.bitsharesx .specs-table .bitshares li.final span {
+	background-color: #ebf2dd;
+	color: #7d9849;
+	font-weight: 700;
+}
+
+.bitsharesx .action-buttons {
+	padding: 70px 0 30px 0;
+	text-align: center;
+}
+
+.bitsharesx .action-buttons a.btn {
+	padding: 20px 70px;
+	margin: 0 20px;
+	font-size: 18px;
+	box-shadow: none;
+	border: none;
+}
+
+@media (max-width: 1200px) {
+
+	#white.bitsharesx .boxes h2 {
+		font-size: 26px;
+		line-height: 36px;
+	}
+
+	#white.bitsharesx .boxes li {
+		width: 25%;
+		min-height: 140px;
+		margin: 0 30px;
+		margin-bottom: 30px;
+	}
+
+	.bitsharesx .specs-table li h3 {
+		margin-top: 10px;
+	}
+
+	.bitsharesx .specs-table li {
+		font-size: 13px;
+	}
+}
+
 @media (max-width: 991px) {
 	#headerwrap .col-md-3 {
 		width: 50%;
@@ -269,6 +437,38 @@ h1, h2, h3, h4, h5, h6 {
 
 	.downloads .col-md-6:last-child {
 		padding-bottom: 0;
+	}
+
+	#white.bitsharesx .boxes {
+		text-align: center;
+	}
+
+	#white.bitsharesx .boxes h2 {
+		font-size: 36px;
+		line-height: 42px;
+		text-align: center;
+	}
+
+	#white.bitsharesx .boxes img.bitsharesx-logo {
+		width: 50%;
+		margin: 0 auto 70px auto;
+	}
+
+	#white.bitsharesx .boxes ul {
+		padding-right: 70px;
+	}
+
+	#white.bitsharesx .boxes li {
+		width: 35%;
+	}
+
+	#white.bitsharesx .specs-table ul {
+		width: 50%;
+		margin: 0 auto 40px auto;
+	}
+
+	#white.bitsharesx .boxes li.clear-mobile {
+		clear: right;
 	}
 }
 
@@ -292,6 +492,35 @@ h1, h2, h3, h4, h5, h6 {
 		padding: 0 30px;
 	}
 
+}
+
+@media (max-width: 660px) {
+	#white.bitsharesx .boxes h2 {
+		padding: 0 30px;
+	}
+
+	#white.bitsharesx .boxes ul {
+		padding-right: 20px;
+	}
+
+	#white.bitsharesx .boxes li {
+		width: 90%;
+		float: none;
+	}
+
+	#white.bitsharesx .boxes li h3 {
+		font-size: 18px;
+	}
+
+	body #white.bitsharesx .boxes li span {
+		font-size: 15px;
+	}
+
+	.action-buttons a {
+		display: block;
+		width: 90%;
+		margin-bottom: 30px !important;
+	}
 }
 
 @media (max-width: 600px) {
@@ -318,6 +547,25 @@ h1, h2, h3, h4, h5, h6 {
 
 	.downloads .col-md-6 p {
 		width: 100%;
+	}
+
+	#white.bitsharesx .boxes ul {
+		padding: 0;
+	}
+
+	#white.bitsharesx .boxes li {
+		width: 70%;
+		float: none;
+		min-height: 10px;
+		padding-bottom: 20px;
+	}
+
+	#white.bitsharesx .boxes img.bitsharesx-logo {
+		width: 90%;
+	}
+
+	#white.bitsharesx .specs-table ul {
+		width: 90%;
 	}
 }
 
