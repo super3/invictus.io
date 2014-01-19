@@ -46,9 +46,25 @@
   			<div class="inner-page row">
           <h2>But... it's what's <i>different</i> that counts!</h2>
 
-          <div class="col-md-4 col-md-offset-2 your-bank">
+          <div class="col-md-6 your-bank">
+
+          <h3 class="maintitle bank">Your current bank</h3>
+
+          <div class="row">
+            <div class="col-md-5 col-md-offset-1 mono-img">
+              <img src="assets/img/monopoly_banker.png" alt="Monopoly" />
+              <h3>Insiders</h3>
+              <p>run away with bonuses</p>
+            </div>
+            <div class="col-md-5 mono-img">
+              <img src="assets/img/bankrupt2.png" alt="Monopoly" />
+              <h3>Bankrupt,</h3>
+              <p>in need of bailout</p>
+            </div>
+            </div>
+
             <ul>
-              <li><h3>Your current Bank</h3></li>
+              <!--<li><h3>Your current Bank</h3></li>-->
               <li>Low Yield Savings</li>
               <li>Dollar Deposits Only</li>
               <li>Slow Transfers</li>
@@ -59,9 +75,25 @@
            </ul>
          </div>
 
-          <div class="col-md-4 bitshares">
+          <div class="col-md-6 bitshares">
+
+          <h3 class="maintitle"><img class="bitsharesx-logo" src="assets/img/bitsharesx.png" alt="BitsharesX" /></h3>
+
+          <div class="row">
+            <div class="col-md-5 col-md-offset-1 mono-img">
+              <img src="assets/img/dividend.png" alt="Monopoly" />
+              <h3>You</h3>
+              <p>receive dividends!</p>
+            </div>
+            <div class="col-md-5 mono-img">
+              <img src="assets/img/monopoly_banker.png" alt="Monopoly" />
+              <h3>200% Reserve,</h3>
+              <p>withdraw on demand</p>
+            </div>
+            </div>
+
             <ul>
-              <li><img class="bitsharesx-logo" src="assets/img/bitsharesx.png" alt="BitsharesX" /></li>
+              <!--<li><img class="bitsharesx-logo" src="assets/img/bitsharesx.png" alt="BitsharesX" /></li><-->
               <li>High Yield Savings</li>
               <li>Save in Gold, Silver, Gas, <i>Anything</i></li>
               <li>Instant Transfers</li>
