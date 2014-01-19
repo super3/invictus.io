@@ -14,7 +14,14 @@
 					<p>
 						Invictus Innovations Incorporated<br/>
 						2020 Kraft Dr., Suite 3030<br/>
-						 Blacksburg, VA 24060, USA<br/>
+					  Blacksburg, VA 24060, USA<br/>
+					</p>
+				</div><! --/col-lg-3 -->
+
+				<div class="col-lg-3">
+					<h4>Contact Us</h4>
+					<p>
+            <a href="mailto:contact.us@invictus-innovations.com">contact.us@invictus-innovations.com</a><br/>
 					</p>
 				</div><! --/col-lg-3 -->
 
@@ -51,7 +58,8 @@
 				<div class="col-lg-3">
 					<h4>Info</h4>
 					<p>
-						<i class="fa fa-angle-right"></i> <a href="https://bitsharestalk.org/index.php?topic=1631.0">Angel Shares &amp; BitShares Allocation</a><br/>
+            <i class="fa fa-angle-right"></i> <a href="https://github.com/InvictusInnovations">GitHub Repository</a><br/>
+            <i class="fa fa-angle-right"></i> <a href="http://wiki.invictus.io">Wiki</a><br/>
 						<i class="fa fa-angle-right"></i> <a href="https://github.com/super3/invictus">Code for Invictus.io</a><br/>
 						<i class="fa fa-angle-right"></i> <a href="https://github.com/super3/invictus/issues?milestone=1&ampl;state=open">Report Problems with Invictus.io</a>
 					</p>
