@@ -181,23 +181,37 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 /* 2.3 Header BotsharesX */
-#headerwrap.bitsharesx {
+#headerwrap.bitsharesx,
+#headerwrap.index-page {
 	background: none #105077;
 }
 
-#headerwrap.bitsharesx .buttons {
+#headerwrap.bitsharesx .buttons,
+#headerwrap.index-page .buttons {
 	padding: 30px 0 90px 0;
 }
 
-#headerwrap.bitsharesx .buttons a {
+#headerwrap.bitsharesx .buttons a,
+#headerwrap.index-page .buttons a {
 	display: inline-block;
+	border: 0;
 	margin: 0 10px;
 	padding: 14px 40px;
 	background-color: #4885ab;
 }
 
-#headerwrap.bitsharesx .buttons a:hover {
+#headerwrap.bitsharesx .buttons a:hover,
+#headerwrap.index-page .buttons a:hover {
 	background-color: #619dc3;
+}
+
+#headerwrap.index-page {
+	text-align: center;
+
+}
+
+#headerwrap.index-page h2 {
+	color: #b1cbdb;
 }
 
 /* 2.4 Content */
@@ -396,6 +410,37 @@ body #white.bitsharesx .boxes li span {
 	border: none;
 }
 
+/* Indexpage */
+.index-content {
+	background-color: #f2f7f9;
+	padding: 40px 0;
+}
+
+.index-content .mt .inner {
+	background-color: #fff;
+	text-align: center;
+	padding: 50px 0;
+	border-radius: 3px;
+	border: 1px solid #d8e2e6;
+	box-shadow: 0 2px 2px #d8e2e6;
+	margin-bottom: 30px;
+}
+
+.index-content .fa {
+	font-size: 90px;
+	color: #c7d7e0;
+}
+
+.index-content .mt h3 {
+	font-size: 32px;
+	margin-bottom:35px;
+}
+
+.index-content .mt .btn {
+	padding: 14px 25px;
+	border: none;
+}
+
 @media (max-width: 1200px) {
 
 	#white.bitsharesx .boxes h2 {
@@ -416,6 +461,13 @@ body #white.bitsharesx .boxes li span {
 
 	.bitsharesx .specs-table li {
 		font-size: 13px;
+	}
+
+	#headerwrap.index-page h1 {
+		font-size: 38px;
+	}
+	#headerwrap.index-page h2 {
+		font-size: 28px;
 	}
 }
 
@@ -469,6 +521,14 @@ body #white.bitsharesx .boxes li span {
 
 	#white.bitsharesx .boxes li.clear-mobile {
 		clear: right;
+	}
+
+	#headerwrap.index-page {
+		padding-bottom: 50px;
+	}
+
+	#headerwrap.index-page .buttons {
+		padding-bottom: 20px;
 	}
 }
 
