@@ -7,16 +7,16 @@
 			<div class="row">
         <div class="col-md-5 col-md-offset-1">
 					<h1 class="slideUp">BitShares X</h1>
-					<h2 class="slideUp">Decentralized Autonomous Bank Exchange.</h2>
+					<h2 class="slideUp">Earn 5% or more on <i>Anything</i></h2>
             <div class="buttons">
-           		<a class="btn btn-primary btn-lg" href="bitsharesx.php">More about BitShares X</a>
+           		<a class="btn btn-primary btn-lg" href="bitsharesx.php">Learn More</a>
             </div>
         </div>
         <div class="col-md-5">
   					<h1 class="slideUp">Keyhotee</h1>
-  					<h2 class="slideUp">Take back control of your digital life.</h2>
+  					<h2 class="slideUp">Own your Identity</h2>
             <div class="buttons">
-            <a class="btn btn-primary btn-lg" href="keyhotee.php">More about Keyhotee</a>
+            <a class="btn btn-primary btn-lg" href="keyhotee.php">Learn More</a>
             </div>
           </div>
 			</div><!-- /row -->
