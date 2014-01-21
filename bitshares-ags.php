@@ -99,7 +99,7 @@
                <p>
                  <a class="btn btn-yellow btn-lg" href="http://www1.agsexplorer.com">Visit www1.agsexplorer.com</a>
                  <br/>
-                 <a class="btn btn-yellow btn-lg" href="http://angelshares.info/beta/">Visit Angelshares.info</a>
+                 <a class="btn btn-yellow btn-lg" href="http://angelshares.info/beta/">Visit AngelShares.info</a>
               </p>
 						  </p>
 									</div>
