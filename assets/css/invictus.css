@@ -151,13 +151,13 @@ h1, h2, h3, h4, h5, h6 {
 /* 2.2 Header Keyhotee */
 #headerwrap.keyhotee {
 	/*background: none #afe1f8;*/
-	background: url(../img/windmills_in_holl.jpg)  no-repeat center top; 
+	background: url(../img/windmills_in_holl.jpg)  no-repeat center top;
 	background-position: center bottom;
 	background-attachment: relative;
-	min-height: 400px; 
+	min-height: 400px;
   background-height:100%;
   background-width:100%;
-  /*background-size:100%; 
+  /*background-size:100%;
 	color: #1b485d;*/
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -193,7 +193,7 @@ h1, h2, h3, h4, h5, h6 {
 
 /* 2.3 Header BotsharesX */
 #headerwrap.bitsharesx {
-	background: url(../img/stockback.jpg)  no-repeat center top; 
+	background: url(../img/stockback.jpg)  no-repeat center top;
 	min-height: 400px;
   background-size:100% 100%;
 }
@@ -489,6 +489,85 @@ body #white.bitsharesx .boxes li span {
 	padding: 14px 25px;
 	border: none;
 }
+
+.index-sub-title.col-1 { min-height:60px; margin-bottom: 35px; }
+.index-sub-title.col-2 { margin-top:-40px; margin-left:100px; margin-bottom: 35px; }
+.index-sub-title.col-3 { margin-top:-30px; margin-left:90px; margin-bottom: 35px; }
+
+
+/* BitShares Page */
+.bitsharesx.bitshares .row.boxes:first-child {
+	margin-bottom: 20px;
+}
+
+.bitsharesx.bitshares .boxes .col-md-3,
+.bitsharesx.bitshares .boxes .col-md-12 {
+	text-align: center;
+}
+
+.bitsharesx.bitshares .boxes h3 {
+	font-size: 16px;
+	line-height: 22px;
+}
+
+.bitsharesx.bitshares .lightblue-bg {
+	background-color: #f7f7f7;
+}
+
+#white.bitsharesx.bitshares .specs-table ul {
+	min-height: 440px;
+}
+
+#white.bitsharesx.bitshares .your-bank > .row,
+#white.bitsharesx.bitshares .bitshares > .row {
+	margin-bottom: 10px;
+}
+
+#white.bitsharesx.bitshares .your-bank img,
+#white.bitsharesx.bitshares .bitshares img {
+	box-shadow: none;
+}
+
+#white.bitsharesx.bitshares .bitshares img {
+	position: relative;
+	top: -10px;
+}
+
+#white.bitsharesx.bitshares .specs-table h2 {
+	margin-bottom: 50px;
+	padding-top: 20px;
+}
+
+#white.bitsharesx.bitshares .specs-table h3.maintitle {
+	margin-bottom: 10px;
+}
+
+#white.bitsharesx.bitshares h2 {
+	font-size: 40px;
+	line-height: 50px;
+	width: 70%;
+	margin: 0 auto;
+	text-align: center;
+	margin-bottom: 10px;
+}
+
+#white.bitsharesx.bitshares .specs-table ul {
+	background-color: #fff;
+	color: #71767d;
+	border: 1px solid #dfdfdf;
+	box-shadow: 0 2px 2px #ccc;
+}
+
+#bitshare-big.large-logo {
+	padding: 80px 0;
+	background: url(../img/bitshares/grow.jpg) no-repeat center center #fff;
+	background-size: cover;
+}
+#bitshare-big.large-logo img {
+	width: 100%;
+	max-width: 650px;
+}
+
 
 @media (max-width: 1200px) {
 
