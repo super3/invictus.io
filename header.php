@@ -8,7 +8,7 @@
     <meta name="author" content="">
     <link rel="shortcut icon" href="assets/ico/favicon.png">
 
-    <title>Invictus Innovations - Decentralized Solutions</title>
+    <title>Invictus Innovations - Reimagine Everything</title>
 
     <!-- Bootstrap core CSS -->
     <link href="assets/css/bootstrap.css" rel="stylesheet">
@@ -56,7 +56,7 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="index.php"><b>Invictus</b><!-- Innovations --></a>
+      <a class="navbar-brand" href="index.php"><img style="margin-top:-10px" height="20px" src="assets/img/Invictus.png"/><!--<b>Invictus</b>--><!-- Innovations --></a>
     </div>
     <div class="navbar-collapse collapse">
       <ul class="nav navbar-nav navbar-right">
@@ -78,7 +78,7 @@
 -->
 
   <!--    <li><a href="blog.php">Blog</a></li> -->
-      <li><a href="https://bitsharestalk.org/">Community</a></li>
+      <li><a href="https://bitsharestalk.org/">Forum</a></li>
       <!--
       <li><a href="#"><img src="assets/img/us.png" alt="US Flag"/></a></li>
       <li><a href="http://www.invictus-innovations.cn/ZH/"><img src="assets/img/cn.png" alt="US Flag"/></a></li>
