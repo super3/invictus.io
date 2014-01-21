@@ -5,7 +5,7 @@
       <div id="headerwrap" class="bitsharesx">
         <div class="container">
         <div class="row">
-        <div class="col-md-5 col-md-offset-1">
+        <div class="col-md-3 col-md-offset-1">
       <!--
 					<h1 class="slideUp">BitShares X</h1>
 					<h2 class="slideUp">Earn 5% or more on <i>Anything</i></h2>
@@ -14,9 +14,9 @@
             </div>
         -->
         </div>
-          <div class="col-lg-6 centered">
-            <h1 class="slideUp">BitShares X</h1>
-            <h2 class="slideUp">Earn 5% or more on <i>Anything.</i></h2>
+          <div class="col-lg-8 centered" style="margin-top:-50px">
+            <h1 class="slideDown">BitShares X</h1>
+            <h3 class="slideDown" style="margin-top:-10px; color:#ffffff">Earn 5% or more on <i>Anything.</i></h3>
             <!--
             <div class="buttons">
               <a class="btn smoothScroll" href="#tables">Why BitShares X</a>
