@@ -1,0 +1,27 @@
+/*
+
+Styling the counter itself.
+Set image paths accordingly.
+
+THIS YOU NEED TO KEEP.
+
+So you can have multiple counters on a page, just make sure each one has a class of "flip-counter".
+
+*/
+
+div.clear {
+    clear:both;
+}
+
+.smalltext {
+	font-size: 12px;
+}
+
+#counter.flip-counter ul.cd{float:left;list-style-type:none;margin:0;padding:0}
+#counter.flip-counter li{background:url(../img/digits.png) 0 0 no-repeat}
+#counter.flip-counter li.t{background-position:0 0;width:53px;height:39px}
+#counter.flip-counter li.b{background-position:0 0;width:53px;height:64px}
+#counter.flip-counter li.s{background-position:-53px -1030px;width:14px;height:103px}
+#counter.flip-counter li.decimal{background-position:-67px -1030px;width:14px;height:103px}
+#counter.flip-counter li.dollar{background-position:0px -1030px;width:53px;height:103px;}
+#counter.flip-counter li.space { width: 60px;}

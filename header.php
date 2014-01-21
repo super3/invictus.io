@@ -9,6 +9,7 @@
     <link rel="shortcut icon" href="assets/ico/favicon.png">
 
     <title>Invictus Innovations - Reimagine Everything</title>
+    <script type="text/javascript" src="assets/js/flipcounter.js"></script>
 
     <!-- Bootstrap core CSS -->
     <link href="assets/css/bootstrap.css" rel="stylesheet">
@@ -19,6 +20,8 @@
     <link href="assets/css/animations.css" rel="stylesheet">
     <link href="assets/css/font-awesome.min.css" rel="stylesheet">
     <link href="assets/css/invictus.css" rel="stylesheet">
+    <link href="assets/css/counter.css" rel="stylesheet">
+
 
     <!-- JavaScripts needed at the beginning
     ================================================== -->

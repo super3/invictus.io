@@ -2,7 +2,7 @@
 	
 	<! ========== FULL PROJECT WRAP ============================================================================================= 
 	=============================================================================================================================>    
-	<div id="angel-big">
+	<div id="headerwrap" class="ags" >
 		<div class="container">
 		</div><!-- /container -->
 	</div><!-- /fullproject -->
@@ -13,7 +13,27 @@
 	<div id="white">
 		<div class="container">			
 			<div class="inner-page row">
-			
+            <div class="row">
+               <div class="col-lg-3">
+               </div>
+               <div class="col-lg-8">
+               <!--
+		                    <img style="margin-left:40px" src='assets/img/agslogo.png' width='516'> 
+                        <div id="counter" class="flip-counter"></div>
+                        <div class="clear">
+                             <div class="smalltext">
+                                      Blockchain data powered by <a href="https://bitsharestalk.org/index.php?topic=1853.0">donschoe</a>. 
+                                      Exchange rate calculated using <a href='http://www.bitcoinaverage.com'>www.bitcoinaverage.com</a>.
+                             </div>
+                         </div>
+                               <script type="text/javascript">
+                               // Initialize a new counter
+                               var myCounter = new flipCounter("counter", {value: 2*84105500, inc: 1, pace: 71.952031978681 });
+                               </script>
+                               -->
+                               <iframe width="600px" scrolling="no" height="210px" frameBorder="0"  src="http://ags.lodo.net"></iframe>
+               </div>
+            </div>
 				<div class="row">				
 					<div class="col-lg-7">					
 						<h3>What is BitShares AGS?</h3>					
@@ -72,44 +92,33 @@
               <br/>
               <br/>
               <br/>
-						</div>				
-
-						<div class="row">
-							<div class="col-lg-5">
-								<h3>How to earn BitShares AGS?</h3>					
+				  </div>				
+					<div class="col-lg-5">
+							<h3>How to earn BitShares AGS?</h3>					
                <p style="text-align: justify;">								
                  Beginning New Year’s Day 2014, there will be 10,000 new AGS available in a new patron competition, every day, for 200 days. 
                  5,000 of them will be available to BitShares PTS holders. 5,000 of them will be available to Bitcoin holders. 
                  That's ultimately 2,000,000 total shares, just like BitShares PTS.
                </p>
                <p>
-                 Those who donate bitcoins to this Angel Address will proportionally split 5,000 AGS
-                 <a href="https://blockchain.info/address/1ANGELwQwWxMmbdaSWhWLqBEtPTkWb8uDc">(See Block Explorer)</a>:
+                 Those who donate bitcoins to this Angel Address will proportionally split 5,000 AGS:
                </p>
-                 <pre>1ANGELwQwWxMmbdaSWhWLqBEtPTkWb8uDc</pre>
+                 <a href="https://blockchain.info/address/1ANGELwQwWxMmbdaSWhWLqBEtPTkWb8uDc"><pre>1ANGELwQwWxMmbdaSWhWLqBEtPTkWb8uDc</pre></a>
                <p>
-                 Those who donate PTS to this Angel Address will proportionally split 5,000 AGS
-                 <a href="https://coinplorer.com/PTS/Addresses/PaNGELmZgzRQCKeEKM6ifgTqNkC4ceiAWw">(See Block Explorer)</a>:
+                 Those who donate PTS to this angel Address will proportionally split 5,000 AGS
                </p>
-                 <pre>PaNGELmZgzRQCKeEKM6ifgTqNkC4ceiAWw</pre>
-               <p>
+                 <a href="https://coinplorer.com/PTS/Addresses/PaNGELmZgzRQCKeEKM6ifgTqNkC4ceiAWw"><pre>PaNGELmZgzRQCKeEKM6ifgTqNkC4ceiAWw</pre></a>:
+              <p>
                <br/>
                  Every day the shares are divided among those who donated that day.  Donations are being tracked by two independent sites:
-
+               
                <p>
                  <a class="btn btn-yellow btn-lg" href="http://www1.agsexplorer.com">Visit www1.agsexplorer.com</a>
                  <br/>
-                 <a class="btn btn-yellow btn-lg" href="http://angelshares.info/beta/">Visit Angelshares.info</a>
-              </p>
-						  </p>
-									</div>
-
-								</div>		
-							</div>	
-
-						</div> 		
- 	
-
+                 <a class="btn btn-yellow btn-lg" href="http://angelshares.info/beta/">Visit angelshares.info</a>
+                  </p>
+					 	 	  </p>
+				  </div>
     	</div><!-- /row -->
 			
 		

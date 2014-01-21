@@ -5,7 +5,7 @@
     <div id="headerwrap" class="index-page">
     	<div class="container">
 			<div class="row">
-        <div class="col-md-5 col-md-offset-1">
+        <div class="col-md-4 col-md-offset-1">
       <!--
 					<h1 class="slideUp">BitShares X</h1>
 					<h2 class="slideUp">Earn 5% or more on <i>Anything</i></h2>
@@ -14,8 +14,8 @@
             </div>
         -->
         </div>
-        <div class="col-md-6">
-  					<h1 class="slideUp">Reimagine <i>Everything</i></h1>
+        <div class="col-md-7">
+  					<h1 class="slideUp">Reimagine Everything.</h1>
   		<!--			<h2 class="slideUp">Own your Identity</h2>
             <div class="buttons">
             <a class="btn btn-primary btn-lg" href="keyhotee.php">Learn More</a>

@@ -5,7 +5,7 @@
 	
 	<! ========== FULL PROJECT WRAP ============================================================================================= 
 	=============================================================================================================================>    
-	<div id="no-proto-big">
+	<div id="headerwrap" class="pts" >
 		<div class="container">
 		</div><!-- /container -->
 	</div><!-- /fullproject -->
@@ -15,6 +15,7 @@
 
 	<div id="white">
 		<div class="container">			
+    <center> <img style="margin-left:40px" src='assets/img/ptslogo.png' width='600'> </img> </center>
 			<div class="inner-page row">
 			
 				<div class="row">				
