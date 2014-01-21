@@ -150,8 +150,19 @@ h1, h2, h3, h4, h5, h6 {
 
 /* 2.2 Header Keyhotee */
 #headerwrap.keyhotee {
-	background: none #afe1f8;
-	color: #1b485d;
+	/*background: none #afe1f8;*/
+	background: url(../img/windmills_in_holl.jpg)  no-repeat center top; 
+	background-position: center bottom;
+	background-attachment: relative;
+	min-height: 400px; 
+  background-height:100%;
+  background-width:100%;
+  /*background-size:100%; 
+	color: #1b485d;*/
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 
 #headerwrap.keyhotee .row {
@@ -183,7 +194,7 @@ h1, h2, h3, h4, h5, h6 {
 /* 2.3 Header BotsharesX */
 #headerwrap.bitsharesx {
 	background: url(../img/stockback.jpg)  no-repeat center top; 
-	min-height: 350px;
+	min-height: 400px;
   background-size:100% 100%;
 }
 
