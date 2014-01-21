@@ -62,10 +62,10 @@
 					<div class="col-md-6">
 						<h2>Downloads</h2>
 						<p>Note: Keyhotee is now in alpha testing. There may be unstability and many bugs. Please <a href="https://bitsharestalk.org/index.php?topic=1984">report any problems you have.</a></p>
-						<a class="btn large" href="http://invictus.dev/bin/keyhotee_0.5.2.zip">Download Keyhotee 0.5.2 (Windows)</a>
+						<a class="btn large" href="http://invictus.io/bin/keyhotee_0.5.2.zip">Download Keyhotee 0.5.2 (Windows)</a>
             <br/>
             <br/>
-						<a class="btn large" href="http://invictus.dev/bin/keyhotee_0.5.2.dmg">Download Keyhotee 0.5.2 (Mac OS X)</a>
+						<a class="btn large" href="http://invictus.io/bin/keyhotee_0.5.2.dmg">Download Keyhotee 0.5.2 (Mac OS X)</a>
 					</div><!-- end col -->
 					<div class="col-md-6 centered">
 						<img class="img-responsive" src="assets/img/browser-02.png" alt="Browser Keyhotee" />
