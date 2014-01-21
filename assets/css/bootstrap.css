@@ -4684,7 +4684,8 @@ textarea.input-group-sm > .input-group-btn > .btn {
 }
 
 .navbar-default .navbar-brand {
-  color: #777777;
+/*  color: #777777;*/
+  color: #ffffff;
 }
 
 .navbar-default .navbar-brand:hover,
@@ -4694,11 +4695,13 @@ textarea.input-group-sm > .input-group-btn > .btn {
 }
 
 .navbar-default .navbar-text {
-  color: #777777;
+  /*color: #777777;*/
+  color: #ffffff;
 }
 
 .navbar-default .navbar-nav > li > a {
-  color: #777777;
+/*  color: #777777;*/
+  color: #ffffff;
 }
 
 .navbar-default .navbar-nav > li > a:hover,

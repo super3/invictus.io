@@ -5,13 +5,23 @@
       <div id="headerwrap" class="bitsharesx">
         <div class="container">
         <div class="row">
-          <div class="col-lg-12 centered">
+        <div class="col-md-5 col-md-offset-1">
+      <!--
+					<h1 class="slideUp">BitShares X</h1>
+					<h2 class="slideUp">Earn 5% or more on <i>Anything</i></h2>
+            <div class="buttons">
+           		<a class="btn btn-primary btn-lg" href="bitsharesx.php">Learn More</a>
+            </div>
+        -->
+        </div>
+          <div class="col-lg-6 centered">
             <h1 class="slideUp">BitShares X</h1>
             <h2 class="slideUp">Earn 5% or more on <i>Anything.</i></h2>
+            <!--
             <div class="buttons">
               <a class="btn smoothScroll" href="#tables">Why BitShares X</a>
-              <!--<a class="btn" href="#">Trade now</a>-->
             </div>
+            -->
           </div>
         </div>
 

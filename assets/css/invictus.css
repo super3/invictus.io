@@ -182,9 +182,10 @@ h1, h2, h3, h4, h5, h6 {
 
 /* 2.3 Header BotsharesX */
 #headerwrap.bitsharesx,
-#headerwrap.index-page {
+/*#headerwrap.index-page {
 	background: none #105077;
 }
+*/
 
 #headerwrap.bitsharesx .buttons,
 #headerwrap.index-page .buttons {
