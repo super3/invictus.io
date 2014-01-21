@@ -36,31 +36,31 @@
     		<div class="col-md-4 centered">
             <div style="min-height:20px">
             </div>
-            <div style="min-height:60px">
+            <div class="index-sub-title col-1">
             <img width="300px" class="bitsharesx-logo" src="assets/img/bitsharesx.png" alt="BitsharesX" />
             <h4 style="margin-top:2px">Earn 5% or more on <i>Anything</i></h4>
             </div>
             <p>
-            <a href="bitsharesx.php">Learn More</a>
+            <a class="btn large" href="bitsharesx.php">Learn More</a>
             </p>
 
         </div>
     		<div class="col-md-4 centered">
             <img width="300px" class="bitsharesx-logo" src="assets/img/keyhotee.png" alt="Keyhotee" />
-            <div style="margin-top:-40px; margin-left:100px">
+            <div class="index-sub-title  col-2">
             <h4><i>Own</i> your Identity </h4>
             </div>
             <p>
-            <a href="keyhotee.php">Learn More</a>
+            <a class="btn large" href="keyhotee.php">Learn More</a>
             </p>
         </div>
     		<div class="col-md-4 centered">
             <img width="300px" class="bitsharesx-logo" style="margin-top:-10px" src="assets/img/bitshares.png" alt="BitsharesX" />
-            <div style="margin-top:-30px; margin-left:90px">
+            <div class="index-sub-title col-3">
             <h5>Developers Conference</h5>
             </div>
             <p>
-            <a href="devcon.php">Learn More</a>
+            <a class="btn large" href="devcon.php">Learn More</a>
             </p>
         </div>
       </div>

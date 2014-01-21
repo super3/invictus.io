@@ -61,6 +61,7 @@
     <div class="navbar-collapse collapse">
       <ul class="nav navbar-nav navbar-right">
         <li><a href="bitsharesx.php">BitShares X</a></li>
+        <li><a href="bitshares.php">BitShares</a></li>
         <li><a href="keyhotee.php">Keyhotee</a></li>
 <!--
       <li class="dropdown">

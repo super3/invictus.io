@@ -1,71 +1,118 @@
 <?php include 'header.php'; ?>
 
-	<! ========== BLACK SECTION ================================================================================================= 
-	=============================================================================================================================>    
-	<div id="bitshare-big">
+	<! ========== BLACK SECTION =================================================================================================
+	=============================================================================================================================>
+	<div id="bitshare-big" class="large-logo">
 		<div class="container">
+			<div class="col-md-12">
+				<img src="assets/img/bitshares/bitshares-header.png" alt="logo" />
+			</div>
 		</div><!-- /container -->
 	</div><!-- /fullproject -->
 
-	<! ========== Content   	 ================================================================================================ 
-	=============================================================================================================================>    
+	<! ========== Content   	 ================================================================================================
+	=============================================================================================================================>
 
-	<div id="white">
-		<div class="container">			
-			<div class="inner-page row">			
-				<div class="row">				
-					<div class="col-lg-9" style="margin-bottom: -25px;">				
-						<h3>What are Bitshares?</h3>					
-							<p style="text-align: justify;">								
-								BitShares (BTS) is a revolutionary new product for the cryptocurrency world. It will combine all the things that are advantageous about cryptocurrencies, the open format, the security and the non-controlable nature of it, and combine it
-								with the possibilities that the last decades of economic innovation have brought us. This will be the combination of the best of two worlds and will be a major step towards general cryptocurrency acceptance. 
-							</p>
-							<p style="text-align: justify;">
-								We as Invictus Innovations acknowledge that the base of an economy is not the currencies we have available but the possibilities and freedom we have for trading. The way implement his idea is that BitShares (BTS) offers a bank account that earns 5% interest where funds can be transferred in minutes anywhere in the world with more privacy and security than a Swiss bank account.  
-								Your account can never be frozen, your funds cannot be seized, and the bank can never face collapse due to loan defaults or fraud.  All of this is made possible without requiring any employees, lawyers, regulatory compliance, vaults, buildings, and other infrastructure required by traditional banks.  
-								And it will allow you to do anything with your funds, both fiat and digital, that you can do in the fiat world, from investments to selling packaged financial products.
-							</p>
-							<p style="text-align: justify;">
-								Unlike existing banks, BitShares is currency agnostic, you can hold your balance denominated in gold, silver, oil, or other commodities in additional to national currencies while earning 5% interest. 
-							    BitShares can achieve this impressive feat using the same technology that makes Bitcoin possible, irrevokable decentralized automated consensus forming.     
-							</p>
-							<h3>For consumers</h3>
-							<p style="text-align: justify;">
-								Bitshares will allow you to enjoy what cryptocurrencies offer, a safe, private, fast, irrepressible payments around the globe. Furthermore Bitshares will allow you to leverage your funds, being fiat or equity, in a 
-								similar, distributed fashion. The innovations that Bitcoin brought to fiat currencies will be equivalent to the innovations that Bitshares will bring to equity and currency trading. 
-							</p>								
-							
-							<h3>For investors</h3>			
-							<p style="text-align: justify;">
-								Investing in cryptocurriencies was already seen as lucrative bu smaller parties but slowly the market for these currencies is growing and larger institutions are taking part. But Bitcoin is not as good an investment as it looks. You can view Bitcoin as stock in a company that earns no profits, pays 100% of its revenue to security guards, and then debases shareholders by 12% per year to fund security. 
-								Despite the inefficiencies and costs, Bitcoin has grown to be worth over $12 billion dollars in less than 5 years.  How much more valuable would Bitcoin be if it could turn a profit while offering far more powerful services? 
-								The value of owning shares in this new Bank will exceed two times the value of all balances of in gold, silver, oil, and currency accounts.  If the largest banks can achieve deposits of over $1 trillion dollars with no meaningful interest, how many deposits could BitShares attract and what would that mean for the value of the bank?
-								
-								Return on investment is generated for investors in Bitshares by taking a cut on every transaction and paying 100% of these transaction fees as dividends. Trading of shares in Bitshares will be possible within the system itself. 
-							</p>
-							<p style="text-align: justify;">				
-								If you would like to get in on the ground floor of such a revolutionary decentralized business you can get involved by contributing your time, money, and services as part of the growing movement at <a href="http://bitsharestalk.org">bitsharestalk.org</a>. See the resources below for more information.
-							</p>				
+		<div id="white" class="bitsharesx bitshares">
+			<div class="container">
+				<div class="inner-page row">
+					<div class="row boxes">
+						<div class="col-md-12">
+							<h2>There are a lot of similarities between Bitcoins and BitShares</h2>
+						</div>
 					</div>
-					<div class="col-lg-3" style="padding-top: 60px;">
-						<img src="assets/img/stock-market.jpg" width="400px">
-						
-						<h3>Resources</h3>	
-							<p>	
-								<ul style="list-style-type: circle;">
-									<li><a href="https://bitsharestalk.org/index.php?board=3.0">Bitshares discussion board <br> Bitsharetalk.org forum</a></li>
-									<li><a href="https://github.com/InvictusInnovations/BitShares">Bitshares Github <br> Source and development information</a></li>
-									<li><a href="https://www.youtube.com/watch?v=5BV55IrZi7g&html5=1&hd=1">Bitshares Introductory Video</a></li>
-								</ul>
-							</p>	
+					<div class="row boxes">
+						<div class="col-md-3">
+							<img src="assets/img/bitshares/blocks.png" alt="blocks" />
+							<h3>Transparent<br /> Blockchains</h3>
+						</div>
+						<div class="col-md-3">
+							<img src="assets/img/bitshares/hands.png" alt="trust" />
+							<h3>No need to<br /> Trust</h3>
+						</div>
+						<div class="col-md-3">
+							<img src="assets/img/bitshares/oneway.png" alt="one way" />
+							<h3>Irreversible<br /> Transactions</h3>
+						</div>
+						<div class="col-md-3">
+							<img src="assets/img/bitshares/old-pic.png" alt="old picture" />
+							<h3>Cryptographically<br /> Secure</h3>
+						</div>
 					</div>
-				</div>
-			
-			</div>	
-				<br><br>
+				</div><!-- /row -->
+			</div><!-- /container -->
 
-			</div><!-- /row -->
-		</div><!-- /container -->
-	</div><!-- /white -->
+	  <div id="tables" class="lightblue-bg specs-table">
+			<div class="container">
+	  			<div class="inner-page row">
+	          <h2>But... it's what's <i>different</i> that counts!</h2>
+
+	          <div class="col-md-6 your-bank">
+
+	          <h3 class="maintitle bank"><img src="assets/img/bitshares/bitcoin.png" alt="Bitcoin" /></h3>
+
+	          <div class="row boxes">
+	            <div class="col-md-5 col-md-offset-1 mono-img">
+	              <img src="assets/img/bitshares/paper-fire.png" alt="Unprofitable Business Model" />
+	              <h3>Unprofitable Business Model</h3>
+	            </div>
+	            <div class="col-md-5 mono-img">
+	              <img src="assets/img/bitshares/machine.png" alt="Centralized Mining Cartels" />
+	              <h3>Centralized Mining <br />Cartels</h3>
+	            </div>
+	            </div>
+
+	            <ul>
+	              <!--<li><h3>Your current Bank</h3></li>-->
+	              <li>All revenue paid for security</li>
+	              <li>12% dilution tax</li>
+	              <li>12 minute confirmation times</li>
+	              <li>Centralized in mining cartel</li>
+	              <li>Single unprofitable business model</li>
+	              <li>Centralized one block at a time</li>
+	              <li>Consumes billions in resources</li>
+	              <li>Many altcoins with the same basic model</li>
+	              <li class="final"><span>Mining cartels Win</span></li>
+	           </ul>
+	         </div>
+
+	          <div class="col-md-6 bitshares">
+
+	          <h3 class="maintitle"><img src="assets/img/bitshares/bitshares-eq.png" alt="bitshares" /></h3>
+
+	          <div class="row boxes">
+	            <div class="col-md-5 col-md-offset-1 mono-img">
+	              <img src="assets/img/bitshares/stocks.png" alt="Profitable Companies" />
+	              <h3>Profitable <br />Companies</h3>
+	            </div>
+	            <div class="col-md-5 mono-img">
+	              <img src="assets/img/bitshares/efficiency.png" alt="Decentralized Efficiently" />
+	              <h3>Decentralized <br />Efficiently</h3>
+	            </div>
+	            </div>
+
+	            <ul>
+	              <!--<li><img class="bitsharesx-logo" src="assets/img/bitsharesx.png" alt="BitsharesX" /></li><-->
+	              <li>All revenue paid as dividends</li>
+	              <li>No dilution tax</li>
+	              <li>Instant confirmation times</li>
+	              <li>Decentralized within every block</li>
+	              <li>Many profitable business models <br />(Banks, Exchanges, Domains, Gaming, Voting, Publishing, Coins, Custom)</li>
+	              <li>Many alt-companies with unlimited models</li>
+	              <li class="final"><span>You Win!</span></li>
+	            </ul>
+	          </div>
+	        </div>
+	    </div>
+	  </div>
+
+	  <div class="container">
+	    <div class="inner-page row action-buttons">
+	      <a class="btn btn-primary btn-lg" href="bitshares-ags.php">Support the BitShares</a>
+	      <a class="btn btn-primary btn-lg" href="bitshares-pts.php">Buy Now with BitShares PTS</a>
+	    </div>
+	  </div>
+	</div>
+</div><!-- /white -->
 
 <?php include 'footer.php'; ?>
