@@ -181,11 +181,11 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 /* 2.3 Header BotsharesX */
-#headerwrap.bitsharesx,
-/*#headerwrap.index-page {
-	background: none #105077;
+#headerwrap.bitsharesx {
+	background: url(../img/stockback.jpg)  no-repeat center top; 
+	min-height: 350px;
+  background-size:100% 100%;
 }
-*/
 
 #headerwrap.bitsharesx .buttons,
 #headerwrap.index-page .buttons {

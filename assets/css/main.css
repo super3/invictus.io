@@ -337,7 +337,7 @@ p.capitalize:first-letter {
 	margin-top: -20px;
 	padding-top:20px;
 	background-attachment: relative;
-	background-position: center center;
+	background-position: center top;
 	min-height: 600px;
 	width: 100%;
 	
@@ -358,8 +358,8 @@ p.capitalize:first-letter {
 	margin-top: -20px;
 	padding-top:20px;
 	background-attachment: relative;
-	background-position: center center;
-	min-height: 600px;
+	background-position: left top;
+	min-height: 800px;
 	width: 100%;
 	
     -webkit-background-size: 100%;
@@ -375,7 +375,7 @@ p.capitalize:first-letter {
 
 
 #devwrap h1 {
-	margin-top: -10px;
+	margin-top: 10px;
 	color: white;
 	font-size: 50px;
 	font-weight: 700;

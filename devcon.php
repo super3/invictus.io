@@ -15,16 +15,8 @@
         </div>
 			</div><!-- /row -->
 			<div class="row">
-        <div class="col-md-4" style="margin-top:370px;">
-  					<h1 class="slideUp">&nbsp;&nbsp;Las<br/>Vegas</h1>
-  		<!--			<h2 class="slideUp">Own your Identity</h2>
-            <div class="buttons">
-            <a class="btn btn-primary btn-lg" href="keyhotee.php">Learn More</a>
-            </div>
-            -->
-        </div>
-        <div class="col-md-6" style="margin-top:370px; margin-left:20px">
-  					<h1 class="slideUp">July<br/>12-14</h1>
+        <div class="col-md-8" style="margin-top:580px; ">
+  					<h1 class="slideUp">&nbsp;&nbsp;Las Vegas    &nbsp;&nbsp;&nbsp;&nbsp; July 12-14</h1>
   		<!--			<h2 class="slideUp">Own your Identity</h2>
             <div class="buttons">
             <a class="btn btn-primary btn-lg" href="keyhotee.php">Learn More</a>
