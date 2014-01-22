@@ -30,7 +30,7 @@
 						</div>
 						<div class="col-md-3">
 							<img width="200px" height="200px"src="assets/img/trust.jpg" alt="trust" />
-							<h3><b>Trust</b><br /> is Unnecssary</h3>
+							<h3><b>Trust</b><br /> is Unnecessary</h3>
 						</div>
 						<div class="col-md-3">
 							<img width="200px" height="200px"src="assets/img/bitshares/oneway.png" alt="one way" />
