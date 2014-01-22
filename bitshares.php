@@ -94,7 +94,7 @@
 	              <li>All revenues paid as dividends</li>
 	              <li>No security tax</li>
 	              <li>Fast Confirmation</li>
-	              <li>Effecient Opperation</li>
+	              <li>Efficient Opperation</li>
 	              <li class="final"><span>Many alt-companies with creative profit models.</span></li>
 	            </ul>
 	          </div>
