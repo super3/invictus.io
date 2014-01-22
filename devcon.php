@@ -69,15 +69,9 @@
       <div class="row">
         <div class="col-lg-12">
            <br/>
-           <form id="devconSignupForm" class="form-horizontal" role="form">
             <legend>Signup Now</legend>
-            <p>Prices are XX$ and have to be paid via BTC within 15minutes after signing up, otherwise the reservation is deleted.</p>
-             <div class="form-group">
-               <label for="inputEmail" class="col-sm-2 control-label">Email</label>
-               <div class="col-sm-10">
-                 <input type="email" class="form-control" id="inputEmail" placeholder="Email" required>
-               </div>
-             </div>
+            <p>The price for a ticket is $279 and has to be paid via Bitpay within 15minutes after signing up, otherwise the reservation is deleted.</p>
+           <form id="devconSignupForm" class="form-horizontal" role="form" style="padding:20px; position: relative;">
              <div class="form-group">
                <label for="inputName" class="col-sm-2 control-label">Name</label>
                <div class="col-sm-5">
@@ -85,6 +79,12 @@
                </div>
                <div class="col-sm-5">
                  <input type="text" class="form-control" id="inputLastName" placeholder="Last Name" required>
+               </div>
+             </div>
+             <div class="form-group">
+               <label for="inputEmail" class="col-sm-2 control-label">Email</label>
+               <div class="col-sm-10">
+                 <input type="email" class="form-control" id="inputEmail" placeholder="Email" required>
                </div>
              </div>
              <div class="form-group">
@@ -98,6 +98,11 @@
                  <button type="submit" id="devconSignupBtn" class="btn btn-default">Sign up &amp; pay with BTC now</button>
                </div>
              </div>
+             <div class="loading-overlay" style="display: none;">
+                <div class="center-positioned">
+                  <i class="fa fa-spinner fa-spin fa-5x" style="position: absolute; top: -0.5em;"></i>
+                </div>
+              </div>
            </form>
            <div id="invoiceFrame" class="col-lg-6 col-lg-offset-3" style="display: none;">
             <iframe style="overflow: hidden;" width="504" height="200" frameBorder="0" seamless="seamless" scrolling="no"></iframe>

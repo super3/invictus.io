@@ -5,7 +5,8 @@ $(function() {
 		$emailInput = $('#inputEmail'),
 		$firstNameInput = $('#inputFirstName'),
 		$lastNameInput = $('#inputLastName'),
-		$messageInput = $('#inputMessage');
+		$messageInput = $('#inputMessage'),
+		$loadingOverlay = $('#devconSignupForm .loading-overlay');
 
 	function signup(e) {
 		var email = $emailInput.val(),
@@ -14,6 +15,7 @@ $(function() {
 			message = $messageInput.val();
 
 		if ( email != null && validateEmail(email) && firstName != null && lastName != null ) {
+			$loadingOverlay.show();
 			$.ajax({
 				type: "POST",
 				url: "lib/devcon_signup.php",
@@ -24,11 +26,19 @@ $(function() {
 					message: message
 				}
 			}).done(function(result) {
-				var resultObject = JSON.parse(result);
+				console.log(result);
+				try {
+					var resultObject = JSON.parse(result);
+				} catch (e) {
+					alert('Sorry, something went wrong there, please try it again!')
+				}
 				if ( typeof resultObject.error == 'undefined' ) {
-					$('#devconSignupForm').hide();
 					$('#invoiceFrame>iframe').attr('src',resultObject.url + '&view=iframe');
-					$('#invoiceFrame').show();
+					$('#invoiceFrame>iframe').load(function() {
+						$('#devconSignupForm').hide();
+						$loadingOverlay.hide();
+						$('#invoiceFrame').show();
+					});
 				}
 			});
 		}
