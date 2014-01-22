@@ -107,7 +107,7 @@
                <p>
                  Those who donate PTS to this angel Address will proportionally split 5,000 AGS
                </p>
-                 <a href="https://coinplorer.com/PTS/Addresses/PaNGELmZgzRQCKeEKM6ifgTqNkC4ceiAWw"><pre>PaNGELmZgzRQCKeEKM6ifgTqNkC4ceiAWw</pre></a>:
+                 <a href="https://coinplorer.com/PTS/Addresses/PaNGELmZgzRQCKeEKM6ifgTqNkC4ceiAWw"><pre>PaNGELmZgzRQCKeEKM6ifgTqNkC4ceiAWw</pre></a>
               <p>
                <br/>
                  Every day the shares are divided among those who donated that day.  Donations are being tracked by two independent sites:
