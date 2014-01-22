@@ -30,7 +30,7 @@
 							</p>
 						<h3>As a technologist</h3>
 							<p style="text-align: justify;">
-								BitShares PTS, or Protoshares, is our first developed investment vehicle. It is a cryptocurrency, based off the well-known Bitcoin protocol, that is minable (generation of coins by input of computational work) by every cryptocurrency enthusiast.
+								BitShares PTS, or Protoshares, is our first developed investment vehicle. It is a cryptocurrency, based off the well-known Bitcoin protocol, that can be mined (generation of coins by input of computational work) by every cryptocurrency enthusiast.
 								Currently it is one of the largest alternative-cryptocurrencies, backed by many miners, supporting innovation. Stake in BitShares PTS will be directly mapped to every new financial product that we develop. Furthermore owning Protoshares, 
 								already allows you to trade, speculate and buy products using an Invictus Innovations product. Mine or buy PTS on cryptomarket places to be a part of this technological base of our new products. <br>Read more about BitShares PTS: <a href="funding-protoshares.php">here</a>
 							</p>
@@ -44,7 +44,7 @@
 							
 						<h3>Join us</h3>
 							<p style="text-align: justify;">
-								By investing in either Protoshares (PTS) or Angelshares (AGS) you will get a stake defined in the genesis block of BitShares. Either technnology will bring in 50 percent of the funding and thus stake in BitShares.
+								By investing in either Protoshares (PTS) or Angelshares (AGS) you will get a stake defined in the genesis block of BitShares. Either technology will bring in 50 percent of the funding and thus stake in BitShares.
 								Owning a part of one or both of these products will ensure early access to Bitshares! Join the revolution!
 							</p>	
 							
@@ -52,7 +52,7 @@
 							<p>	
 								<ul style="list-style-type: circle;">
 									<li><a href="#">BitShares PTS (Protoshares) Website</a></li>
-									<li><a href="#">BitShares AGS (Angelshares) website</a></li>
+									<li><a href="#">BitShares AGS (Angelshares) Website</a></li>
 									<li><a href="https://bitsharestalk.org/index.php?board=3.0">Bitshares discussion board - Bitsharetalk.org forum</a></li>
 								</ul>
 							</p>	
