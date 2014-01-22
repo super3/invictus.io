@@ -54,7 +54,7 @@
          <div class="col-lg-5">
          <p>
          At the conference you will learn the secrets to building a successful and profitable decentralized business and have the 
-         opportunity to assemble the necessary talent and capital necssary to launch your own venture.   
+         opportunity to assemble the necessary talent and capital to launch your own venture.   
          </p><p> 
          Invictus is leading the way with our BitShares X platform which implements the business model of a bank and exchange on a blockchain, but there
          are more opportunities in this space than anyone can currently imagine.  There are so many potential business models to consider including:
