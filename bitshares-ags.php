@@ -31,7 +31,7 @@
                                var myCounter = new flipCounter("counter", {value: 2*84105500, inc: 1, pace: 71.952031978681 });
                                </script>
                                -->
-                               <iframe width="600px" scrolling="no" height="210px" frameBorder="0"  src="http://ags.lodo.net"></iframe>
+                               <iframe width="600px" scrolling="no" height="210px" frameBorder="0"  src="http://ags.lodo.net/index2.php"></iframe>
                </div>
             </div>
 				<div class="row">				

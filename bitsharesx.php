@@ -121,7 +121,7 @@
 
   <div class="container">
 			<div class="col-lg-6">
-         <iframe width="600px" scrolling="no" height="210px" frameBorder="0"  src="http://ags.lodo.net"></iframe>
+         <iframe width="600px" scrolling="no" height="210px" frameBorder="0"  src="http://ags.lodo.net/index2.php"></iframe>
          <p/>
          <center>
          <a class="btn btn-primary btn-lg" href="bitshares-ags.php">Support BitShares X</a>
