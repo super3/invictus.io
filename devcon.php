@@ -33,41 +33,87 @@
 
 	<div id="white" class="bitsharesx">
 		<div class="container">
-			<div class="inner-page row">
-      <!--
-    		<div class="col-md-4 centered">
-            <div style="min-height:20px">
-            </div>
-            <div style="min-height:60px">
-            <img width="300px" class="bitsharesx-logo" src="assets/img/bitsharesx.png" alt="BitsharesX" />
-            <h4 style="margin-top:2px">Earn 5% or more on <i>Anything</i></h4>
-            </div>
+			<div class="row">
+         <div class="col-lg-12">
+            <h1> BitShares Developers Conference </h1>
             <p>
-            <a href="bitsharesx.php">Learn More</a>
+            The BitShares Developers conference will be the first conference in the Bitcoin space that focuses entirely on 
+            the future of blockchain based businesses.  Since we first <a href="http://letstalkbitcoin.com/is-bitcoin-overpaying-for-false-security">introduced</a> the concept of decentralized autonomous
+            companies in September 2013 the idea has gone viral and now everyone from Mastercoin to Ethereum is talking
+            about Distributed Applications or Decentralized Autonomous Organizations.  
             </p>
-
-        </div>
-    		<div class="col-md-4 centered">
-            <img width="300px" class="bitsharesx-logo" src="assets/img/keyhotee.png" alt="Keyhotee" />
-            <div style="margin-top:-40px; margin-left:100px">
-            <h4><i>Own</i> your Identity </h4>
-            </div>
             <p>
-            <a href="keyhotee.php">Learn More</a>
+            Max Keiser recently did a <a href="http://www.youtube.com/watch?v=VPmkeio3jJQ">report on Capitalism 2.0</a> where they
+            declared "2014 is going to show the true power of the blockchain". The BitShares Developers Conference is ground zero.  We
+            are calling all entrepreneurs, investors, and software developers to meet in Las Vegas where we are assembling unique content
+            that has never been discussed in depth at any Bitcoin conference to date.
             </p>
-        </div>
-    		<div class="col-md-4 centered">
-            <img width="300px" class="bitsharesx-logo" style="margin-top:-10px" src="assets/img/bitshares.png" alt="BitsharesX" />
-            <div style="margin-top:-30px; margin-left:90px">
-            <h5>Developers Conference</h5>
-            </div>
-            <p>
-            <a href="devcon.php">Learn More</a>
-            </p>
-        </div>
-        -->
+         </div>
       </div>
-    </div>
+			<div class="row">
+         <div class="col-lg-5">
+         <p>
+         At the conference you will learn the secrets to building a successful and profitable decentralized business and have the 
+         opportunity to assemble the necessary talent and capital necssary to launch your own venture.   
+         </p><p> 
+         Invictus is leading the way with our BitShares X platform which implements the business model of a bank and exchange on a blockchain, but there
+         are more opportunities in this space than anyone can currently imagine.  There are so many potential business models to consider including:
+         voting, auctions, domains, intelectual property, gambling, insurance, and governance that anyone with an understanding of the
+         concepts being discussed at this conference can launch a revolutionary and <i>profitable</i> new business.
+         </p>
+         </div>
+         <div class="col-lg-5">
+         <iframe width="640" height="360" src="//www.youtube.com/embed/VPmkeio3jJQ?feature=player_detailpage" frameborder="0" allowfullscreen></iframe>
+         </div>
+      </div> <!-- row -->
+      <div class="row">
+        <div class="col-lg-5">
+           <center>
+              <a class="btn btn-primary btn-lg" href="">Signup Now</a>
+           </center>
+        </div>
+      </div><!-- row -->
+    </div> <!-- container -->
+  </div> <!-- id=white -->
+  <div class="lightblue-bg" >
+     <div class="container">
+        <div class="row">
+            <h1>Sponsors</h1>
+            <br/>
+            <p>
+            <a href="http://letstalkbitcoin.com">
+               <img style="box-shadow: none" src="http://letstalkbitcoin.com/wp-content/themes/letstalkbitcoin/assets/images/logo.png"</img>
+            </a>
+            </p>
+        </div>
+     </div>
+  </div>
+  <div style="background:#ffffff" >
+     <div class="container">
+        <div class="row">
+            <h1>Speakers</h1>
+            <br/>
+            <div class="col-lg-2">
+               <p><center>
+                  <img width="150px" height="150px"style="box-shadow: none" src="http://www.cryptocurrencycon.com/wp-content/uploads/cache/daniel-larimer/1650684793.jpg"</img>
+               <br/>
+               <br/>
+               <b>Daniel Larimer</b></center>
+               </p>
+            </div> <!-- col-lg-2 -->
+            <div class="col-lg-2">
+               <p>
+               <center>
+               <a href="http://letstalkbitcoin.com/author/adam/#.Ut8k02Qo4dk">
+                  <img width="150px" height="150px"style="box-shadow: none" src="http://letstalkbitcoin.com/wp-content/uploads/2013/12/Adam-B.-Levine_avatar_1386435188-160x160.jpg"</img>
+               </a>
+               <br/>
+               <br/>
+               <b>Adam B. Levine</b></center>
+               </p>
+            </div> <!-- col-lg-2 -->
+        </div>
+     </div>
   </div>
 
 <!--
@@ -96,9 +142,6 @@
           </div>
     		</div>
 -->
-
-    	</div><!-- /row -->
-    </div><!-- /container -->
     </div><!-- end index-page -->
 
 <?php include 'footer.php'; ?>

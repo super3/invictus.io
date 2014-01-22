@@ -120,15 +120,15 @@
   </div>
 
   <div class="container">
-			<div class="col-lg-6">
+			<div class="col-lg-7">
          <iframe width="600px" scrolling="no" height="210px" frameBorder="0"  src="http://ags.lodo.net/index2.php"></iframe>
          <p/>
          <center>
          <a class="btn btn-primary btn-lg" href="bitshares-ags.php">Support BitShares X</a>
          </center>
       </div>
-			<div class="col-lg-6">
-         <img style="margin-top:-20px" src='assets/img/ptslogo.png' width='550'> 
+			<div class="col-lg-5">
+         <img style="margin-top:-20px; margin-left:-30px" src='assets/img/ptslogo.png' width='550'> 
 							  <!-- Unsupported exchanges right now
 							<ul id="exchange_list" class="nav nav-pills">
 							  <li class="active"><a href="#">Bter</a></li>
@@ -154,7 +154,6 @@
 								</tr>
 							</table>
 					<!--		<small>* USD is calculated from MtGox BTC price and Exchange PTS price.</small> -->
-          <br/>
           <br/>
          <center>
          <a class="btn btn-primary btn-lg" href="bitshares-pts.php">Buy Now with BitShares PTS</a>
