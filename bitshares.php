@@ -1,4 +1,6 @@
 <?php include 'header.php'; ?>
+<?php #echo "<script src=\"assets/js/chart.js\"></script> "; ?>
+   <script src="assets/js/pts.prices.js"></script>
 
 	<! ========== BLACK SECTION =================================================================================================
 	=============================================================================================================================>
@@ -100,12 +102,59 @@
 	    </div>
 	  </div>
 
-	  <div class="container">
-	    <div class="inner-page row action-buttons">
-	      <a class="btn btn-primary btn-lg" href="bitshares-ags.php">Support the BitShares</a>
-	      <a class="btn btn-primary btn-lg" href="bitshares-pts.php">Buy Now with BitShares PTS</a>
-	    </div>
-	  </div>
+  <div class="container">
+     <div class="row">
+         <div class="col-lg-12">
+         <center>
+            <h1> Learn more at the <a href="devcon.php">BitShares Developers Conference</a></h1> 
+         </center>
+         <hr/>
+         <br/>
+         </div>
+     </div>
+  </div>
+
+  <div class="container">
+			<div class="col-lg-7">
+         <iframe width="600px" scrolling="no" height="205px" frameBorder="0"  src="http://ags.lodo.net/index2.php"></iframe>
+         <p/>
+         <center>
+         <a class="btn btn-primary btn-lg" href="bitshares-ags.php">Support the BitShares Ecosystem</a>
+         </center>
+      </div>
+			<div class="col-lg-5">
+         <img style="margin-top:-20px; margin-left:-30px" src='assets/img/ptslogo.png' width='550'> 
+							  <!-- Unsupported exchanges right now
+							<ul id="exchange_list" class="nav nav-pills">
+							  <li class="active"><a href="#">Bter</a></li>
+							  <li ><a href="#">Cryptsy</a></li>
+							  <li class="disabled" ><a href="#">Btc38</a></li>
+							  <li class="disabled" ><a href="#">Peatio</a></li>
+							</ul>
+							  -->
+							<table class="table table-bordered">
+								<tr>
+									<th>Price (USD)*</th>
+									<th>Price (BTC/PTS)</th>
+									<th>High (BTC/PTS)</th>
+									<th>Low (BTC/PTS)</th>
+									<th>Volume</th>
+								</tr>
+								<tr>
+									<td id="price-usd">0</td>
+									<td id="price-val">0</td>
+									<td id="high-val">0</td>
+									<td id="low-val">0</td>
+									<td id="vol-val">0</td>						
+								</tr>
+							</table>
+					<!--		<small>* USD is calculated from MtGox BTC price and Exchange PTS price.</small> -->
+          <br/>
+         <center>
+         <a class="btn btn-primary btn-lg" href="bitshares-pts.php">Invest Now with BitShares PTS</a>
+         </center>
+      </div>
+    </div>
 	</div>
 </div><!-- /white -->
 

@@ -121,7 +121,7 @@
 
   <div class="container">
 			<div class="col-lg-7">
-         <iframe width="600px" scrolling="no" height="210px" frameBorder="0"  src="http://ags.lodo.net/index2.php"></iframe>
+         <iframe width="600px" scrolling="no" height="205px" frameBorder="0"  src="http://ags.lodo.net/index2.php"></iframe>
          <p/>
          <center>
          <a class="btn btn-primary btn-lg" href="bitshares-ags.php">Support BitShares X</a>
@@ -156,7 +156,7 @@
 					<!--		<small>* USD is calculated from MtGox BTC price and Exchange PTS price.</small> -->
           <br/>
          <center>
-         <a class="btn btn-primary btn-lg" href="bitshares-pts.php">Buy Now with BitShares PTS</a>
+         <a class="btn btn-primary btn-lg" href="bitshares-pts.php">Invest Now with BitShares PTS</a>
          </center>
       </div>
     </div>

@@ -69,7 +69,7 @@
       <div class="row">
         <div class="col-lg-5">
            <center>
-              <a class="btn btn-primary btn-lg" href="">Signup Now</a>
+              <a class="btn btn-primary btn-lg" href="http://invictus-innovations.com/conference">Signup Now</a>
            </center>
         </div>
       </div><!-- row -->
