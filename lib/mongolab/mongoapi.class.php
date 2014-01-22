@@ -117,18 +117,21 @@ class MongoAPI{
 	/*	private functions for calling the API.. Change these at your own risk	*/
 
 	private function get_query($url){
-		$ch = curl_init($url);
-		curl_setopt($ch,CURLOPT_HEADER,false);
-		curl_setopt($ch,CURLOPT_RETURNTRANSFER,true);
+		$ch = curl_init();
+		curl_setopt($ch, CURLOPT_URL, $url);
+		curl_setopt($ch, CURLOPT_HEADER, array('Content-Type: application/json; charset=utf-8'));
+		curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
 		$data = curl_exec($ch);
 		curl_close($ch);
+		print $url." ".$data;
 		return $data;
 	}
 
 	private function del_query($url){
-		$ch = curl_init($url);
-		curl_setopt($ch,CURLOPT_HEADER,false);
-		curl_setopt($ch,CURLOPT_RETURNTRANSFER,true);
+		$ch = curl_init();
+		curl_setopt($ch, CURLOPT_URL, $url);
+		curl_setopt($ch, CURLOPT_HEADER,false);
+		curl_setopt($ch, CURLOPT_RETURNTRANSFER,1);
 		curl_setopt($ch, CURLOPT_CUSTOMREQUEST, "DELETE");
 		$data = curl_exec($ch);
 		curl_close($ch);
@@ -136,12 +139,13 @@ class MongoAPI{
 	}
 	
 	private function put_query($url,$args){
-		$ch = curl_init($url);
+		$ch = curl_init();
+		curl_setopt($ch, CURLOPT_URL, $url);
 		$timeout=5;
 		curl_setopt($ch, CURLOPT_HTTPHEADER, array('Content-Type: application/json; charset=utf-8'));
-		curl_setopt($ch,CURLOPT_URL,$url);
-		curl_setopt($ch,CURLOPT_RETURNTRANSFER,1);
-		curl_setopt($ch,CURLOPT_CONNECTTIMEOUT,$timeout);
+		curl_setopt($ch, CURLOPT_URL,$url);
+		curl_setopt($ch, CURLOPT_RETURNTRANSFER,1);
+		curl_setopt($ch, CURLOPT_CONNECTTIMEOUT,$timeout);
 		curl_setopt($ch, CURLOPT_CUSTOMREQUEST, "PUT");    
 		curl_setopt($ch, CURLOPT_POSTFIELDS, $args);
 		$data = curl_exec($ch);
@@ -150,12 +154,13 @@ class MongoAPI{
 	}
 
 	private function post_query($url,$args){
-		$ch = curl_init($url);
+		$ch = curl_init();
+		curl_setopt($ch, CURLOPT_URL, $url);
 		$timeout=5;
 		curl_setopt($ch, CURLOPT_HTTPHEADER, array('Content-Type: application/json; charset=utf-8'));
-		curl_setopt($ch,CURLOPT_URL,$url);
-		curl_setopt($ch,CURLOPT_RETURNTRANSFER,1);
-		curl_setopt($ch,CURLOPT_CONNECTTIMEOUT,$timeout);
+		curl_setopt($ch, CURLOPT_URL,$url);
+		curl_setopt($ch, CURLOPT_RETURNTRANSFER,1);
+		curl_setopt($ch, CURLOPT_CONNECTTIMEOUT,$timeout);
 		curl_setopt($ch, CURLOPT_POST, true);
 		curl_setopt($ch, CURLOPT_POSTFIELDS, $args);
 		$data = curl_exec($ch);

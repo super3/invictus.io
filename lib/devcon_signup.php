@@ -4,9 +4,9 @@
 
 	$key = "SgV0AGhTRED9mNKPoS0Ev4e3mVtANTlZ";
 	$db = "devcon_signups";
-	$mongo = new MongoAPI($db, $key);
+	$mongo = new MongoAPI($db, $key, 'Signups');
 
-	$mongoCollection = $mongo->Signups;
+	//$mongoCollection = $mongo->Signups;
 
 	$row = array(
 		"firstName"=>"Olaf",
@@ -15,8 +15,8 @@
 		"status"=>"new"
 	);
 
-	$inserted_id = $mongoCollection->insert($row);
-	print $inserted_id."<br/>";
+	$inserted_id = $mongo->get();
+	print "ID: ".json_encode($inserted_id)."<br/>";
 
 	if ( isset($_POST['email']) AND isset($_POST['firstName']) AND isset($_POST['lastName']) ) {
 		$options = array(
