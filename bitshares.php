@@ -106,7 +106,7 @@
      <div class="row">
          <div class="col-lg-12">
          <center>
-            <h1> Learn more at the <a href="devcon.php">BitShares Developers Conference</a></h1> 
+            <h1> Learn more at the <a href="devcon.php">Beyond Bitcoin Summit in Las Vegas</a></h1> 
          </center>
          <hr/>
          <br/>

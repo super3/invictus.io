@@ -57,7 +57,7 @@
     		<div class="col-md-4 centered">
             <img width="300px" class="bitsharesx-logo" style="margin-top:-10px" src="assets/img/bitshares.png" alt="BitsharesX" />
             <div class="index-sub-title col-3">
-            <h5>Developers Conference</h5>
+            <h4>Beyond Bitcoin Summit</h4>
             </div>
             <p>
             <a class="btn large" href="devcon.php">Learn More</a>
