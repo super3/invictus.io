@@ -20,7 +20,7 @@
 				<div class="inner-page row">
 					<div class="row boxes">
 						<div class="col-md-12">
-							<h2>There are a lot of similarities between Bitcoins and BitShares</h2>
+							<h2>There are a lot of similarities between Bitcoin and BitShares</h2>
 						</div>
 					</div>
 					<div class="row boxes">
