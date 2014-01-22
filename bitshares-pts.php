@@ -41,7 +41,7 @@
               <div class="pts-resources">
                     <h3> Mining Pools</h3>
 
-                      <p>Mining Protoshares on your own is hard. The network consists of many computers running calculations in the client software or special mining software. This keep the network intact.
+                      <p>Mining ProtoShares on your own is hard. The network consists of many computers running calculations in the client software or special mining software. This keep the network intact.
                       But you can mine coins with your own processing power or cloud servers. The pool combines the power of all
                       connected nodes and pays you proportionally for your sharerate. See our <a href="mining.html">mining guide</a> for more explanation. Most pools have their own optimized miners, so do check out there get started pages.</p>
 
@@ -49,14 +49,14 @@
                       <ul style="list-style-type: circle;">
                         <li><a href="http://pts.beeeeer.org">http://pts.beeeeer.org</a> - 2.5% fee, Pay Per Share</li>
                         <li><a href="http://pts.rpool.net">http://pts.rpool.net</a> -  3% fee, payout per share of last round</li>
-                        <li><a href="http://ptspool.com/">http://ptspool.com/</a> -  4% fee,  Pay Per Share </li>
-                        <li><a href="http://ypool.net">http://ypool.net</a> -  6% fee, multicoin pool,  Pay Per Share</li>
+                        <li><a href="http://ptspool.com/">http://ptspool.com/</a> -  4% fee, Pay Per Share </li>
+                        <li><a href="http://ypool.net">http://ypool.net</a> -  6% fee, multicoin pool, Pay Per Share</li>
                         <li><a href="https://bitsharestalk.org/index.php?topic=236.0">Bytemaster</a> - Pay Per Share</li>
                       </ul>
 
                       <h3> Exchanges</h3>
 
-                      <p>Exchanges are the trading websites where you can buy or sell Protoshares. Be careful not to place large sums of Protoshares on exchanges without adequate security measures as a good password and 2-factor authentication</p>
+                      <p>Exchanges are the trading websites where you can buy or sell ProtoShares. Be careful not to place large sums of ProtoShares on exchanges without adequate security measures as a good password and 2-factor authentication</p>
                       <ul style="list-style-type: circle;">
                           <li><a href="https://bter.com/">Bter Exchange</a></li>
                           <li><a href="https://www.cryptsy.com/">Cryptsy Exchange</a></li>
@@ -75,12 +75,12 @@
                       </ul>
 
                       <h3> Tools and Forum</h3>
-                      <p>Exchanges are the trading websites where you can buy or sell protoshares. Be careful not to place large sums of protoshares on exchanges without adequate security measures as a good password and 2-factor authentication</p>
+                      <p>Exchanges are the trading websites where you can buy or sell ProtoShares. Be careful not to place large sums of ProtoShares on exchanges without adequate security measures as a good password and 2-factor authentication.</p>
                       <ul style="list-style-type: circle;">
                           <li><a href="http://btsblock.com/chain/ProtoShares">Blockchain explorer - View transactions by pts adress</a></li>
-                          <li><a href="https://coinplorer.com/PTS">PTS Coin Information - Current Protoshares Statistics</a></li>
-                          <li><a href="https://bitsharestalk.org/index.php?board=1.0">Official Protoshares forum</a></li>
-                          <li><a href="http://www.reddit.com/r/protoshare">Sub-Reddit for Protoshare</a></li>
+                          <li><a href="https://coinplorer.com/PTS">PTS Coin Information - Current ProtoShares Statistics</a></li>
+                          <li><a href="https://bitsharestalk.org/index.php?board=1.0">Official ProtoShares forum</a></li>
+                          <li><a href="http://www.reddit.com/r/protoshare">Sub-Reddit for ProtoShares</a></li>
                       </ul>
 
                       <p><br /><br /><strong>Happy mining!</strong></p>
