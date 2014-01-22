@@ -1,11 +1,12 @@
 <?php
 	require_once 'bitpay/bp_lib.php';
 
-	$adminMail = "pure.onh@gmail.com"; //the address the confirmation mail is being sent from
+	$adminMail = ""; //the address the confirmation mail is being sent from
 	$db_host = "localhost";
 	$db_username = "root";
 	$db_password = "";
 	$db_name = "beyondbtc";
+	$basic_price = 279;
 
 	//connect to mysql server
 	$mysqli = new mysqli($db_host, $db_username, $db_password, $db_name);
@@ -38,7 +39,7 @@
 			"currency" => "USD",
 			"notificationURL" => "https://invictus.io/lib/devcon_signup.php"
 		);
-		$invoice = bpCreateInvoice(1, 0.01, $newEntryId, $options);
+		$invoice = bpCreateInvoice(1, $basic_price, $newEntryId, $options);
 
 		// add the invoice-data to our
 		// we don't know if the timezome of BitPay
