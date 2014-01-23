@@ -42,7 +42,7 @@
             <img class="bitsharesx-logo" src="assets/img/bitsharesx.png" alt="BitShares X" />
             <h2>Earn 5% or <i>more</i> on <i>anything</i>.</h2>
             </center>
-            <h2>BitShares X Has a lot in common with your current bank...</h2>
+            <h2>BitShares X has a lot in common with your current bank...</h2>
           </div>
           <p/>
 				<div class="row">
