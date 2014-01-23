@@ -13,7 +13,7 @@
 					<h4>Our Studio</h4>
 					<p>
 						Invictus Innovations Incorporated<br/>
-						2020 Kraft Dr., Suite 3030<br/>
+						2020 Kraft Drive, Suite 3030<br/>
 					  Blacksburg, VA 24060, USA<br/>
 					</p>
 				</div><! --/col-lg-3 -->
@@ -61,7 +61,7 @@
             <i class="fa fa-angle-right"></i> <a href="https://github.com/InvictusInnovations">GitHub Repository</a><br/>
             <i class="fa fa-angle-right"></i> <a href="http://wiki.invictus.io">Wiki</a><br/>
 						<i class="fa fa-angle-right"></i> <a href="https://github.com/super3/invictus">Code for Invictus.io</a><br/>
-						<i class="fa fa-angle-right"></i> <a href="https://github.com/super3/invictus/issues?milestone=1&ampl;state=open">Report Problems with Invictus.io</a>
+						<i class="fa fa-angle-right"></i> <a href="https://github.com/super3/invictus/issues?milestone=1&amp;state=open">Report Problems with Invictus.io</a>
 					</p>
 				</div><!-- /col-lg-3 -->
 
