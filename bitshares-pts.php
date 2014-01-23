@@ -41,7 +41,7 @@
               <div class="pts-resources">
                     <h3> Mining Pools</h3>
 
-                      <p>Mining Protoshares on your own is hard. The network consists of many computers running calculations in the client software or special mining software. This keep the network intact.
+                      <p>Mining PTS on your own is hard. The network consists of many computers running calculations in the client software or special mining software. This keep the network intact.
                       But you can mine coins with your own processing power or cloud servers. The pool combines the power of all
                       connected nodes and pays you proportionally for your sharerate. See our <a href="mining.html">mining guide</a> for more explanation. Most pools have their own optimized miners, so do check out there get started pages.</p>
 
@@ -56,7 +56,7 @@
 
                       <h3> Exchanges</h3>
 
-                      <p>Exchanges are the trading websites where you can buy or sell Protoshares. Be careful not to place large sums of Protoshares on exchanges without adequate security measures as a good password and 2-factor authentication</p>
+                      <p>Exchanges are the trading websites where you can buy or sell PTS. Be careful not to place large sums of PTS on exchanges without adequate security measures as a good password and 2-factor authentication</p>
                       <ul style="list-style-type: circle;">
                           <li><a href="https://bter.com/">Bter Exchange</a></li>
                           <li><a href="https://www.cryptsy.com/">Cryptsy Exchange</a></li>
@@ -65,7 +65,7 @@
                       </ul>
 
                      <h3> DACs</h3>
-                      <p>DACS are Distributed Autonomous Corporations. The deux-ex-machina where the miners themself create the corporation or foundation that runs the coin or a business. A company from the bottom up, democratized, without an appointed leader. ProtoShare itself is a DAC used to fund development of projects of Invictus Innovation. If there is a new DAC idea that Invictus Innovations 'launch' in the market, they will split it off from ProtoShares. In effect, owning ProtoShares will give you some cut in every DAC Invictus Innovations release.</p>
+                      <p>DACS are Distributed Autonomous Corporations. The deux-ex-machina where the miners themself create the corporation or foundation that runs the coin or a business. A company from the bottom up, democratized, without an appointed leader. PTS itself is a DAC used to fund development of projects of Invictus Innovation. If there is a new DAC idea that Invictus Innovations 'launch' in the market, they will split it off from PTS. In effect, owning PTS will give you some cut in every DAC Invictus Innovations release.</p>
                       <p>Current list of official DACs and DAC dev forum:</p>
                       <ul style="list-style-type: circle;">
                           <li><a href="https://bitsharestalk.org/index.php?board=2.0">Keyhotee - The guardian of your privacy</a></li>
@@ -78,9 +78,9 @@
                       <p>Exchanges are the trading websites where you can buy or sell protoshares. Be careful not to place large sums of protoshares on exchanges without adequate security measures as a good password and 2-factor authentication</p>
                       <ul style="list-style-type: circle;">
                           <li><a href="http://btsblock.com/chain/ProtoShares">Blockchain explorer - View transactions by pts adress</a></li>
-                          <li><a href="https://coinplorer.com/PTS">PTS Coin Information - Current Protoshares Statistics</a></li>
-                          <li><a href="https://bitsharestalk.org/index.php?board=1.0">Official Protoshares forum</a></li>
-                          <li><a href="http://www.reddit.com/r/protoshare">Sub-Reddit for Protoshare</a></li>
+                          <li><a href="https://coinplorer.com/PTS">PTS Coin Information - Current PTS Statistics</a></li>
+                          <li><a href="https://bitsharestalk.org/index.php?board=1.0">Official PTS forum</a></li>
+                          <li><a href="http://www.reddit.com/r/protoshare">Sub-Reddit for PTS</a></li>
                       </ul>
 
                       <p><br /><br /><strong>Happy mining!</strong></p>
