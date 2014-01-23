@@ -62,7 +62,7 @@
 							<p style="text-align: justify;">								
 							Both BitShares PTS and BitShares AGS rely upon the willingness of us and Allied developers to honor these donations
 							with credits in new decentralized block-chain based products that we as Invictus Innovations and others develop.  All
-              of our products are open source and therefore anyone is able to honor the donators who made these technologies possible.
+              of our products are open source and therefore anyone is able to honor the donors who made these technologies possible.
               
               From Allied developers we expect a Social Consensus to form in the marketplace about
 							what constitutes honorable developer behavior. BitShares PTS and BitShares AGS constitute concrete 
@@ -82,9 +82,9 @@
 							the minimum fair genesis-block allocation for block-chain based solutions.
 							</p>
 							<ul style="list-style-type: circle;">
-							<li>At least 10% of the bitshares should be allocated to holders of BitShares PTS.</li>
-							<li>At least 10% of the bitshares should be allocated to holders of BitShares AGS.</li>
-							<li>Remaining the bitshares should be customized to the needs of each BitShares chain.</li>
+							<li>At least 10% of the BitShares should be allocated to holders of BitShares PTS.</li>
+							<li>At least 10% of the BitShares should be allocated to holders of BitShares AGS.</li>
+							<li>The remaining BitShares should be customized to the needs of each BitShares chain.</li>
 							</ul>
               <br/>
               This emerging social consensus and resulting network effect will be further reinforced by the Social Consensus Software License
