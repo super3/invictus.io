@@ -17,9 +17,10 @@
         -->
         </div>
           <div class="col-lg-8 centered" style="margin-top:-50px">
+
+            <!--
             <h1 class="slideDown">BitShares X</h1>
             <h3 class="slideDown" style="margin-top:-10px; color:#ffffff">Earn 5% or more on <i>Anything.</i></h3>
-            <!--
             <div class="buttons">
               <a class="btn smoothScroll" href="#tables">Why BitShares X</a>
             </div>
@@ -35,23 +36,44 @@
 
 	<div id="white" class="bitsharesx">
 		<div class="container">
-			<div class="inner-page row">
-				<div class="row boxes">
-					<div class="col-md-4">
-            <h2>There are a lot of similarities between your current bank and</h2>
-            <img class="bitsharesx-logo" src="assets/img/bitsharesx.png" alt="BitsharesX" />
+			<div class="row">
+					<div class="col-md-12">
+             <center>
+            <img class="bitsharesx-logo" src="assets/img/bitsharesx.png" alt="BitShares X" />
+            <h2>Earn 5% or <i>more</i> on <i>anything</i>.</h2>
+            </center>
+            <h2>BitShares X Has a lot in common with your current bank...</h2>
           </div>
-          <div class="col-mdg-8">
-            <ul>
-              <li><h3>Earns revenue</h3><span>from transaction fees</span></li>
-              <li><h3>Lends dollars</h3><span>into existence on <br/>collateral</span></li>
-              <li class="clear-mobile"><h3>Repay loan</h3><span>to take dollars<br/>out of existence</span></li>
-              <li><h3>Calls loan</h3><span>if collateral loses value</span></li>
-            </ul>
-					</div>
+          <p/>
+				<div class="row">
+						<div class="col-md-3" >
+               <center>
+                 <img style="border-radius: 15px;"width="200px" height="200px" src="assets/img/fee_for_service.png" alt="old picture" />
+                 <h3><b>Earns Income</b></h3><h4> from <br/> transaction fees.</h4>
+              </center>
+						</div>
+						<div class="col-md-3">
+               <center>
+                 <img style="border-radius: 15px;"width="200px" height="200px"src="assets/img/mortgage.jpg" alt="blocks" />
+                 <h3><b>Lends Dollars</b></h3> <h4>into existance <br/> on collateral.</h4>
+              </center>
+						</div>
+						<div class="col-md-3">
+               <center>
+                 <img style="border-radius: 15px;"width="200px" height="200px"src="assets/img/paid-stamp.jpg" alt="blocks" />
+                 <h3><b>Repays Loan</b></h3> <h4>to take dollars<br/> out of existance.</h4>
+              </center>
+						</div>
+						<div class="col-md-3">
+               <center>
+                 <img style="border-radius: 15px;"width="200px" height="200px"src="assets/img/foreclosure-process.jpg" alt="blocks" />
+                 <h3><b>Calls Loan</b></h3> <h4>when collateral<br/> looses value.</h4>
+              </center>
+						</div>
 			</div><!-- /row -->
 		</div><!-- /container -->
 	</div><!-- /white -->
+  <br/>
 
   <div id="tables" class="lightblue-bg specs-table">
 		<div class="container">
@@ -118,7 +140,19 @@
         </div>
     </div>
   </div>
-
+  <div class="container">
+    <center>
+       <a style="text-decoration:none" href="bitshares.php">
+	          <h3  style="display:inline"class="maintitle"><img src="assets/img/bitshares/bitshares-eq.png" alt="bitshares" /></h3>
+            <h1 style="display:inline"> &nbsp;&nbsp;  vs.&nbsp; &nbsp;  </h1>
+	          <h3  style="display:inline"class="maintitle bank"><img src="assets/img/bitshares/bitcoin.png" alt="Bitcoin" /></h3>
+       </a>
+       <br/>
+         <a class="btn btn-primary btn-lg" href="bitshares.php">Learn the Difference</a>
+       <br/>
+    </center>
+    <hr/>
+  </div>
   <div class="container">
 			<div class="col-lg-7">
          <iframe width="600px" scrolling="no" height="205px" frameBorder="0"  src="http://ags.lodo.net/counter.php"></iframe>
