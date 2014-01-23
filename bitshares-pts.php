@@ -52,7 +52,6 @@
                         <li><a href="http://pts.rpool.net">http://pts.rpool.net</a> -  3% fee, payout per share of last round</li>
                         <li><a href="http://ptspool.com/">http://ptspool.com/</a> -  4% fee,  Pay Per Share </li>
                         <li><a href="http://ypool.net">http://ypool.net</a> -  6% fee, multicoin pool,  Pay Per Share</li>
-                        <li><a href="https://bitsharestalk.org/index.php?topic=236.0">Bytemaster</a> - Pay Per Share</li>
                       </ul>
 
               </div><!-- end PTS Resources -->
