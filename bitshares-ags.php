@@ -12,7 +12,7 @@
 
 	<div id="white">
 		<div class="container">			
-			<div class="inner-page row">
+<!--			<div class="inner-page row"> -->
             <div class="row">
                <div class="col-lg-3">
                </div>
