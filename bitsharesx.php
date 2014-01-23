@@ -67,7 +67,7 @@
 						<div class="col-md-3">
                <center>
                  <img style="border-radius: 15px;"width="200px" height="200px"src="assets/img/foreclosure-process.jpg" alt="blocks" />
-                 <h3><b>Calls Loan</b></h3> <h4>when collateral<br/> looses value.</h4>
+                 <h3><b>Calls Loan</b></h3> <h4>when collateral<br/> loses value.</h4>
               </center>
 						</div>
 			</div><!-- /row -->
