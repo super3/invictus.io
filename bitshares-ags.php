@@ -84,7 +84,7 @@
 							<ul style="list-style-type: circle;">
 							<li>At least 10% of the BitShares should be allocated to holders of BitShares PTS.</li>
 							<li>At least 10% of the BitShares should be allocated to holders of BitShares AGS.</li>
-							<li>Remaining the BitShares should be customized to the needs of each BitShares chain.</li>
+							<li>The remaining BitShares should be customized to the needs of each BitShares chain.</li>
 							</ul>
               <br/>
               This emerging social consensus and resulting network effect will be further reinforced by the Social Consensus Software License
