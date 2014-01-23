@@ -22,6 +22,10 @@ p {
 	color: #1b485d;
 }
 
+.pts-resources h3 {
+	padding-top: 20px;
+}
+
 h1, h2, h3, h4, h5, h6 {
 	color: #1b485d;
 }
@@ -198,12 +202,12 @@ h1, h2, h3, h4, h5, h6 {
   background-size:100% 100%;
 }
 #headerwrap.ags {
-	background: url(../img/above-the-clouds-hd-wallpaper.jpg)  no-repeat center top; 
+	background: url(../img/above-the-clouds-hd-wallpaper.jpg)  no-repeat center top;
 	min-height: 400px;
   background-size:100% 100%;
 }
 #headerwrap.pts {
-	background: url(../img/blueprint.jpg)  no-repeat center top; 
+	background: url(../img/blueprint.jpg)  no-repeat center top;
 	min-height: 400px;
   background-size:100% 100%;
 }
