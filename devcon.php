@@ -58,7 +58,7 @@
          </p><p> 
          Invictus is leading the way with our BitShares X platform which implements the business model of a bank and exchange on a blockchain, but there
          are more opportunities in this space than anyone can currently imagine.  There are so many potential business models to consider including:
-         voting, auctions, domains, intelectual property, gambling, insurance, and governance that anyone with an understanding of the
+         voting, auctions, domains, intellectual property, gambling, insurance, and governance that anyone with an understanding of the
          concepts being discussed at this summit can launch a revolutionary and <i>profitable</i> new business.
          </p>
          </div>
@@ -104,7 +104,7 @@
             <div class="col-lg-2">
                <p>
                <center>
-               <a href="http://letstalkbitcoin.com/author/adam/#.Ut8k02Qo4dk">
+               <a href="http://letstalkbitcoin.com/author/adam/">
                   <img width="150px" height="150px"style="box-shadow: none" src="http://letstalkbitcoin.com/wp-content/uploads/2013/12/Adam-B.-Levine_avatar_1386435188-160x160.jpg"</img>
                </a>
                <br/>
