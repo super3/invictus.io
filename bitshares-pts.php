@@ -32,8 +32,8 @@
               Invictus has chosen to allocate 50% to PTS holders in the genesis block.
               </p>
               <p>
-              <a class="btn btn-primary btn-lg" href="https://github.com/InvictusInnovations/ProtoShares/releases/download/vp0.4.0/ProtoShares-0.4.0.zip">Download Wallet (.zip)</a>
-              <a class="btn btn-primary btn-lg" href="https://github.com/InvictusInnovations/ProtoShares/releases/download/vp0.4.0/ProtoShares-0.2.0.dmg">Download Wallet (.dmg)</a>
+              <a class="btn btn-primary btn-lg" href="https://github.com/InvictusInnovations/ProtoShares/releases/download/vp0.4.0/ProtoShares-0.4.0.zip">Download Windows Wallet (.zip)</a>
+              <a class="btn btn-primary btn-lg" href="https://github.com/InvictusInnovations/ProtoShares/releases/download/vp0.4.0/ProtoShares-0.2.0.dmg">Download Mac Wallet (.dmg)</a>
               </p>
               <p>
               We have previously referred to BitShares PTS as "Protoshares", but no longer do so.  "ProtoShare" is a registered trademark of Site9, Inc. for its prototyping and mockup software product, ProtoShare.  There is no relationship between ProtoShare and Invictus Innovations.
