@@ -52,17 +52,6 @@
                         <li><a href="http://pts.rpool.net">http://pts.rpool.net</a> -  3% fee, payout per share of last round</li>
                         <li><a href="http://ptspool.com/">http://ptspool.com/</a> -  4% fee, Pay Per Share </li>
                         <li><a href="http://ypool.net">http://ypool.net</a> -  6% fee, multicoin pool, Pay Per Share</li>
-                        <li><a href="https://bitsharestalk.org/index.php?topic=236.0">Bytemaster</a> - Pay Per Share</li>
-                      </ul>
-
-                      <h3> Exchanges</h3>
-
-                      <p>Exchanges are the trading websites where you can buy or sell Protoshares. Be careful not to place large sums of Protoshares on exchanges without adequate security measures as a good password and 2-factor authentication</p>
-                      <ul style="list-style-type: circle;">
-                          <li><a href="https://bter.com/">Bter Exchange</a></li>
-                          <li><a href="https://www.cryptsy.com/">Cryptsy Exchange</a></li>
-                          <li><a href="http://www.btc38.com/">Btc38 Exchange</a></li>
-                          <li><a href="https://peatio.com/">Peatio Exchange</a></li>
                       </ul>
 
                      <h3> DACs</h3>
@@ -73,17 +62,6 @@
                           <li><a href="https://bitsharestalk.org/index.php?board=3.0">Bitshares - A Work-In-Progress Decentralized Bank &amp; Exchange</a></li>
                           <li><a href="https://bitsharestalk.org/index.php?board=9.0">Alternative DACs discussion</a></li>
                       </ul>
-
-                      <h3> Tools and Forum</h3>
-                      <p>Exchanges are the trading websites where you can buy or sell Protoshares. Be careful not to place large sums of Protoshares on exchanges without adequate security measures as a good password and 2-factor authentication.</p>
-                      <ul style="list-style-type: circle;">
-                          <li><a href="http://btsblock.com/chain/ProtoShares">Blockchain explorer - View transactions by pts adress</a></li>
-                          <li><a href="https://coinplorer.com/PTS">PTS Coin Information - Current Protoshares Statistics</a></li>
-                          <li><a href="https://bitsharestalk.org/index.php?board=1.0">Official Protoshares forum</a></li>
-                          <li><a href="http://www.reddit.com/r/protoshare">Sub-Reddit for Protoshares</a></li>
-                      </ul>
-
-                      <p><br /><br /><strong>Happy mining!</strong></p>
               </div><!-- end PTS Resources -->
 			</div>
 
@@ -117,6 +95,25 @@
 								</tr>
 							</table>
 							<small>* USD is calculated from MtGox BTC price and Exchange PTS price.</small>
+
+              <h3> Exchanges</h3>
+
+                      <p>Exchanges are the trading websites where you can buy or sell Protoshares. Be careful not to place large sums of Protoshares on exchanges without adequate security measures as a good password and 2-factor authentication</p>
+                      <ul style="list-style-type: circle;">
+                          <li><a href="https://bter.com/">Bter Exchange</a></li>
+                          <li><a href="https://www.cryptsy.com/">Cryptsy Exchange</a></li>
+                          <li><a href="http://www.btc38.com/">Btc38 Exchange</a></li>
+                          <li><a href="https://peatio.com/">Peatio Exchange</a></li>
+                      </ul>
+
+                         <h3> Tools and Forum</h3>
+                      <p>Exchanges are the trading websites where you can buy or sell Protoshares. Be careful not to place large sums of Protoshares on exchanges without adequate security measures as a good password and 2-factor authentication.</p>
+                      <ul style="list-style-type: circle;">
+                          <li><a href="http://btsblock.com/chain/ProtoShares">Blockchain explorer - View transactions by pts adress</a></li>
+                          <li><a href="https://coinplorer.com/PTS">PTS Coin Information - Current Protoshares Statistics</a></li>
+                          <li><a href="https://bitsharestalk.org/index.php?board=1.0">Official Protoshares forum</a></li>
+                          <li><a href="http://www.reddit.com/r/protoshare">Sub-Reddit for Protoshares</a></li>
+                      </ul>
 						</div>
 
 					</div>
