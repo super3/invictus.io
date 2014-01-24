@@ -25,7 +25,6 @@
 
     <!-- JavaScripts needed at the beginning
     ================================================== -->
-    <script type="text/javascript" src="http://alvarez.is/demo/newfirm/assets/js/twitterFetcher_v10_min.js"></script>
 
     <script src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
     <script src="assets/js/hover.zoom.js"></script>
