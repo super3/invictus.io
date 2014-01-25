@@ -105,7 +105,7 @@
                </p>
                  <a href="https://blockchain.info/address/1ANGELwQwWxMmbdaSWhWLqBEtPTkWb8uDc"><pre>1ANGELwQwWxMmbdaSWhWLqBEtPTkWb8uDc</pre></a>
                <p>
-                 Those who donate PTS to this angel Address will proportionally split 5,000 AGS
+                 Those who donate PTS to this Angel Address will proportionally split 5,000 AGS
                </p>
                  <a href="https://coinplorer.com/PTS/Addresses/PaNGELmZgzRQCKeEKM6ifgTqNkC4ceiAWw"><pre>PaNGELmZgzRQCKeEKM6ifgTqNkC4ceiAWw</pre></a>
               <p>
