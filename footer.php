@@ -61,7 +61,7 @@
             <i class="fa fa-angle-right"></i> <a href="https://github.com/InvictusInnovations">GitHub Repository</a><br/>
             <i class="fa fa-angle-right"></i> <a href="http://wiki.invictus.io">Wiki</a><br/>
 						<i class="fa fa-angle-right"></i> <a href="https://github.com/super3/invictus">Code for Invictus.io</a><br/>
-						<i class="fa fa-angle-right"></i> <a href="https://github.com/super3/invictus/issues?milestone=1&amp;state=open">Report Problems with Invictus.io</a>
+						<i class="fa fa-angle-right"></i> <a href="https://github.com/super3/invictus/issues?milestone=1&amp;state=open">Report problems with Invictus.io</a>
 					</p>
 				</div><!-- /col-lg-3 -->
 
