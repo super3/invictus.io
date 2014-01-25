@@ -49,25 +49,25 @@
 						<div class="col-md-3" >
                <center>
                  <img style="border-radius: 15px;"width="200px" height="200px" src="assets/img/fee_for_service.png" alt="old picture" />
-                 <h3><b>Earns Income</b></h3><h4> from <br/> transaction fees.</h4>
+                 <h3><b>Earns income</b></h3><h4> from <br/> transaction fees.</h4>
               </center>
 						</div>
 						<div class="col-md-3">
                <center>
                  <img style="border-radius: 15px;"width="200px" height="200px"src="assets/img/mortgage.jpg" alt="blocks" />
-                 <h3><b>Lends Dollars</b></h3> <h4>into existance <br/> on collateral.</h4>
+                 <h3><b>Lends dollars</b></h3> <h4>into existance <br/> on collateral.</h4>
               </center>
 						</div>
 						<div class="col-md-3">
                <center>
                  <img style="border-radius: 15px;"width="200px" height="200px"src="assets/img/paid-stamp.jpg" alt="blocks" />
-                 <h3><b>Repays Loan</b></h3> <h4>to take dollars<br/> out of existance.</h4>
+                 <h3><b>Repays loan</b></h3> <h4>to take dollars<br/> out of existance.</h4>
               </center>
 						</div>
 						<div class="col-md-3">
                <center>
                  <img style="border-radius: 15px;"width="200px" height="200px"src="assets/img/foreclosure-process.jpg" alt="blocks" />
-                 <h3><b>Calls Loan</b></h3> <h4>when collateral<br/> loses value.</h4>
+                 <h3><b>Calls loan</b></h3> <h4>when collateral<br/> loses value.</h4>
               </center>
 						</div>
 			</div><!-- /row -->
@@ -99,13 +99,13 @@
 
             <ul>
               <!--<li><h3>Your current Bank</h3></li>-->
-              <li>Low Yield Savings</li>
-              <li>Dollar Deposits Only</li>
-              <li>Slow Transfers</li>
-              <li>No Privacy</li>
-              <li>Frozen Accounts</li>
-              <li>It's a Monopoly!</li>
-              <li class="final"><span>The Bank Wins!</span></li>
+              <li>Low yield savings</li>
+              <li>Dollar deposits only</li>
+              <li>Slow transfers</li>
+              <li>No privacy</li>
+              <li>Frozen accounts</li>
+              <li>It's a monopoly!</li>
+              <li class="final"><span>The bank wins!</span></li>
            </ul>
          </div>
 
@@ -128,13 +128,13 @@
 
             <ul>
               <!--<li><img class="bitsharesx-logo" src="assets/img/bitsharesx.png" alt="BitsharesX" /></li><-->
-              <li>High Yield Savings</li>
-              <li>Save in Gold, Silver, Gas, <i>Anything</i></li>
-              <li>Instant Transfers</li>
-              <li>Better than a Swiss Bank</li>
-              <li>Never Frozen</li>
-              <li>Free Market Decentralization!</li>
-              <li class="final"><span>You Win!</span></li>
+              <li>High yield savings</li>
+              <li>Save in gold, silver, gas, <i>anything</i></li>
+              <li>Instant transfers</li>
+              <li>Better than a Swiss bank</li>
+              <li>Never frozen</li>
+              <li>Free market decentralization!</li>
+              <li class="final"><span>You win!</span></li>
             </ul>
           </div>
         </div>
@@ -148,7 +148,7 @@
 	          <h3  style="display:inline"class="maintitle bank"><img src="assets/img/bitshares/bitcoin.png" alt="Bitcoin" /></h3>
        </a>
        <br/>
-         <a class="btn btn-primary btn-lg" href="bitshares.php">Learn the Difference</a>
+         <a class="btn btn-primary btn-lg" href="bitshares.php">Learn the difference</a>
        <br/>
     </center>
     <hr/>
@@ -190,7 +190,7 @@
 					<!--		<small>* USD is calculated from MtGox BTC price and Exchange PTS price.</small> -->
           <br/>
          <center>
-         <a class="btn btn-primary btn-lg" href="bitshares-pts.php">Invest Now with BitShares PTS</a>
+         <a class="btn btn-primary btn-lg" href="bitshares-pts.php">Invest now with BitShares PTS</a>
          </center>
       </div>
     </div>
