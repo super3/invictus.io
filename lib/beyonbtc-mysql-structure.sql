@@ -32,9 +32,9 @@ CREATE TABLE IF NOT EXISTS `promocodes` (
   `code` varchar(64) NOT NULL,
   `price` float NOT NULL,
   `amount_total` int(11) NOT NULL,
-  `amount_left` int(11) NOT NULL,
-  `start` int(11) NOT NULL,
-  `end` int(11) NOT NULL,
+  `amount_redeemed` int(11) NOT NULL,
+  `start` bigint(20) NOT NULL,
+  `end` bigint(20) NOT NULL,
   PRIMARY KEY (`code`)
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 

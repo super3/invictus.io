@@ -10,7 +10,7 @@
 
 	//connect to mysql server
 	$mysqli = new mysqli($db_host, $db_username, $db_password, $db_name);
-	$mysqli->report_mode = MYSQLI_REPORT_ALL;
+	//$mysqli->report_mode = MYSQLI_REPORT_ALL;
 
 	if ( isset($_POST['email']) AND isset($_POST['firstName']) AND isset($_POST['lastName']) ) {
 		// creating the db entry for the signup
