@@ -133,8 +133,10 @@ function bpGetInvoice($invoiceId, $apiKey=false) {
 	$response = bpCurl('https://bitpay.com/api/invoice/'.$invoiceId, $apiKey);
 	if (is_string($response))
 		return $response; // error
-	$response['posData'] = json_decode($response['posData'], true);
-	$response['posData'] = $response['posData']['posData'];
+	if ( array_key_exists('posData', $response) ) {
+		$response['posData'] = json_decode($response['posData'], true);
+		$response['posData'] = $response['posData']['posData'];
+	}
 
 	return $response;	
 }

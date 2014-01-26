@@ -6,6 +6,7 @@ $(function() {
 		$firstNameInput = $('#inputFirstName'),
 		$lastNameInput = $('#inputLastName'),
 		$messageInput = $('#inputMessage'),
+		$priceField = $('#priceField'),
 		$promoCode = $('#promoCode'),
 		$promoCodeStatus = $('#promoCodeStatus'),
 		$loadingOverlay = $('#devconSignupForm>.loading-overlay');
@@ -14,6 +15,7 @@ $(function() {
 		var email = $emailInput.val(),
 			firstName = $firstNameInput.val(),
 			lastName = $lastNameInput.val(),
+			promoCode = $promoCode.val(),
 			message = $messageInput.val();
 
 		if ( email != null && validateEmail(email) && firstName != null && lastName != null ) {
@@ -25,10 +27,11 @@ $(function() {
 					email: email,
 					firstName: firstName,
 					lastName: lastName,
-					message: message
+					message: message,
+					promoCode: promoCode
 				}
 			}).done(function(result) {
-				//console.log(result);
+				console.log(result);
 				try {
 					var resultObject = JSON.parse(result);
 				} catch (e) {
@@ -68,6 +71,7 @@ $(function() {
 				id: $promoCode.val()
 			}
 		}).done(function(result) {
+			var message = "";
 			try {
 				var resultObject = JSON.parse(result);
 			} catch (e) {
@@ -75,23 +79,24 @@ $(function() {
 			}
 			if ( typeof resultObject.error == 'undefined' ) {
 				$promoCodeStatus.removeClass('alert-danger').removeClass('alert-info').addClass('alert-success');
-				$promoCodeStatus.find('span').html(result);
+				var delta = 279 - resultObject.price;
+				message = "The code '" + resultObject.code + "' will apply a $" + delta + " rebate.";
+				$priceField.html('<del>$279.00</del> <ins>$'+resultObject.price+'</ins>')
 			} else {
-				var errorMessage = "";
 				$promoCodeStatus.removeClass('alert-success').removeClass('alert-info').addClass('alert-danger');
 				if ( resultObject.error == 'code_expired' ) {
 					var start = new Date(resultObject.start);
 					var end = new Date(resultObject.end);
 					var format = 'MMMM Do';
-					errorMessage = "This code is only valid from <strong>" + moment(start).format(format) + "</strong> to <strong>" + moment(end).format(format) + "</strong>.";
+					message = "This code is only valid from <strong>" + moment(start).format(format) + "</strong> to <strong>" + moment(end).format(format) + "</strong>.";
 				} else if ( resultObject.error == 'code_redeemed' ) {
-					errorMessage = "Sorry, all available uses for this code have been redeemed.";
+					message = "Sorry, all available uses for this code have been redeemed.";
 				} else {
-					errorMessage = "The code you entered is not a valid promo code.";
+					message = "The code you entered is not a valid promo code.";
 				}
-				$promoCodeStatus.find('span').html(errorMessage);
+				$priceField.html('$279.00');
 			}
-			
+			$promoCodeStatus.find('span').html(message);
 			$promoCodeStatus.find('.loading-overlay').hide();
 		});
 	};

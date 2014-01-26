@@ -3,7 +3,7 @@
 -- http://www.phpmyadmin.net
 --
 -- Host: 127.0.0.1
--- Generation Time: Jan 22, 2014 at 10:12 PM
+-- Generation Time: Jan 26, 2014 at 09:30 PM
 -- Server version: 5.5.32
 -- PHP Version: 5.4.16
 
@@ -30,11 +30,12 @@ USE `beyondbtc`;
 
 CREATE TABLE IF NOT EXISTS `promocodes` (
   `code` varchar(64) NOT NULL,
-  `price` float NOT NULL,
+  `price` double NOT NULL,
   `amount_total` int(11) NOT NULL,
-  `amount_redeemed` int(11) NOT NULL,
-  `start` bigint(20) NOT NULL,
-  `end` bigint(20) NOT NULL,
+  `amount_redeemed` int(11) NOT NULL DEFAULT '0',
+  `amount_invalidated` int(11) NOT NULL DEFAULT '0' COMMENT 'Codes that were originally redeemed, but invoice never paid.',
+  `start` bigint(20) NOT NULL DEFAULT '0',
+  `end` bigint(20) NOT NULL DEFAULT '999999999999999',
   PRIMARY KEY (`code`)
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 
@@ -56,7 +57,7 @@ CREATE TABLE IF NOT EXISTS `signups` (
   `invoiceid` varchar(255) DEFAULT NULL,
   `promocode` varchar(64) DEFAULT NULL,
   PRIMARY KEY (`id`)
-) ENGINE=InnoDB  DEFAULT CHARSET=latin1 AUTO_INCREMENT=5 ;
+) ENGINE=InnoDB  DEFAULT CHARSET=latin1 AUTO_INCREMENT=8 ;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;

@@ -1,35 +1,68 @@
 <?php
 	require_once 'bitpay/bp_lib.php';
+	require_once 'db_config.php';
 
 	$adminMail = ""; //the address the confirmation mail is being sent from
-	$db_host = "localhost";
-	$db_username = "root";
-	$db_password = "";
-	$db_name = "beyondbtc";
 	$basic_price = 279;
 
 	//connect to mysql server
 	$mysqli = new mysqli($db_host, $db_username, $db_password, $db_name);
+	check_open_invoices($mysqli);
 	//$mysqli->report_mode = MYSQLI_REPORT_ALL;
 
 	if ( isset($_POST['email']) AND isset($_POST['firstName']) AND isset($_POST['lastName']) ) {
 		// creating the db entry for the signup
 		$sql = "INSERT INTO 
-	                signups (firstname, lastname, email, status, message, creationtime)
+	                signups (firstname, lastname, email, status, message, creationtime, promocode)
 	            VALUES 
-	                (?, ?, ?, 'new' , ?, ?)";
+	                (?, ?, ?, 'new' , ?, ?, ?)";
 
 	    $stmt = $mysqli->prepare($sql);
-		$stmt->bind_param("ssssi",
+		$stmt->bind_param("ssssis",
 			$_POST['firstName'],
 			$_POST['lastName'],
 			$_POST['email'],
 			$_POST['message'],
-			time());
+			time(),
+			$_POST['promoCode']);
 
 		$stmt->execute();
 		$stmt->close();
 	    $newEntryId = $mysqli->insert_id;
+
+	    $price = $basic_price;
+	    if ( isset($_POST['promoCode']) ) {
+		    $sql = "SELECT * FROM promocodes WHERE code = ?";
+
+			$stmt = $mysqli->prepare($sql);
+			$stmt->bind_param("s", $_POST['promoCode']);
+
+			$stmt->execute();
+			$result=$stmt->get_result();
+			$pCode = mysqli_fetch_array($result, MYSQLI_ASSOC);
+			$stmt->close();
+
+			if ( $pCode ) {
+				$time = time() * 1000;
+				$pCode_redeemed = $pCode['amount_total'] - $pCode['amount_redeemed'] + $pCode['amount_invalidated'] <= 0;
+				$pCode_expired = $pCode['start'] > $time || $pCode['end'] < $time;
+				if ( !$pCode_redeemed && !$pCode_expired ) {
+					$price = $pCode['price'];
+
+					// redeem one code
+					$sql = "UPDATE
+				                promocodes
+				            SET
+				                amount_redeemed = amount_redeemed + 1
+				            WHERE
+				            	code = ?";
+					$stmt = $mysqli->prepare($sql);
+					$stmt->bind_param("s", $_POST['promoCode']);
+					$stmt->execute();
+					$stmt->close();
+				}
+			}
+		}
 
 		// create the invoice at bitpay
 		$options = array(
@@ -39,7 +72,7 @@
 			"currency" => "USD",
 			"notificationURL" => "https://invictus.io/lib/devcon_signup.php"
 		);
-		$invoice = bpCreateInvoice(1, $basic_price, $newEntryId, $options);
+		$invoice = bpCreateInvoice(1, $price, $newEntryId, $options);
 
 		// add the invoice-data to our
 		// we don't know if the timezome of BitPay
@@ -78,7 +111,7 @@
 		$updatedInvoice = bpVerifyNotification();
 		if (is_string($updatedInvoice)) {
 			print "{\"error\":{\"type\":\"missingParameter\",\"message\":\"The request is missing either the email, first and last name or a valid, signed request from BitPay.\"}} ";
-			//return;
+			return;
 			//
 			// TEST:
 			// $updatedInvoice = json_decode('{"id":"SjmB4Z5fDCngGyA3x8zqnW","url":"https:\/\/bitpay.com\/invoice?id=SjmB4Z5fDCngGyA3x8zqnW","posData":4,"status":"confirmed","btcPrice":"0.0001","price":0.01,"currency":"USD","invoiceTime":1390412029304,"expirationTime":1390412929304,"currentTime":1390412029471}', true);
@@ -119,6 +152,53 @@
 			    'X-Mailer: PHP/' . phpversion();
 
 			mail($to, $subject, $message, $headers);
+		}
+	}
+
+	function check_open_invoices($mysqli) {
+		$time = time();
+		$sql = "SELECT * FROM signups WHERE status = 'new' AND expirationtime < ".$time;
+
+		$stmt = $mysqli->prepare($sql);
+		$stmt->execute();
+		$result=$stmt->get_result();
+		$unredeemedCodes = array();
+		while ( $signup = mysqli_fetch_array($result, MYSQLI_ASSOC) ) {
+			$invoice = bpGetInvoice($signup['invoiceid']);
+			if ( array_key_exists('status', $invoice) ) {
+				$status = $invoice['status'];
+
+				// check if a promocode was involved and should be reset because it wasn't redeemed
+				if ( $signup['promocode'] != NULL && ( $status == 'expired' || $status == 'invalid' ) ) {
+					if ( !array_key_exists($signup['promocode'], $unredeemedCodes) ) {
+						$unredeemedCodes[$signup['promocode']] = 1;
+					} else {
+						$unredeemedCodes[$signup['promocode']]++;
+					}
+				}
+
+				// update the signup status
+				$id = $signup['id'];
+				$sql = "UPDATE
+			                signups
+			            SET
+			                status = '$status'
+			            WHERE
+			            	id = $id";
+			    $mysqli->query($sql);
+			}
+		}
+		$stmt->close();
+
+		// now decrease all codes according to the unused codes in unpaid invoices
+		foreach ($unredeemedCodes as $code => $invalidate) {
+		    $sql = "UPDATE
+		    			promocodes
+		    		SET
+		    			amount_invalidated = amount_invalidated + $invalidate
+		    		WHERE
+		    			code = '$code'";
+		    $mysqli->query($sql);
 		}
 	}
 ?>
