@@ -6,6 +6,8 @@ $(function() {
 		$firstNameInput = $('#inputFirstName'),
 		$lastNameInput = $('#inputLastName'),
 		$messageInput = $('#inputMessage'),
+		$promoCode = $('#promoCode'),
+		$promoCodeStatus = $('#promoCodeStatus'),
 		$loadingOverlay = $('#devconSignupForm .loading-overlay');
 
 	function signup(e) {
@@ -26,7 +28,7 @@ $(function() {
 					message: message
 				}
 			}).done(function(result) {
-				console.log(result);
+				//console.log(result);
 				try {
 					var resultObject = JSON.parse(result);
 				} catch (e) {
@@ -45,9 +47,22 @@ $(function() {
 
 		e.preventDefault();
 		//return false;
+	};
+
+	function evalPromoCode(e) {
+		$.ajax({
+			type: "POST",
+			url: "lib/promocode_status.php",
+			data: { 
+				id: $promoCode.val()
+			}
+		}).done(function(result) {
+			$promoCodeStatus.html(result);
+		});
 	}
 
 	$signupBtn.on('click', signup)
+	$promoCode.on('blur', evalPromoCode)
 });
 
 function validateEmail(email) { 

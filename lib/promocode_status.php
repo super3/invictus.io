@@ -24,7 +24,7 @@
 			} else if ( $pCode['start'] > $time || $pCode['end'] < $time ) {
 				$return = array('error'=>'code_expired', 'start'=>$pCode['start'], 'end'=>$pCode['end']);
 			} else {
-				$return = $pCode;
+				$return = array('code'=>$pCode['code'],'price'=>$pCode['price']);
 			}
 
 		}

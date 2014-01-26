@@ -93,6 +93,22 @@
                  <textarea class="form-control" id="inputMessage" ></textarea>
                </div>
              </div>
+             <hr/>
+             <div class="form-group">
+               <label for="inputMessage" class="col-sm-2 control-label">Promo Code</label>
+               <div class="col-sm-5">
+                 <input type="text" class="form-control" id="promoCode" placeholder="-">
+               </div>
+               <div class="col-sm-5" style="padding-top: 7px;" id="promoCodeStatus">
+                 no promo code entered
+               </div>
+             </div>
+             <div class="form-group">
+               <label for="inputMessage" class="col-sm-2 control-label">Price</label>
+               <div class="col-sm-10" id="priceField" style="padding-top: 7px; font-weight: bold;">
+                 $ 279.00
+               </div>
+             </div>
              <div class="form-group">
                <div class="col-sm-offset-2 col-sm-10">
                  <button type="submit" id="devconSignupBtn" class="btn btn-default">Sign up &amp; pay with BTC now</button>
