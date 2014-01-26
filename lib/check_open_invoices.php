@@ -13,7 +13,6 @@
 			$invoice = bpGetInvoice($signup['invoiceid']);
 			if ( array_key_exists('status', $invoice) ) {
 				$status = $invoice['status'];
-
 				// check if a promocode was involved and should be reset because it wasn't redeemed
 				if ( $signup['promocode'] != NULL && ( $status == 'expired' || $status == 'invalid' ) ) {
 					if ( !array_key_exists($signup['promocode'], $unredeemedCodes) ) {
