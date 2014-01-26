@@ -1,9 +1,11 @@
 <?php
 	require_once 'db_config.php';
+	require_once 'check_open_invoices.php';
 
 	//connect to mysql server
 	$mysqli = new mysqli($db_host, $db_username, $db_password, $db_name);
 	//$mysqli->report_mode = MYSQLI_REPORT_ALL;
+	check_open_invoices($mysqli);
 
 	// default message(is changed is a code is found)
 	$return = array('error'=>'no_such_code');
