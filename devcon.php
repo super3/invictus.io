@@ -43,10 +43,10 @@
             about Distributed Applications or Decentralized Autonomous Organizations.  
             </p>
             <p>
-            Max Keiser recently did a <a href="http://www.youtube.com/watch?v=VPmkeio3jJQ">report on Capitalism 2.0</a> where they
+            Max Keiser recently did a <a href="http://www.youtube.com/watch?v=VPmkeio3jJQ">report on Capitalism 2.0</a> in which they
             declared "2014 is going to show the true power of the blockchain". The Beyond Bitcoin Summit is ground zero.  We
             are calling all entrepreneurs, investors, and software developers to meet in Las Vegas where we are assembling unique content
-            and opportunities that is far beyond that of any Bitcoin conference to date.
+            and opportunities that are far beyond those of any Bitcoin conference to date.
             </p>
          </div>
       </div>
