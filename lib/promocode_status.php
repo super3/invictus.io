@@ -18,7 +18,7 @@
 		$pCode = mysqli_fetch_array($result, MYSQLI_ASSOC);
 
 		if ( $pCode ) {
-			$time = floor(time() / 1000);
+			$time = time() * 1000;
 			if ( $pCode['amount_total'] - $pCode['amount_redeemed'] <= 0 ) {
 				$return = array('error'=>'code_redeemed');
 			} else if ( $pCode['start'] > $time || $pCode['end'] < $time ) {

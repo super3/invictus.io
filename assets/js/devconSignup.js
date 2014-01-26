@@ -8,7 +8,7 @@ $(function() {
 		$messageInput = $('#inputMessage'),
 		$promoCode = $('#promoCode'),
 		$promoCodeStatus = $('#promoCodeStatus'),
-		$loadingOverlay = $('#devconSignupForm .loading-overlay');
+		$loadingOverlay = $('#devconSignupForm>.loading-overlay');
 
 	function signup(e) {
 		var email = $emailInput.val(),
@@ -49,7 +49,18 @@ $(function() {
 		//return false;
 	};
 
+	var toEvalPC = undefined;
+	function promoCodeKeyDown(e) {
+		if ( toEvalPC ) {
+			clearTimeout(toEvalPC);
+		}
+
+		toEvalPC = setTimeout(evalPromoCode, 500);
+	};
+
 	function evalPromoCode(e) {
+		$promoCodeStatus.find('.loading-overlay').show();
+
 		$.ajax({
 			type: "POST",
 			url: "lib/promocode_status.php",
@@ -57,12 +68,37 @@ $(function() {
 				id: $promoCode.val()
 			}
 		}).done(function(result) {
-			$promoCodeStatus.html(result);
+			try {
+				var resultObject = JSON.parse(result);
+			} catch (e) {
+				alert('Sorry, something went wrong there, please try it again!')
+			}
+			if ( typeof resultObject.error == 'undefined' ) {
+				$promoCodeStatus.removeClass('alert-danger').removeClass('alert-info').addClass('alert-success');
+				$promoCodeStatus.find('span').html(result);
+			} else {
+				var errorMessage = "";
+				$promoCodeStatus.removeClass('alert-success').removeClass('alert-info').addClass('alert-danger');
+				if ( resultObject.error == 'code_expired' ) {
+					var start = new Date(resultObject.start);
+					var end = new Date(resultObject.end);
+					var format = 'MMMM Do';
+					errorMessage = "This code is only valid from <strong>" + moment(start).format(format) + "</strong> to <strong>" + moment(end).format(format) + "</strong>.";
+				} else if ( resultObject.error == 'code_redeemed' ) {
+					errorMessage = "Sorry, all available uses for this code have been redeemed.";
+				} else {
+					errorMessage = "The code you entered is not a valid promo code.";
+				}
+				$promoCodeStatus.find('span').html(errorMessage);
+			}
+			
+			$promoCodeStatus.find('.loading-overlay').hide();
 		});
-	}
+	};
 
-	$signupBtn.on('click', signup)
-	$promoCode.on('blur', evalPromoCode)
+	$signupBtn.on('click', signup);
+	$promoCode.on('keydown', promoCodeKeyDown);
+	//$promoCode.on('blur', evalPromoCode);
 });
 
 function validateEmail(email) { 

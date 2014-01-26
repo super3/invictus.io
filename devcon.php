@@ -97,10 +97,17 @@
              <div class="form-group">
                <label for="inputMessage" class="col-sm-2 control-label">Promo Code</label>
                <div class="col-sm-5">
-                 <input type="text" class="form-control" id="promoCode" placeholder="-">
+                 <input type="text" class="form-control" id="promoCode" placeholder="Code">
                </div>
-               <div class="col-sm-5" style="padding-top: 7px;" id="promoCodeStatus">
-                 no promo code entered
+               <div class="col-sm-5">
+                <div class="alert alert-info" id="promoCodeStatus" style="padding-top: 6px; padding-bottom: 6px; margin: 0;">
+                  <span>No promo code entered yet.</span>
+                  <div class="loading-overlay" style="display: none;">
+                    <div class="center-positioned">
+                      <i class="fa fa-spinner fa-spin" style="position: absolute; top: -0.5em;"></i>
+                    </div>
+                  </div>
+                </div>
                </div>
              </div>
              <div class="form-group">
@@ -124,6 +131,7 @@
             <iframe style="overflow: hidden;" width="504" height="200" frameBorder="0" seamless="seamless" scrolling="no"></iframe>
            </div>
            <script src="assets/js/jqBootstrapValidation.js"></script>
+           <script src="assets/js/moment.min.js"></script>
            <script src="assets/js/devconSignup.js"></script>
         </div>
       </div><!-- row -->
