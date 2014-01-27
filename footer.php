@@ -10,7 +10,7 @@
 			<div class="row">
 				<!-- ADDRESS -->
 				<div class="col-lg-3">
-					<h4>Our Studio</h4>
+					<h4>Our studio</h4>
 					<p>
 						Invictus Innovations Incorporated<br/>
 						2020 Kraft Drive, Suite 3030<br/>
@@ -19,9 +19,9 @@
 				</div><! --/col-lg-3 -->
 
 				<div class="col-lg-3">
-					<h4>Contact Us</h4>
+					<h4>Contact us</h4>
 					<p>
-            <a href="mailto:contact.us@invictus-innovations.com">contact.us@invictus-innovations.com</a><br/>
+            <a href="mailto:contact.us@invictus-innovations.com">Contact.us@invictus-innovations.com</a><br/>
 					</p>
 				</div><! --/col-lg-3 -->
 
@@ -58,7 +58,7 @@
 				<div class="col-lg-3">
 					<h4>Info</h4>
 					<p>
-            <i class="fa fa-angle-right"></i> <a href="https://github.com/InvictusInnovations">GitHub Repository</a><br/>
+            <i class="fa fa-angle-right"></i> <a href="https://github.com/InvictusInnovations">GitHub repository</a><br/>
             <i class="fa fa-angle-right"></i> <a href="http://wiki.invictus.io">Wiki</a><br/>
 						<i class="fa fa-angle-right"></i> <a href="https://github.com/super3/invictus">Code for Invictus.io</a><br/>
 						<i class="fa fa-angle-right"></i> <a href="https://github.com/super3/invictus/issues?milestone=1&amp;state=open">Report problems with Invictus.io</a>
