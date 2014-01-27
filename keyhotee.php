@@ -51,7 +51,7 @@
 				</div>
 				<div class="col-md-4 col-md-offset-1">
 					<h3>Your new Identity</h3>
-					<p>Keyhotee uses blockchain technology to uniquely assign every user a globally unique identity that can be used anywhere on the internet.</p>
+					<p>Keyhotee uses blockchain technology to provide each user with a globally unique identity that can be used anywhere on the internet.</p>
 				</div>
 			</div><!-- end row -->
 		</div><!-- end container -->
