@@ -118,7 +118,7 @@
                  <a class="btn btn-yellow btn-lg" href="http://angelshares.info/beta/">Visit angelshares.info</a>
                   </p>
 					 	 	  </p>
-               <h3 style="color:orange"><i>You must send all donations from a wallet where you control the Private Key such as Bitcoin-Qt</i></h3>
+               <h3 style="color:orange"><i>You must send all donations from a wallet for which you control the Private Key such as Bitcoin-Qt</i></h3>
                <h3 style="color:red">Do not send donations directly from an exchange or the exchange will be credited with the AGS instead of you.</h3>
 				  </div>
     	</div><!-- /row -->
