@@ -44,7 +44,7 @@
 
                       <p>Mining PTS on your own is hard. The network consists of many computers running calculations in the client software or special mining software. This keep the network intact.
                       But you can mine coins with your own processing power or cloud servers. The pool combines the power of all
-                      connected nodes and pays you proportionally for your sharerate. See our <a href="mining.html">mining guide</a> for more explanation. Most pools have their own optimized miners, so do check out there get started pages.</p>
+                      connected nodes and pays you proportionally for your sharerate. See our <a href="mining.html">mining guide</a> for more explanation. Most pools have their own optimized miners, so do check out their get started pages.</p>
 
                       <p>This is a list of pools mining PTS:</p>
                       <ul style="list-style-type: circle;">
