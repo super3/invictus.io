@@ -42,7 +42,7 @@
               <div class="pts-resources">
                     <h3> Mining Pools</h3>
 
-                      <p>Mining PTS on your own is hard. The network consists of many computers running calculations in the client software or special mining software. This keep the network intact.
+                      <p>Mining PTS on your own is hard. The network consists of many computers running calculations in the client software or special mining software. This keeps the network secure.
                       But you can mine coins with your own processing power or cloud servers. The pool combines the power of all
                       connected nodes and pays you proportionally for your sharerate. See our <a href="mining.html">mining guide</a> for more explanation. Most pools have their own optimized miners, so do check out their get started pages.</p>
 
@@ -90,7 +90,7 @@
 
               <h3> Exchanges</h3>
 
-                      <p>Exchanges are the trading websites where you can buy or sell PTS. Be careful not to place large sums of PTS on exchanges without adequate security measures as a good password and 2-factor authentication</p>
+                      <p>Exchanges are the trading websites where you can buy or sell PTS. Be careful not to place large sums of PTS on exchanges without adequate security measures, such as a good password and 2-factor authentication</p>
                       <ul style="list-style-type: circle;">
                           <li><a href="https://bter.com/">Bter Exchange</a></li>
                           <li><a href="https://www.cryptsy.com/">Cryptsy Exchange</a></li>
@@ -99,7 +99,7 @@
                       </ul>
 
                          <h3> Tools and Forum</h3>
-                      <p>Exchanges are the trading websites where you can buy or sell PTS. Be careful not to place large sums of PTS on exchanges without adequate security measures as a good password and 2-factor authentication.</p>
+                      <p>To learn more about PTS, explore the following resources:</p>
                       <ul style="list-style-type: circle;">
                           <li><a href="http://btsblock.com/chain/ProtoShares">Blockchain explorer - View transactions by pts adress</a></li>
                           <li><a href="https://coinplorer.com/PTS">PTS Coin Information - Current PTS Statistics</a></li>
