@@ -105,7 +105,7 @@
                </p>
                  <a href="https://blockchain.info/address/1ANGELwQwWxMmbdaSWhWLqBEtPTkWb8uDc"><pre>1ANGELwQwWxMmbdaSWhWLqBEtPTkWb8uDc</pre></a>
                <p>
-                 Those who donate PTS to this Angel Address will proportionally split 5,000 AGS
+                 Those who donate PTS to this Angel Address will proportionally split 5,000 AGS:
                </p>
                  <a href="https://coinplorer.com/PTS/Addresses/PaNGELmZgzRQCKeEKM6ifgTqNkC4ceiAWw"><pre>PaNGELmZgzRQCKeEKM6ifgTqNkC4ceiAWw</pre></a>
               <p>
@@ -118,7 +118,7 @@
                  <a class="btn btn-yellow btn-lg" href="http://angelshares.info/beta/">Visit angelshares.info</a>
                   </p>
 					 	 	  </p>
-               <h3 style="color:orange"><i>You must send all donations from a wallet for which you control the Private Key, such as Bitcoin-Qt.</i></h3>
+               <h3 style="color:orange"><i>You must send all your donations from a wallet for which you control the Private Key, such as Bitcoin-Qt.</i></h3>
                <h3 style="color:red">Do not send donations directly from an exchange, or the exchange will be credited with the AGS instead of you.</h3>
 				  </div>
     	</div><!-- /row -->
