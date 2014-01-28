@@ -48,7 +48,8 @@
 				<a class="zoom blue" href="#"><img class="img-responsive" src="assets/img/team/Li Xiaolai - Bio Card.png" alt="" /></a>
 				<!--<p>	Li Xiaolai<br>Director </p>
 				<p style="text-align: justify;">
-					Li Xiaolai is an entrepreneur, author, social innovator and educator based in Beijing. Author of the best-selling book Befriending Time.
+					Li Xiaolai is an entrepreneur, author, social innovator and educator based in Beijing.
+					He is author of the best-selling book <i>Befriending Time</i>.
 					His work at the New Oriental School gave him recognition as one of the best teachers in China. 
 					Xiaolai is the founder of several ventures including the website knewone.com, the venture capital fundbitfund.pe and 
 					his own chain of private schools in Beijing,Shanghai,Shenzhen and Nanjing. He supports bitcointalk.org as a VIP member and as a lifetime member of the Bitcoin Foundation. 
