@@ -71,7 +71,7 @@
 					Brian Page is a trends investor, entrepreneur and marketing specialist with a passion for building the next great brand. 
 					His primary talent is the ability to craft a simple message that's relevant, consistent and recognizable. 
 					He takes pride in making the complex easy to understand and championing the revolutionary concepts of crypto-currencies, crypto-equities and decentralization. 
-					He's thrilled to be joining the Invictus team as its brand champion. 
+					He's thrilled to be joining the Invictus Innovations Incorporated team as its brand champion. 
 				</p>-->
 			</div>
 			<div class="col-lg-6 desc">
