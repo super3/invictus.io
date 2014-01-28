@@ -59,7 +59,7 @@
 				<a class="zoom blue" href="#"><img class="img-responsive" src="assets/img/team/Stan Larimer - Bio Card.png" alt="" /></a>
 				<!--<p>	Stan Larimer<br>President, Chief Operating Officer  </p>
 				<p style="text-align: justify;">
-					Stan Larimer is a senior program manager and systems/hardware/ software engineer with 37 years experience with unmanned systems in the aerospace and internet industries. 
+					Stan Larimer is a senior program manager and systems/hardware/ software engineer with 37 years' experience with unmanned systems in the aerospace and internet industries. 
 					He has served as an Assistant Vice President for Science Applications International Corporation (SAIC) and has worked with and for 
 					the Air Force Wright Patterson Labs and many of the top companies in the American aerospace industry, He also taught rocket science at the U.S.Air Force Academy.  
 				</p>-->
