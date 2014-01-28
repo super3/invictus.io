@@ -41,7 +41,7 @@
 				<!--<p>	Bo Shen<br>Director, CEO China </p>
 				<p style="text-align: justify;">
 					Bo Shen is an evangelist, entrepreneur and inverter in math based ecosystem. As a veteran of the financial and Internet industries, Bo Shen has been actively involved in Bitcoin, Ripple and BitShares. 
-					He is currently the one of three founding members of the Bitcoin Foundation's China Chapter, the Director of MyBitfund, Invictus Innovations and RippleChina.  
+					He is currently one of the three founding members of the Bitcoin Foundation's China Chapter, the Director of MyBitfund, Invictus Innovations and RippleChina.  
 				</p>-->
 			</div>
 			<div class="col-lg-6 desc">
