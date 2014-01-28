@@ -80,7 +80,7 @@
 				<p style="text-align: justify;">
 					Teaches Finance and Economics, both on-line and in the classroom and has spent the past two decades working on the Internet in several capacities.
 					Served as financial cryptographic consultant on several online payments system startups during the height of the Dot.Com Era. Dean of Online Business Programs for Keiser University in Florida.
-					Currently developing economic underpinnings for Invictus Innovations while teaching on-line and building Pecuniology.corn, which is dedicated to promoting economic and financial literacy worldwide. 
+					Currently developing economic underpinnings for Invictus Innovations Incorporated while teaching on-line and building Pecuniology.corn, which is dedicated to promoting economic and financial literacy worldwide. 
 				</p>-->
 			</div>
 			<div class="row mt centered">	
