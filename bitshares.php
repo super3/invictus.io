@@ -66,8 +66,8 @@
 
 	            <ul>
 	              <!--<li><h3>Your current Bank</h3></li>-->
-	              <li>All revenue spent on security</li>
-	              <li>Additional 12% security tax</li>
+	              <li>All Revenue Spent on Security</li>
+	              <li>Additional 12% Security Tax</li>
 	              <li>Slow Confirmations</li>
 	              <li>Consumes Billions Annually</li>
 	              <li class="final"><span>Many alt-coins with the same unprofitable business model</span></li>
