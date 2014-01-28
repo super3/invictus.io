@@ -48,7 +48,7 @@
 
                       <p>This is a list of pools mining PTS:</p>
                       <ul style="list-style-type: circle;">
-                        <li><a href="http://pts.beeeeer.org">http://pts.beeeeer.org</a> - 2.5% fee, Pay Per Share</li>
+                        <li><a href="http://ptsweb.beeeeer.org">http://ptsweb.beeeeer.org</a> - 2.5% fee, Pay Per Share</li>
                         <li><a href="http://pts.rpool.net">http://pts.rpool.net</a> -  3% fee, payout per share of last round</li>
                         <li><a href="http://ptspool.com/">http://ptspool.com/</a> -  3% fee,  Pay Per Share </li>
                         <li><a href="http://ypool.net">http://ypool.net</a> -  5% fee, multicoin pool,  Pay Per Share</li>
