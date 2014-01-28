@@ -88,7 +88,7 @@
 							</ul>
               <br/>
               This emerging social consensus and resulting network effect will be further reinforced by the Social Consensus Software License
-              which will require all derivative software products to initialize their blockchain according to this consensus.  
+              which will require each derivative software products to initialize its blockchain according to this consensus.  
               <br/>
               <br/>
               <br/>
