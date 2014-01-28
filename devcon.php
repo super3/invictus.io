@@ -38,7 +38,7 @@
             <h1> Beyond Bitcoin Summit </h1>
             <p>
             This summit will be the first event in the Bitcoin space that focuses entirely on 
-            the future of blockchain based businesses.  Since we first <a href="http://letstalkbitcoin.com/is-bitcoin-overpaying-for-false-security">introduced</a> the concept of Decentralized Autonomous
+            the future of blockchain-based businesses.  Since we first <a href="http://letstalkbitcoin.com/is-bitcoin-overpaying-for-false-security">introduced</a> the concept of Decentralized Autonomous
             Companies (DACs) in September 2013 the idea has gone viral and now everyone from Mastercoin to Ethereum is talking
             about Distributed Applications or Decentralized Autonomous Organizations.  
             </p>
