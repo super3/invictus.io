@@ -91,8 +91,8 @@
 
 	            <ul>
 	              <!--<li><img class="bitsharesx-logo" src="assets/img/bitsharesx.png" alt="BitsharesX" /></li><-->
-	              <li>All revenues paid as dividends</li>
-	              <li>No security tax</li>
+	              <li>All revenues Paid as Dividends</li>
+	              <li>No Security Tax</li>
 	              <li>Fast Confirmation</li>
 	              <li>Efficient Operation</li>
 	              <li class="final"><span>Many alt-companies with creative profit models.</span></li>
