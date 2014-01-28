@@ -24,7 +24,7 @@
 							<p style="text-align: justify;">
               BitShares PTS is a Bitcoin clone that allows you to buy and trade ownership in future BitShares created by
               Invictus Innovations or derived from our software.  A BitShare is a stake in what we like to call a
-              decentralized autonomous company, and Invictus has many innovative blockchains on our roadmap.
+              Decentralized Autonomous Company (DAC), and Invictus has many innovative blockchains on our roadmap.
 							</p>
               <p>
               BitShares PTS comes with a social contract to allocate at least 10% of the total shares in all future
