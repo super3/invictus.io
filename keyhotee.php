@@ -47,7 +47,7 @@
 			<div class="row">
 				<div class="col-md-4 col-md-offset-2">
 					<h3>Your new Email</h3>
-					<p>If you know how to use email you already know how to use Keyhotee.  What makes Keyhotee different is that your communication is secure by default.</p>
+					<p>If you know how to use email, you already know how to use Keyhotee.  What makes Keyhotee different is that your communication is secure by default.</p>
 				</div>
 				<div class="col-md-4 col-md-offset-1">
 					<h3>Your new Identity</h3>
