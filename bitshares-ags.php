@@ -61,7 +61,7 @@
 						<h3>Take part in BitShares Solutions</h3>	
 							<p style="text-align: justify;">								
 							Both BitShares PTS and BitShares AGS rely upon the willingness of us and Allied developers to honor these donations
-							with credits in new decentralized block-chain based products that we as Invictus Innovations and others develop.  All
+							with credits in new decentralized blockchain-based products that we as Invictus Innovations and others develop.  All
               of our products are open source and therefore anyone is able to honor the donors who made these technologies possible.
               
               From Allied developers we expect a Social Consensus to form in the marketplace about
@@ -79,7 +79,7 @@
 							(a) Developers should seek a reasonable balance between equal-opportunity lotteries and ways to compensate
 							those who sacrifice their savings or labor. (b) The market needs to give developers freedom to raise 
 							funds to develop, support and promote their new DACs.  We believe that the following allocation represents
-							the minimum fair genesis-block allocation for block-chain based solutions.
+							the minimum fair genesis-block allocation for blockchain-based solutions.
 							</p>
 							<ul style="list-style-type: circle;">
 							<li>At least 10% of the BitShares should be allocated to holders of BitShares PTS.</li>
