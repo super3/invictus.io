@@ -24,7 +24,7 @@
 							<p style="text-align: justify;">
               BitShares PTS is a Bitcoin clone that allows you to buy and trade ownership in future BitShares created by
               Invictus Innovations or derived from our software.  A BitShare is a stake in what we like to call a
-              decentralized autonomous company and Invictus has many innovative blockchains on our roadmap.
+              Decentralized Autonomous Company (DAC), and Invictus has many innovative blockchains on our roadmap.
 							</p>
               <p>
               BitShares PTS comes with a social contract to allocate at least 10% of the total shares in all future
@@ -44,7 +44,7 @@
 
                       <p>Mining PTS on your own is hard. The network consists of many computers running calculations in the client software or special mining software. This keeps the network secure.
                       But you can mine coins with your own processing power or cloud servers. The pool combines the power of all
-                      connected nodes and pays you proportionally for your sharerate. Most pools have their own optimized miners, so do check out their get started pages.</p>
+                      connected nodes and pays you proportionally for your sharerate. Most pools have their own optimized miners, so do check out their "get started" pages.</p>
 
                       <p>This is a list of pools mining PTS:</p>
                       <ul style="list-style-type: circle;">
