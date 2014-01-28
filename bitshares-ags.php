@@ -61,7 +61,7 @@
 						<h3>Take part in BitShares Solutions</h3>	
 							<p style="text-align: justify;">								
 							Both BitShares PTS and BitShares AGS rely upon the willingness of us and Allied developers to honor these donations
-							with credits in new decentralized block-chain based products that we as Invictus Innovations and others develop.  All
+							with credits in new decentralized blockchain-based products that we as Invictus Innovations and others develop.  All
               of our products are open source and therefore anyone is able to honor the donors who made these technologies possible.
               
               From Allied developers we expect a Social Consensus to form in the marketplace about
@@ -79,7 +79,7 @@
 							(a) Developers should seek a reasonable balance between equal-opportunity lotteries and ways to compensate
 							those who sacrifice their savings or labor. (b) The market needs to give developers freedom to raise 
 							funds to develop, support and promote their new DACs.  We believe that the following allocation represents
-							the minimum fair genesis-block allocation for block-chain based solutions.
+							the minimum fair genesis-block allocation for blockchain-based solutions.
 							</p>
 							<ul style="list-style-type: circle;">
 							<li>At least 10% of the BitShares should be allocated to holders of BitShares PTS.</li>
@@ -88,7 +88,7 @@
 							</ul>
               <br/>
               This emerging social consensus and resulting network effect will be further reinforced by the Social Consensus Software License
-              which will require all derivative software products to initialize their blockchain according to this consensus.  
+              which will require each derivative software products to initialize its blockchain according to this consensus.  
               <br/>
               <br/>
               <br/>
@@ -105,7 +105,7 @@
                </p>
                  <a href="https://blockchain.info/address/1ANGELwQwWxMmbdaSWhWLqBEtPTkWb8uDc"><pre>1ANGELwQwWxMmbdaSWhWLqBEtPTkWb8uDc</pre></a>
                <p>
-                 Those who donate PTS to this angel Address will proportionally split 5,000 AGS
+                 Those who donate PTS to this Angel Address will proportionally split 5,000 AGS:
                </p>
                  <a href="https://coinplorer.com/PTS/Addresses/PaNGELmZgzRQCKeEKM6ifgTqNkC4ceiAWw"><pre>PaNGELmZgzRQCKeEKM6ifgTqNkC4ceiAWw</pre></a>
               <p>
@@ -118,8 +118,8 @@
                  <a class="btn btn-yellow btn-lg" href="http://angelshares.info/beta/">Visit angelshares.info</a>
                   </p>
 					 	 	  </p>
-               <h3 style="color:orange"><i>You must send all donations from a wallet for which you control the Private Key such as Bitcoin-Qt</i></h3>
-               <h3 style="color:red">Do not send donations directly from an exchange or the exchange will be credited with the AGS instead of you.</h3>
+               <h3 style="color:orange"><i>You must send all your donations from a wallet for which you control the Private Key, such as Bitcoin-Qt.</i></h3>
+               <h3 style="color:red">Do not send donations directly from an exchange, or the exchange will be credited with the AGS instead of you.</h3>
 				  </div>
     	</div><!-- /row -->
 			

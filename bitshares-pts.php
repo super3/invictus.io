@@ -24,7 +24,7 @@
 							<p style="text-align: justify;">
               BitShares PTS is a Bitcoin clone that allows you to buy and trade ownership in future BitShares created by
               Invictus Innovations or derived from our software.  A BitShare is a stake in what we like to call a
-              decentralized autonomous company and Invictus has many innovative blockchains on our roadmap.
+              Decentralized Autonomous Company (DAC), and Invictus has many innovative blockchains on our roadmap.
 							</p>
               <p>
               BitShares PTS comes with a social contract to allocate at least 10% of the total shares in all future
@@ -42,13 +42,13 @@
               <div class="pts-resources">
                     <h3> Mining Pools</h3>
 
-                      <p>Mining PTS on your own is hard. The network consists of many computers running calculations in the client software or special mining software. This keep the network intact.
+                      <p>Mining PTS on your own is hard. The network consists of many computers running calculations in the client software or special mining software. This keeps the network secure.
                       But you can mine coins with your own processing power or cloud servers. The pool combines the power of all
-                      connected nodes and pays you proportionally for your sharerate. See our <a href="mining.html">mining guide</a> for more explanation. Most pools have their own optimized miners, so do check out their get started pages.</p>
+                      connected nodes and pays you proportionally for your sharerate. Most pools have their own optimized miners, so do check out their "get started" pages.</p>
 
                       <p>This is a list of pools mining PTS:</p>
                       <ul style="list-style-type: circle;">
-                        <li><a href="http://pts.beeeeer.org">http://pts.beeeeer.org</a> - 2.5% fee, Pay Per Share</li>
+                        <li><a href="http://ptsweb.beeeeer.org">http://ptsweb.beeeeer.org</a> - 2.5% fee, Pay Per Share</li>
                         <li><a href="http://pts.rpool.net">http://pts.rpool.net</a> -  3% fee, payout per share of last round</li>
                         <li><a href="http://ptspool.com/">http://ptspool.com/</a> -  3% fee,  Pay Per Share </li>
                         <li><a href="http://ypool.net">http://ypool.net</a> -  5% fee, multicoin pool,  Pay Per Share</li>
@@ -90,7 +90,7 @@
 
               <h3> Exchanges</h3>
 
-                      <p>Exchanges are the trading websites where you can buy or sell PTS. Be careful not to place large sums of PTS on exchanges without adequate security measures as a good password and 2-factor authentication</p>
+                      <p>Exchanges are the trading websites where you can buy or sell PTS. Be careful not to place large sums of PTS on exchanges without adequate security measures, such as a good password and 2-factor authentication</p>
                       <ul style="list-style-type: circle;">
                           <li><a href="https://bter.com/">Bter Exchange</a></li>
                           <li><a href="https://www.cryptsy.com/">Cryptsy Exchange</a></li>
@@ -99,7 +99,7 @@
                       </ul>
 
                          <h3> Tools and Forum</h3>
-                      <p>Exchanges are the trading websites where you can buy or sell PTS. Be careful not to place large sums of PTS on exchanges without adequate security measures as a good password and 2-factor authentication.</p>
+                      <p>To learn more about PTS, explore the following resources:</p>
                       <ul style="list-style-type: circle;">
                           <li><a href="http://btsblock.com/chain/ProtoShares">Blockchain explorer - View transactions by pts adress</a></li>
                           <li><a href="https://coinplorer.com/PTS">PTS Coin Information - Current PTS Statistics</a></li>

@@ -30,10 +30,10 @@
 				<a class="zoom blue" href="#"><img class="img-responsive" src="assets/img/team/Daniel Larimer - Bio Card.png" alt="" /></a>
 				<!--<p>	Daniel Larimer <br>CEO America, CTO, Founder, Chairman </p>
 				<p style="text-align: justify;">
-					Daniel Larimer is a Virginia based entrepreneur and software engineer with a passion to find free market solutions to secure life, liberty and property for all. 
+					Daniel Larimer is a Virginia-based entrepreneur and software engineer with a passion to find free market solutions to secure life, liberty and property for all. 
 					In addition to software development, Daniel is a self-taught expert in Austrian economics. He has recently co-founded Invictus Innovations Incorporated with the mission of 
 					developing decentralized solutions to centralized problems where he serves as the CTO and is the chief architect of the BitShares peer-to-peer trust-less, 
-					black-chain-based,financial system.
+					blackchain-based, financial system.
 				</p> -->
 			</div>
 			<div class="col-lg-6 desc">
@@ -41,16 +41,17 @@
 				<!--<p>	Bo Shen<br>Director, CEO China </p>
 				<p style="text-align: justify;">
 					Bo Shen is an evangelist, entrepreneur and inverter in math based ecosystem. As a veteran of the financial and Internet industries, Bo Shen has been actively involved in Bitcoin, Ripple and BitShares. 
-					He is currently the one of three founding members of the Bitcoin Foundation's China Chapter, the Director of MyBitfund, Invictus Innovations and RippleChina.  
+					He is currently one of the three founding members of the Bitcoin Foundation's China Chapter, the Director of MyBitfund, Invictus Innovations and RippleChina.  
 				</p>-->
 			</div>
 			<div class="col-lg-6 desc">
 				<a class="zoom blue" href="#"><img class="img-responsive" src="assets/img/team/Li Xiaolai - Bio Card.png" alt="" /></a>
 				<!--<p>	Li Xiaolai<br>Director </p>
 				<p style="text-align: justify;">
-					Li Xiaolai is an entrepreneur, author, social innovator and educator based in Beijing. Author of the best-selling book Befriending Time.
+					Li Xiaolai is an entrepreneur, author, social innovator and educator based in Beijing.
+					He is author of the best-selling book <i>Befriending Time</i>.
 					His work at the New Oriental School gave him recognition as one of the best teachers in China. 
-					Xiaolai is the founder of several ventures including the website knewone.com, the venture capital fundbitfund.pe and 
+					Xiaolai is the founder of several ventures, including the website knewone.com, the venture capital fundbitfund.pe and 
 					his own chain of private schools in Beijing,Shanghai,Shenzhen and Nanjing. He supports bitcointalk.org as a VIP member and as a lifetime member of the Bitcoin Foundation. 
 				</p>-->
 			</div>
@@ -58,7 +59,7 @@
 				<a class="zoom blue" href="#"><img class="img-responsive" src="assets/img/team/Stan Larimer - Bio Card.png" alt="" /></a>
 				<!--<p>	Stan Larimer<br>President, Chief Operating Officer  </p>
 				<p style="text-align: justify;">
-					Stan Larimer is a senior program manager and systems/hardware/ software engineer with 37 years experience with unmanned systems in the aerospace and internet industries. 
+					Stan Larimer is a senior program manager and systems/hardware/ software engineer with 37 years' experience with unmanned systems in the aerospace and internet industries. 
 					He has served as an Assistant Vice President for Science Applications International Corporation (SAIC) and has worked with and for 
 					the Air Force Wright Patterson Labs and many of the top companies in the American aerospace industry, He also taught rocket science at the U.S.Air Force Academy.  
 				</p>-->
@@ -70,7 +71,7 @@
 					Brian Page is a trends investor, entrepreneur and marketing specialist with a passion for building the next great brand. 
 					His primary talent is the ability to craft a simple message that's relevant, consistent and recognizable. 
 					He takes pride in making the complex easy to understand and championing the revolutionary concepts of crypto-currencies, crypto-equities and decentralization. 
-					He's thrilled to be joining the Invictus team as its brand champion. 
+					He's thrilled to be joining the Invictus Innovations Incorporated team as its brand champion. 
 				</p>-->
 			</div>
 			<div class="col-lg-6 desc">
@@ -79,7 +80,7 @@
 				<p style="text-align: justify;">
 					Teaches Finance and Economics, both on-line and in the classroom and has spent the past two decades working on the Internet in several capacities.
 					Served as financial cryptographic consultant on several online payments system startups during the height of the Dot.Com Era. Dean of Online Business Programs for Keiser University in Florida.
-					Currently developing economic underpinnings for Invictus Innovations while teaching on-line and building Pecuniology.corn, which is dedicated to promoting economic and financial literacy worldwide. 
+					Currently developing economic underpinnings for Invictus Innovations Incorporated while teaching on-line and building Pecuniology.corn, which is dedicated to promoting economic and financial literacy worldwide. 
 				</p>-->
 			</div>
 			<div class="row mt centered">	

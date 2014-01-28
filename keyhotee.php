@@ -47,11 +47,11 @@
 			<div class="row">
 				<div class="col-md-4 col-md-offset-2">
 					<h3>Your new Email</h3>
-					<p>If you know how to use email you already know how to use Keyhotee.  What makes Keyhotee different is that your communication is secure by default.</p>
+					<p>If you know how to use email, you already know how to use Keyhotee.  What makes Keyhotee different is that your communication is secure by default.</p>
 				</div>
 				<div class="col-md-4 col-md-offset-1">
 					<h3>Your new Identity</h3>
-					<p>Keyhotee uses blockchain technology to uniquely assign every user a globally unique identity that can be used anywhere on the internet.</p>
+					<p>Keyhotee uses blockchain technology to provide each user with a globally-unique identity that can be used anywhere on the internet.</p>
 				</div>
 			</div><!-- end row -->
 		</div><!-- end container -->
