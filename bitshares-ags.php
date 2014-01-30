@@ -60,11 +60,11 @@
             </p>
 						<h3>Take part in BitShares Solutions</h3>	
 							<p style="text-align: justify;">								
-							Both BitShares PTS and BitShares AGS rely upon the willingness of us and Allied developers to honor these donations
+							Both BitShares PTS and BitShares AGS rely upon the willingness of us and allied developers to honor these donations
 							with credits in new decentralized blockchain-based products that we as Invictus Innovations and others develop.  All
               of our products are open source and therefore anyone is able to honor the donors who made these technologies possible.
               
-              From Allied developers we expect a Social Consensus to form in the marketplace about
+              From allied developers we expect a Social Consensus to form in the marketplace about
 							what constitutes honorable developer behavior. BitShares PTS and BitShares AGS constitute concrete 
 							documentation of what benefits developers received from those who laid the industry foundation.  
 
