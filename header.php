@@ -4,8 +4,8 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="">
-    <meta name="author" content="">
+    <meta name="description" content="Bitshares earn 5% or more on anything">
+    <meta name="author" content="Invictus">
     <link rel="shortcut icon" href="assets/ico/favicon.png">
 
     <title>Invictus Innovations - Reimagine Everything</title>
@@ -25,7 +25,6 @@
 
     <!-- JavaScripts needed at the beginning
     ================================================== -->
-    <script type="text/javascript" src="http://alvarez.is/demo/newfirm/assets/js/twitterFetcher_v10_min.js"></script>
 
     <script src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
     <script src="assets/js/hover.zoom.js"></script>

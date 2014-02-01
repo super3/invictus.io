@@ -66,11 +66,11 @@
 
 	            <ul>
 	              <!--<li><h3>Your current Bank</h3></li>-->
-	              <li>All revenue spent on security</li>
-	              <li>Additional 12% security tax</li>
+	              <li>All Revenue Spent on Security</li>
+	              <li>Additional 12% Security Tax</li>
 	              <li>Slow Confirmations</li>
 	              <li>Consumes Billions Annually</li>
-	              <li class="final"><span>Many alt-coins with the same unprofitable business model</span></li>
+	              <li class="final"><span>Many alt-coins with the same unprofitable business model.</span></li>
 	           </ul>
 	         </div>
 
@@ -91,8 +91,8 @@
 
 	            <ul>
 	              <!--<li><img class="bitsharesx-logo" src="assets/img/bitsharesx.png" alt="BitsharesX" /></li><-->
-	              <li>All revenues paid as dividends</li>
-	              <li>No security tax</li>
+	              <li>All revenues Paid as Dividends</li>
+	              <li>No Security Tax</li>
 	              <li>Fast Confirmation</li>
 	              <li>Efficient Operation</li>
 	              <li class="final"><span>Many alt-companies with creative profit models.</span></li>

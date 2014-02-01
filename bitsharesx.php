@@ -55,19 +55,19 @@
 						<div class="col-md-3">
                <center>
                  <img style="border-radius: 15px;"width="200px" height="200px"src="assets/img/mortgage.jpg" alt="blocks" />
-                 <h3><b>Lends Dollars</b></h3> <h4>into existance <br/> on collateral.</h4>
+                 <h3><b>Lends Dollars</b></h3> <h4>into existence <br/> on collateral.</h4>
               </center>
 						</div>
 						<div class="col-md-3">
                <center>
                  <img style="border-radius: 15px;"width="200px" height="200px"src="assets/img/paid-stamp.jpg" alt="blocks" />
-                 <h3><b>Repays Loan</b></h3> <h4>to take dollars<br/> out of existance.</h4>
+                 <h3><b>Repays Loan</b></h3> <h4>to take dollars<br/> out of existence.</h4>
               </center>
 						</div>
 						<div class="col-md-3">
                <center>
                  <img style="border-radius: 15px;"width="200px" height="200px"src="assets/img/foreclosure-process.jpg" alt="blocks" />
-                 <h3><b>Calls Loan</b></h3> <h4>when collateral<br/> looses value.</h4>
+                 <h3><b>Calls Loan</b></h3> <h4>when collateral<br/> loses value.</h4>
               </center>
 						</div>
 			</div><!-- /row -->

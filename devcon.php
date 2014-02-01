@@ -38,15 +38,15 @@
             <h1> Beyond Bitcoin Summit </h1>
             <p>
             This summit will be the first event in the Bitcoin space that focuses entirely on 
-            the future of blockchain based businesses.  Since we first <a href="http://letstalkbitcoin.com/is-bitcoin-overpaying-for-false-security">introduced</a> the concept of Decentralized Autonomous
-            Companies (DACs) in September 2013 the idea has gone viral and now everyone from Mastercoin to Ethereum is talking
+            the future of blockchain-based businesses.  Since we first <a href="http://letstalkbitcoin.com/is-bitcoin-overpaying-for-false-security">introduced</a> the concept of Decentralized Autonomous
+            Companies (DACs) in September 2013 the idea has gone viral, and now everyone from Mastercoin to Ethereum is talking
             about Distributed Applications or Decentralized Autonomous Organizations.  
             </p>
             <p>
-            Max Keiser recently did a <a href="http://www.youtube.com/watch?v=VPmkeio3jJQ">report on Capitalism 2.0</a> where they
+            Max Keiser recently did a <a href="http://www.youtube.com/watch?v=VPmkeio3jJQ">report on Capitalism 2.0</a> in which they
             declared "2014 is going to show the true power of the blockchain". The Beyond Bitcoin Summit is ground zero.  We
             are calling all entrepreneurs, investors, and software developers to meet in Las Vegas where we are assembling unique content
-            and opportunities that is far beyond that of any Bitcoin conference to date.
+            and opportunities that are far beyond those of any Bitcoin conference to date.
             </p>
          </div>
       </div>
@@ -57,8 +57,8 @@
          opportunity to assemble the necessary talent and capital to launch your own venture.   
          </p><p> 
          Invictus is leading the way with our BitShares X platform which implements the business model of a bank and exchange on a blockchain, but there
-         are more opportunities in this space than anyone can currently imagine.  There are so many potential business models to consider including:
-         voting, auctions, domains, intellectual property, gambling, insurance, and governance that anyone with an understanding of the
+         are more opportunities in this space than anyone can currently imagine.  There are so many potential business models to consider &ndash; including:
+         voting, auctions, domains, intellectual property, gambling, insurance, and governance &ndash; that anyone with an understanding of the
          concepts being discussed at this summit can launch a revolutionary and <i>profitable</i> new business.
          </p>
          </div>
