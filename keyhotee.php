@@ -63,6 +63,8 @@
 						<h2>Downloads</h2>
 						<p>Note: Keyhotee is now in alpha testing. There may be instability and many bugs. Please <a href="https://bitsharestalk.org/index.php?topic=1984">report any problems you have</a>.</p>
 						<a class="btn large" href="https://github.com/InvictusInnovations/keyhotee/releases/download/v0.5.2-alpha/keyhotee_0.5.2.zip">Download Keyhotee 0.5.2 (Windows)</a>
+						<br/>
+						<a class="btn large" href="bin/keyhotee_0.5.3.gz">Download Keyhotee 0.5.3 (Linux)</a>						
 					</div><!-- end col -->
 					<div class="col-md-6 centered">
 						<img class="img-responsive" src="assets/img/browser-02.png" alt="Browser Keyhotee" />

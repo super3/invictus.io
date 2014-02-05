@@ -4,8 +4,8 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="">
-    <meta name="author" content="">
+    <meta name="description" content="Bitshares earn 5% or more on anything">
+    <meta name="author" content="Invictus">
     <link rel="shortcut icon" href="assets/ico/favicon.png">
 
     <title>Invictus Innovations - Reimagine Everything</title>
@@ -82,6 +82,8 @@
 
   <!--    <li><a href="blog.php">Blog</a></li> -->
       <li><a href="https://bitsharestalk.org/">Forum</a></li>
+      <li><a href="http://www.twitter.com/_bitshares"><img  height="20px" src="https://g.twimg.com/Twitter_logo_blue.png"/></a></li>
+      <li><a href="http://www.facebook.com/officialbitshares"><img  height="20px" src="http://epicshowdowns.com/wp-content/uploads/2013/12/facebook-icon.png"/></a></li>
       <!--
       <li><a href="#"><img src="assets/img/us.png" alt="US Flag"/></a></li>
       <li><a href="http://www.invictus-innovations.cn/ZH/"><img src="assets/img/cn.png" alt="US Flag"/></a></li>
