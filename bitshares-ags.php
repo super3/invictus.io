@@ -119,6 +119,7 @@
                   </p>
 					 	 	  </p>
                <h3 style="color:orange"><i>You must send all your donations from a wallet for which you control the Private Key, such as Bitcoin-Qt.</i></h3>
+			   <p>Click <a href="blockchain-info-ags-howto.php">here</a> to see how to send BTC from a blockchain.info wallet and then claim your BitShares AGS.<p> 
                <h3 style="color:red">Do not send donations directly from an exchange, or the exchange will be credited with the AGS instead of you.</h3>
 				  </div>
     	</div><!-- /row -->
