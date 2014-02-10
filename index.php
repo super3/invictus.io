@@ -60,7 +60,7 @@
             <h4>Beyond Bitcoin Summit</h4>
             </div>
             <p>
-            <a class="btn large" href="devcon.php">Learn More</a>
+            <a class="btn large" href="http://beyondbitcoin.org/">Learn More</a>
             </p>
         </div>
       </div>
