@@ -60,11 +60,11 @@
             </p>
 						<h3>Take part in BitShares Solutions</h3>	
 							<p style="text-align: justify;">								
-							Both BitShares PTS and BitShares AGS rely upon the willingness of us and Allied developers to honor these donations
+							Both BitShares PTS and BitShares AGS rely upon the willingness of us and allied developers to honor these donations
 							with credits in new decentralized blockchain-based products that we as Invictus Innovations and others develop.  All
               of our products are open source and therefore anyone is able to honor the donors who made these technologies possible.
               
-              From Allied developers we expect a Social Consensus to form in the marketplace about
+              From allied developers we expect a Social Consensus to form in the marketplace about
 							what constitutes honorable developer behavior. BitShares PTS and BitShares AGS constitute concrete 
 							documentation of what benefits developers received from those who laid the industry foundation.  
 
@@ -119,6 +119,7 @@
                   </p>
 					 	 	  </p>
                <h3 style="color:orange"><i>You must send all your donations from a wallet for which you control the Private Key, such as Bitcoin-Qt.</i></h3>
+			   <p>Click <a href="blockchain-info-ags-howto.php">here</a> to see how to send BTC from a blockchain.info wallet and then claim your BitShares AGS.<p> 
                <h3 style="color:red">Do not send donations directly from an exchange, or the exchange will be credited with the AGS instead of you.</h3>
 				  </div>
     	</div><!-- /row -->
