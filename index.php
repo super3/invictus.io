@@ -37,7 +37,7 @@
             <div style="min-height:20px">
             </div>
             <div class="index-sub-title col-1">
-            <img width="300px" class="bitsharesx-logo" src="assets/img/bitsharesx.png" alt="BitsharesX" />
+            <img width="300px" class="bitsharesx-logo" src="assets/img/bitsharesx.png" alt="BitShares X" />
             <h4 style="margin-top:2px">Earn 5% or more on <i>Anything</i></h4>
             </div>
             <p>
@@ -55,7 +55,7 @@
             </p>
         </div>
     		<div class="col-md-4 centered">
-            <img width="300px" class="bitsharesx-logo" style="margin-top:-10px" src="assets/img/bitshares.png" alt="BitsharesX" />
+            <a href="http://beyondbitcoin.org"><img width="300px" class="bitsharesx-logo" style="margin-top:-10px" src="assets/img/bitshares.png" alt="Beyond Bitcoin" /> </a>
             <div class="index-sub-title col-3">
             <h4>Beyond Bitcoin Summit</h4>
             </div>
