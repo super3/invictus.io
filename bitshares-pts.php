@@ -86,7 +86,7 @@
 									<td id="vol-val">0</td>
 								</tr>
 							</table>
-							<small>* USD is calculated from MtGox BTC price and Exchange PTS price.</small>
+							<small>* USD is calculated from Blockchain.info reported market price and Exchange PTS price.</small>
 
               <h3> Exchanges</h3>
 
