@@ -8,7 +8,7 @@
         <div class="col-md-4 col-md-offset-1">
       <!--
 					<h1 class="slideUp">BitShares X</h1>
-					<h2 class="slideUp">Earn 5% or more on <i>Anything</i></h2>
+					<h2 class="slideUp">Trade or hedge <i>Anything</i></h2>
             <div class="buttons">
            		<a class="btn btn-primary btn-lg" href="bitsharesx.php">Learn More</a>
             </div>
