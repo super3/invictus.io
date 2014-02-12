@@ -23,5 +23,10 @@ elseif ($_REQUEST['exchange'] == 'MtGox')
 	$api_val = file_get_contents('http://data.mtgox.com/api/2/BTCUSD/money/ticker');	
 	echo $api_val;	
 }
+elseif ($_REQUEST['exchange'] == 'blockchain')
+{
+	$api_val = file_get_contents('https://blockchain.info/ticker');	
+	echo $api_val;	
+}
 
 ?>
