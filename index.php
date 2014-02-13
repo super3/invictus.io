@@ -8,7 +8,7 @@
         <div class="col-md-4 col-md-offset-1">
       <!--
 					<h1 class="slideUp">BitShares X</h1>
-					<h2 class="slideUp">Earn 5% or more on <i>Anything</i></h2>
+					<h2 class="slideUp">Trade or hedge <i>Anything</i></h2>
             <div class="buttons">
            		<a class="btn btn-primary btn-lg" href="bitsharesx.php">Learn More</a>
             </div>
@@ -37,7 +37,7 @@
             <div style="min-height:20px">
             </div>
             <div class="index-sub-title col-1">
-            <img width="300px" class="bitsharesx-logo" src="assets/img/bitsharesx.png" alt="BitsharesX" />
+            <img width="300px" class="bitsharesx-logo" src="assets/img/bitsharesx.png" alt="BitShares X" />
             <h4 style="margin-top:2px">Earn 5% or more on <i>Anything</i></h4>
             </div>
             <p>
@@ -55,12 +55,12 @@
             </p>
         </div>
     		<div class="col-md-4 centered">
-            <img width="300px" class="bitsharesx-logo" style="margin-top:-10px" src="assets/img/bitshares.png" alt="BitsharesX" />
+            <a href="http://beyondbitcoin.org"><img width="300px" class="bitsharesx-logo" style="margin-top:-10px" src="assets/img/bitshares.png" alt="Beyond Bitcoin" /> </a>
             <div class="index-sub-title col-3">
             <h4>Beyond Bitcoin Summit</h4>
             </div>
             <p>
-            <a class="btn large" href="http://beyondbitcoin.org">Learn More</a>
+            <a class="btn large" href="http://beyondbitcoin.org/">Learn More</a>
             </p>
         </div>
       </div>

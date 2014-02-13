@@ -87,13 +87,15 @@ function updatePrices(){
 
 	var exchange = getCurrentExchange();
 
-	$.getJSON( "getprice.php?exchange=MtGox", function( gox_data ) {
+	$.getJSON( "getprice.php?exchange=blockchain", function( blockchain_data ) {
 		$.getJSON( "getprice.php?exchange=" + exchange, function( data ) {
+
+			var currPrice = parseFloat(blockchain_data.USD.last);
 
 			if(exchange === "Bter"){
 
-				// Calculate the USD value based on MtGox last price and exchange BTC/PTS last price = (USD/BTC) / (BTC/PTS) 
-				var usd = (parseFloat(gox_data.data.last.value) * parseFloat(data.last)).toFixed(2);
+				// Calculate the USD value based on blockchain.info last price and exchange BTC/PTS last price = (USD/BTC) / (BTC/PTS) 
+				var usd = (currPrice * parseFloat(data.last)).toFixed(2);
 
 				$("#price-usd").empty().append("$" + usd);	
 				$("#price-val").empty().append(data.last);	
@@ -103,8 +105,8 @@ function updatePrices(){
 			}
 			else if (exchange === "Cryptsy"){
 				
-				// Calculate the USD value based on MtGox last price and exchange BTC/PTS last price = (USD/BTC) / (BTC/PTS) 
-				var usd = (parseFloat(gox_data.data.last.value) * parseFloat(data.return.markets.PTS.lasttradeprice)).toFixed(2);
+				// Calculate the USD value based on blockchain.info last price and exchange BTC/PTS last price = (USD/BTC) / (BTC/PTS) 
+				var usd = (currPrice * parseFloat(data.return.markets.PTS.lasttradeprice)).toFixed(2);
 
 				$("#price-usd").empty().append("$" + usd);	
 				$("#price-val").empty().append(parseFloat(data.return.markets.PTS.lasttradeprice).toFixed(4));	

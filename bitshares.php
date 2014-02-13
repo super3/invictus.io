@@ -134,7 +134,7 @@
 							  -->
 							<table class="table table-bordered">
 								<tr>
-									<th>Price (USD)*</th>
+									<th>Price (USD)</th>
 									<th>Price (BTC/PTS)</th>
 									<th>High (BTC/PTS)</th>
 									<th>Low (BTC/PTS)</th>

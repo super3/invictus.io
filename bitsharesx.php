@@ -10,7 +10,7 @@
         <div class="col-md-3 col-md-offset-1">
       <!--
 					<h1 class="slideUp">BitShares X</h1>
-					<h2 class="slideUp">Earn 5% or more on <i>Anything</i></h2>
+					<h2 class="slideUp">Trade or hedge <i>Anything</i></h2>
             <div class="buttons">
            		<a class="btn btn-primary btn-lg" href="bitsharesx.php">Learn More</a>
             </div>
@@ -40,7 +40,7 @@
 					<div class="col-md-12">
              <center>
             <img class="bitsharesx-logo" src="assets/img/bitsharesx.png" alt="BitShares X" />
-            <h2>Earn 5% or <i>more</i> on <i>anything</i>.</h2>
+            <h2>Trade or hedge <i>anything</i>.</h2>
             </center>
             <h2>BitShares X has a lot in common with your current bank...</h2>
           </div>
@@ -173,7 +173,7 @@
 							  -->
 							<table class="table table-bordered">
 								<tr>
-									<th>Price (USD)*</th>
+									<th>Price (USD)</th>
 									<th>Price (BTC/PTS)</th>
 									<th>High (BTC/PTS)</th>
 									<th>Low (BTC/PTS)</th>
