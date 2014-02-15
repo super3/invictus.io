@@ -1,0 +1,428 @@
+<html>
+<head>
+<style>   
+   tr:nth-child(even) {
+          background-color: #ffffff;
+   }
+   tr:nth-child(odd) {
+          background-color: #eeeeee;
+   }
+</style>
+</head>
+<body>
+   <h1>BitShares X Wallet Documentation</h1>
+   <p>
+      This document defines how to interact with the JSON-RPC interface provided by the
+      <code>bts_wallet</code> executable.  The <code>bts_wallet</code> provides an interface 
+      to user funds and the blockchain in general and attempts to follow conventions similar to
+      the Bitcoin JSON-RPC protocl.  
+   </p>
+   <h2> Configuration </h2>
+   <p>
+      The <code>bts_wallet</code> takes a single optional command line argument used to specify
+      which directory contains the blockchain state and wallet of the user.  If no command line
+      arguments are specified <code>bts_wallet</code> will use the directory <code>.bitshares-x</code>
+      in your <code>${HOME}</code> directory.  This directory will be refered to as <code>${DATA_DIR}</code>
+      for the rest of this document.
+   </p>
+   <p>
+      When launched <code>bts_wallet</code> will load the file <code>${DATE_DIR}/config.json</code> which is
+      automatically created if it does not already exist.  Here is an example of the default contents of 
+      this file:
+   </p>
+
+      <pre>
+       {
+          "rpc_endpoint":"127.0.0.1:0",
+          "rpc_user":"",
+          "rpc_password":"",
+          "unique_node_list":[["127.0.0.1:4567",""]]
+       }
+      </pre>
+   <p>
+      The <code>rpc_endpoint</code> determines which IP and port the JSON-RPC server should listen on for
+      incoming tcp/ip connections.  If the password is not set then the JSON-RPC server will not start.  
+   </p>
+   <p>
+      If the <code>rpc_endpoint</code> is <code>0.0.0.0</code> then connections will be allowed from any
+      IP.  By default connections are only allowed from <code>localhost</code> for security reasons.
+   </p>
+   <p>
+      The <code>unique_node_list</code> is used to specify known, trusted servers and optionally the public key
+      associated with those servers.  For now this list should only contain the official Invictus server, but
+      eventually it will contain a set of seed nodes for the decentralized network.
+   </p>
+
+   <h2> JSON-RPC Interface </h2>
+   <p>
+      External applications can interface with the <code>bts_wallet</code> by connecting to the <code>rpc_endpoint</code>
+      using a standard TCP/IP socket.  There is no http header or other overhead.  Instead queries should be of the following
+      form:
+   </p>
+   <pre>
+    { "id":1, "method":"login",         "params":["user","password"] }
+    { "id":2, "method":"getnewaddress", "params":["optionallabel"]   }
+    { "id":3, "method":"getbalance",    "params":[ASSET_TYPE]        }
+   </pre>
+   <p>
+     If <code>login</code> is not called successfully first then the calls to <code>getnewaddress</code> and <code>getbalance</code> will return
+     a <a href="http://www.jsonrpc.org/specification#error_object">Error Object</a>
+   </p>
+   <h3> Special Variables / Types </h3> 
+   <p>
+     Throughout this document we will be using various variables as placeholders for certain value types.  These placeholders are defined in
+     the following table:
+   </p>
+   <p>
+     <table cellpadding="10px">
+      <tr>
+        <td>ASSET_TYPE</td> 
+        <td>Used to represent one of the supported BitAsset types in the network.  
+            In the case of BitShares XT valid values include: <code>"xts", "btc", "usd", "gld", "slv"</code>, and <code> "cny"</code>. These
+            would represent the BitAssets for  Bitcoin, US Dollars, 1 Oz 0.9999 pure gold, and 1 Oz 0.9999 pure Silver
+            <br/>
+            <code>"xts"</code> is the native currency of the BitShares XT network.
+        </td>
+      </tr>
+      <tr>
+        <td>AMOUNT</td>
+        <td>
+           A string of the form <code>"0.00000000 ASSET_TYPE"</code>, ie: <code>"3.14159700 usd"</code>
+        </td>
+      </tr>
+      <tr>
+        <td>PRICE</td>
+        <td>
+           A string of the form <code>"0.00000000 ASSET_TYPE/ASSET_TYPE"</code>, ie: <code>"3.14159700 usd/xts"</code>
+        </td>
+      </tr>
+      <tr>
+        <td>ADDRESS</td>
+        <td>
+        <p>
+          A string of base58 characters derived from a public key using the following algorithm.
+        </p>
+          Given a compressed ECC public key KEY:
+         <pre>
+            KEY_HASH          = ripemd160( sha512(KEY[0...33]) )
+            CHECK             = ripemd160( KEY_HASH[0...15] )
+            KEY_HASH[16...19] = CHECK[0...3]
+            ADDRESS           = base58( KEY_HASH[0...19] )
+         </pre>
+        </td>
+      </tr>
+      <tr>
+        <td>PRIVATE_KEY</td>
+        <td>
+          A hex string of a raw private key without any check sums.
+        </td>
+      </tr>
+      <tr>
+           <td>OUTPUT_REFERENCE</code>
+           <td>Data of the format <code>"TRANSACTION_ID:OUTPUT_NUM"</code> where <code>TRANSACTION_ID</code> is the hex representation of the
+           transaction hash. 
+           </td>
+      </tr>
+      <tr>
+        <td>OUTPUT_INDEX</td>
+        <td>
+           Data of the format <code>"BLOCK_NUM.TRX_NUM.OUTPUT_NUM"</code> where <code>BLOCK_NUM</code> represents the block number, <code>TRX_NUM</code>
+           represents the transaction within that block and <code>OUTPUT_NUM</code> represents the output within the transaction.   This is used as
+           shorthand notation for a <code>OUTPUT_REFERENCE</code>.
+        </td>
+      </tr>
+     </table>
+   </p>
+   <h3> JSON-RPC Methods </h3> 
+   <table cellpadding="10px" > 
+      <tr>
+        <th>Method</th>
+        <th>Parameters</th>
+        <th>Description</th></tr>
+      <tr>
+        <td>login</td>
+        <td>[ "user", "password" ]</td>
+        <td width="500px">
+          <p>
+          This method should be called prior to any methods that may
+          require access to user funds or account information.  Some methods
+          that do not access wallet information, but instead return information
+          about the blockchain may be called without first calling login.
+          </p>
+          <p>
+          Throws an exception if the provided password or username does not match
+          the value specified in the client configuration loaded at launch.
+          </p>
+          <p>
+          Returns 'true' if successful otherwise returns a <a href="http://www.jsonrpc.org/specification#error_object">Error Object</a>
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td width="100px">getmargin</td>
+        <td width="250px">[ ASSET_TYPE ]</td>
+        <td width="500px">
+          <p> Returns a json object of the following form: </p>
+          <pre>
+{ 
+   "collateral" : "0.00000000 xts",
+   "due"        : "0.00000000 usd",
+   "avg_call_price" : "0.00000000 usd/xts"
+}
+          </pre>
+          <p><b>requires login</b></p>
+        </td>
+      </tr>
+      <tr>
+        <td>transfer</td>
+        <td>
+        [ AMOUNT, ADDRESS ]
+        </td>  
+        <td>
+         <p>
+          If successful this method will create a transaction that will transfer <code>AMOUNT</code> from the
+          wallet to the specified <code>ADDRESS<code> and then broadcast this transaction to the network. 
+         </p>
+         <p> This call could fail if the wallet is not connected to the network or there is insufficient funds
+         available in the wallet. </p>
+          <p><b>requires login</b></p>
+        </td>
+      </tr>
+      <tr>
+        <td>buy</td>
+        <td> [ AMOUNT, AMOUNT ] </td>
+        <td>
+        <p>
+           The first parameter is what you would like to purchase, and the second parameter is the price 
+           you are willing to pay per unit.  
+           </p>
+          <p> 
+           An example parameters would be:
+           <code> [ "4.321 usd", "2.5 xts" ] </code>, which would mean that you would require <code>2.5 * 4.321 = 10.8025 xts</code> to
+           place this order.  
+           </p>
+           <p>
+           In other words the implied <code>PRICE</code> is <code>"2.5 xts/usd"</code>
+           </p>
+          <p><b>requires login</b></p>
+        </td>
+      </tr>
+      <tr>
+        <td>sell</td>
+        <td> [ AMOUNT, AMOUNT ] </td>
+        <td>
+        <p>
+           The first parameter is what you would like to sell, and the second parameter is the price 
+           you are willing to take per unit.  
+           </p>
+          <p> 
+           An example parameters would be:
+           <code> [ "4.321 usd", "2.5 xts" ] </code>, which would mean that you would require <code>4.321 usd</code> to
+           place this order and would expect to receive <code>10.8025 xts</code> when the order is executed.
+           </p>
+           <p>
+           In other words the implied <code>PRICE</code> is <code>"2.5 xts/usd"</code>
+           </p>
+          <p><b>requires login</b></p>
+        </td>
+      </tr>
+      <tr>
+        <td>short_sell</td>
+        <td> [ AMOUNT, AMOUNT ] </td>
+        <td>
+        <p>
+           The first parameter is what you would like to sell, and the second parameter is the price 
+           you are willing to take per unit.  Because this is a short sell the first parameter may not
+           be an amount of <code>"xts"</code> and the second parameter must be an amount of <code>"xts"</code>
+           </p>
+          <p> 
+           An example parameters would be:
+           <code> [ "4.321 usd", "2.5 xts" ] </code>, which would mean that you would require <code>10.8025 xts</code> to
+           place this short sell order  and would expect to receive <code>-4.321 usd</code> collateralized by <code>21.605 xts</code>
+           when this order is exersized.
+           </p>
+           <p>
+           In other words the implied short <code>PRICE</code> is <code>"2.5 xts/usd"</code>
+           </p>
+          <p><b>requires login</b></p>
+        </td>
+      </tr>
+      <tr>
+        <td>cover</td>
+        <td> [ AMOUNT ] </td>
+        <td>
+           Assuming the wallet has AMOUNT available, it will use AMOUNT to recover collateral from your margin positions by
+           paying off the loan.  The amount of collateral recovered depends upon the available collateral because any changes
+           to the collateral position are subject to the 2x initial margin rule.  
+        </td>
+      </tr>
+      <tr>
+        <td>addmargin</td>
+        <td>[ ASSET_TYPE, AMOUNT ] </td>
+        <td> Merges all open margin positions in <code>ASSET_TYPE</code> into a new single position with additional
+             collateral specified by the second parameter.  <code>AMOUNT</code> must be of the type <code>xts</code> and
+             the <code>ASSET_TYPE</code> of in the first parameter must not be <code>xts</code>.
+         </td>
+      </tr>
+      <tr>
+        <td>cancel_order</td>
+        <td> [ TRX_ID, OUTPUT_NUM ] </td>
+        <td>
+          <p>
+           Assuming a buy, sell, or short_sell order has not be executed, this will recover the funds used in the order.  
+          </p>
+          <p><b>requires login</b></p>
+        </td>
+      </tr>
+      <tr>
+        <td>get_transaction</td>
+        <td>[ TRX_ID ]</td>
+        <td> 
+            Will lookup the transaction and return it as a JSON Object.
+        </td>
+      </tr>
+      <tr>
+        <td>get_block</td>
+        <td>[ BLOCK_NUM ]</td>
+        <td> 
+            Will lookup a block given its block number and return it as a JSON Object
+        </td>
+      </tr>
+      <tr>
+        <td>getbalance</td>
+        <td>[ ASSET_TYPE ]</td>
+        <td>Returns the <code>AMOUNT</code> held in the wallet. (confirmed balance only)
+        </td>
+      </tr>
+      <tr>
+        <td>getinfo</td>
+        <td>[]</td>
+        <td>
+           Will return a JSON Object of the following form:<br/>
+           <pre>
+           {
+              "headblock_id" : HASH_OF_HEAD_BLOCK,
+              "block_count"  : NUMBER_OF_BLOCKS,
+              "connected"    : BOOLEAN,
+              "bts_supply"   : CURRENT_SHARE_SUPPLY
+           }
+           </pre>
+        </td>
+      </tr>
+      <tr>
+        <td>getmarket</td>
+        <td>[ ASSET_TYPE, ASSET_TYPE ]</td>
+        <td>
+            <p>
+            Returns the current status of the market (bids, shorts, and margin positions).  The order the
+            assets are specified does not matter.
+            </p>
+            
+            Returns the market data in the following form:<br/>
+            <pre>
+              {
+                "bids" : [
+                   {
+                    "bid_price" : PRICE,
+                    "amount"    : INT64,
+                    "is_short"  : bool
+                   },...
+                 ],
+                 "asks" : [
+                    {
+                       "ask_price": PRICE,
+                       "amount"   : INT64,
+                    },...
+                 ],
+                 "shorts" : [
+                    {
+                       "short_price" : PRICE,
+                       "amount"      : INT64,
+                    },...
+                 ]
+                 "margins" : [
+                    { 
+                       "call_price" : PRICE,
+                       "amount"     : INT64,
+                       "collateral" : INT64
+                    }...
+                 ]
+              }
+            </pre>
+        </td>
+      </tr>
+      <tr>
+        <td>get_open_bids</td>
+        <td>[]</td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>get_open_short_sell</td>
+        <td>[]</td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>import_bts_privkey</td>
+        <td>[ PRIVATE_KEY, LABEL, RESCAN]</td>
+        <td>
+            LABEL is a string that assigns a label to this private key, RESCAN is a boolean that indicates whether the
+            blockchain should be searched for outputs that can be claimed with the provied PRIVATE_KEY
+        </td>
+      </tr>
+      <tr>
+        <td>validateaddress</td>
+        <td>[ STRING ]</td>
+        <td> 
+            Will return <code>true</code> if STRING is a valid <code>ADDRESS</code>, otherwise will
+            return <code>false</code>.
+        </td>
+      </tr>
+   </table>
+
+   <h2> Commandline Interface Documentation </h2>
+
+   The interface for the commandline wallet is under heavy development.  When you start the <code>bts_wallet</code> from
+   the command line you will be presented with a prompt that looks like:
+   <pre>
+   ================================================================
+   =                                                              =
+   =             Welcome to BitShares XT                          =
+   =                                                              =
+   =  This software is in alpha testing and is not suitable for   =
+   =  real monetary transactions or trading.  Use at your own     =
+   =  risk.                                                       =
+   =                                                              =
+   =  Type 'help' for usage information.                          =
+   ================================================================
+   listening for rpc connections on 0.0.0.0:58516
+   connecting to bitshares network: 127.0.0.1:4567
+   unable to connect to bitshares network at this time.
+   &gt;&gt;&gt; 
+   </pre>
+
+   If you were to type help you would be presented with a list of commands:
+
+   <pre>
+   Commands:
+      quit - exits gracefully
+      importkey PRIV_KEY [rescan]
+      balance  -  print the wallet balances
+      newaddr [label] -  print a new wallet address with an optional label
+      listaddr  - print the wallet address(es)
+      transfer AMOUNT to ADDRESS
+      buy AMOUNT  - start a buy order
+      sell AMOUNT - start a sell order
+      short AMOUNT - start a short order
+      cover AMOUNT - start a cover order
+      add margin AMOUNT to ASSET_TYPE - add additional margin 
+      cancel TRX_ID OUTPUT_NUM
+      html FILE - saves the blockchain to HTML for debug purpsoes
+      json FILE - saves the blockchain to JSON for debug purposes
+      market QUOTE BASE - prints the order book for the two given ASSET_TYPEs
+      show orders QUOTE BASE - prints orders held by this wallet
+   </pre>
+
+   More documentation coming soon to a browser near you... 
+
+</body>
+</html>
