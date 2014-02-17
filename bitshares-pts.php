@@ -92,17 +92,16 @@
 
                       <p>Exchanges are the trading websites where you can buy or sell PTS. Be careful not to place large sums of PTS on exchanges without adequate security measures, such as a good password and 2-factor authentication.</p>
                       <ul style="list-style-type: circle;">
-                          <li><a href="https://bter.com/">Bter Exchange</a></li>
+                          <li><a href="https://bter.com/">BTER Exchange</a></li>
                           <li><a href="https://www.cryptsy.com/">Cryptsy Exchange</a></li>
-                          <li><a href="http://www.btc38.com/">Btc38 Exchange</a></li>
+                          <li><a href="http://www.btc38.com/">BTC38 Exchange</a></li>
                           <li><a href="https://peatio.com/">Peatio Exchange</a></li>
                       </ul>
 
                          <h3> Tools and Forum</h3>
                       <p>To learn more about PTS, explore the following resources:</p>
                       <ul style="list-style-type: circle;">
-                          <li><a href="http://btsblock.com/chain/ProtoShares">Blockchain explorer - View transactions by PTS address</a></li>
-                          <li><a href="https://coinplorer.com/PTS">PTS Coin Information - Current PTS Statistics</a></li>
+                          <li><a href="https://coinplorer.com/PTS">PTS coin information - Current PTS statistics and transactions</a></li>
                           <li><a href="https://bitsharestalk.org/index.php?board=1.0">Official PTS forum</a></li>
                           <li><a href="http://www.reddit.com/r/protoshare">Sub-Reddit for PTS</a></li>
                       </ul>
