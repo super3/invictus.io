@@ -18,7 +18,7 @@
 
 			<div class="row">
 				<div class="col-lg-4">
-					<p>First of all, you need to log in to Blockchain wallet from which you wish to send BTC.</p>
+					<p>First of all, you need to log into Blockchain wallet from which you wish to send BTC.</p>
 				</div>
 				<div class="col-lg-8 centered">
 					<p>
@@ -30,7 +30,7 @@
 
 			<div class="row">
 				<div class="col-lg-4">
-					<p> Blockchain wallets may contain more than one keypair, so it’s important that the AGS purchase be fully funded from a single address. To ensure that, click on the “Send Money” tab, followed by the “Custom” tab.</p>
+					<p> Blockchain wallets may contain more than one key pair, so it’s important that the AGS purchase be fully funded from a single address. To ensure that, click on the “Send Money” tab, followed by the “Custom” tab.</p>
 					<p> Choose a “From” address with a high enough balance to fully fund the transaction.  Enter the BitShares AGS address <i>1ANGELwQwWxMmbdaSWhWLqBEtPTkWb8uDc</i> in the “To” field. Then Send the transaction.</p>
 				</div>
 				<div class="col-lg-8 centered">
