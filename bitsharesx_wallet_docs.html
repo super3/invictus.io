@@ -15,14 +15,14 @@
       This document defines how to interact with the JSON-RPC interface provided by the
       <code>bts_wallet</code> executable.  The <code>bts_wallet</code> provides an interface 
       to user funds and the blockchain in general and attempts to follow conventions similar to
-      the Bitcoin JSON-RPC protocl.  
+      the Bitcoin JSON-RPC protocol.  
    </p>
    <h2> Configuration </h2>
    <p>
       The <code>bts_wallet</code> takes a single optional command line argument used to specify
       which directory contains the blockchain state and wallet of the user.  If no command line
       arguments are specified <code>bts_wallet</code> will use the directory <code>.bitshares-x</code>
-      in your <code>${HOME}</code> directory.  This directory will be refered to as <code>${DATA_DIR}</code>
+      in your <code>${HOME}</code> directory.  This directory will be referred to as <code>${DATA_DIR}</code>
       for the rest of this document.
    </p>
    <p>
@@ -239,7 +239,7 @@
            An example parameters would be:
            <code> [ "4.321 usd", "2.5 xts" ] </code>, which would mean that you would require <code>10.8025 xts</code> to
            place this short sell order  and would expect to receive <code>-4.321 usd</code> collateralized by <code>21.605 xts</code>
-           when this order is exersized.
+           when this order is exercised.
            </p>
            <p>
            In other words the implied short <code>PRICE</code> is <code>"2.5 xts/usd"</code>
@@ -366,7 +366,7 @@
         <td>[ PRIVATE_KEY, LABEL, RESCAN]</td>
         <td>
             LABEL is a string that assigns a label to this private key, RESCAN is a boolean that indicates whether the
-            blockchain should be searched for outputs that can be claimed with the provied PRIVATE_KEY
+            blockchain should be searched for outputs that can be claimed with the provided PRIVATE_KEY
         </td>
       </tr>
       <tr>
@@ -379,9 +379,9 @@
       </tr>
    </table>
 
-   <h2> Commandline Interface Documentation </h2>
+   <h2> Command-line Interface Documentation </h2>
 
-   The interface for the commandline wallet is under heavy development.  When you start the <code>bts_wallet</code> from
+   The interface for the command-line wallet is under heavy development.  When you start the <code>bts_wallet</code> from
    the command line you will be presented with a prompt that looks like:
    <pre>
    ================================================================
@@ -395,8 +395,8 @@
    =  Type 'help' for usage information.                          =
    ================================================================
    listening for rpc connections on 0.0.0.0:58516
-   connecting to bitshares network: 127.0.0.1:4567
-   unable to connect to bitshares network at this time.
+   connecting to BitShares network: 127.0.0.1:4567
+   unable to connect to BitShares network at this time.
    &gt;&gt;&gt; 
    </pre>
 
@@ -416,7 +416,7 @@
       cover AMOUNT - start a cover order
       add margin AMOUNT to ASSET_TYPE - add additional margin 
       cancel TRX_ID OUTPUT_NUM
-      html FILE - saves the blockchain to HTML for debug purpsoes
+      html FILE - saves the blockchain to HTML for debug purposes
       json FILE - saves the blockchain to JSON for debug purposes
       market QUOTE BASE - prints the order book for the two given ASSET_TYPEs
       show orders QUOTE BASE - prints orders held by this wallet
