@@ -34,6 +34,7 @@
               <p>
               <a class="btn btn-primary btn-lg" href="https://github.com/InvictusInnovations/BitShares-PTS/releases/download/v1.0.0/BitShares-PTS-1.0.0-win32-setup.exe">Download Windows Wallet (.exe)</a>
               <a class="btn btn-primary btn-lg" href="https://github.com/InvictusInnovations/BitShares-PTS/releases/download/v1.0.0/BitShares-PTS-1.0.0-macosx.dmg">Download Mac Wallet (.dmg)</a>
+              <a class="btn btn-primary btn-lg" href="https://github.com/InvictusInnovations/BitShares-PTS">Source</a>
               </p>
               <p>
               We have previously referred to BitShares PTS as "Protoshares", but no longer do so.  "ProtoShare" is a registered trademark of Site9, Inc. for its prototyping and mock-up software product, ProtoShare.  There is no relationship between ProtoShare and Invictus Innovations.
