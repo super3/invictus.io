@@ -22,7 +22,7 @@
 				</div>
 				<div class="col-lg-8 centered">
 					<p>
-					<img src='assets/img/blockChainTutorial/1.jpg' class="img-responsive"> </img>
+					<img src='assets/img/blockChainTutorial/1.jpg' class="img-responsive" />
 					</p>
 				</div>
 
@@ -35,7 +35,7 @@
 				</div>
 				<div class="col-lg-8 centered">
 					<p>
-					<img src='assets/img/blockChainTutorial/2.jpg' class="img-responsive"> </img>
+					<img src='assets/img/blockChainTutorial/2.jpg' class="img-responsive" />
 					</p>
 				</div>
 			</div>
@@ -46,7 +46,7 @@
 				</div>
 				<div class="col-lg-8 centered">
 					<p>
-					<img src='assets/img/blockChainTutorial/3.jpg' class="img-responsive"> </img>
+					<img src='assets/img/blockChainTutorial/3.jpg' class="img-responsive" />
 					</p>
 				</div>
 
@@ -64,7 +64,7 @@
 				</div>
 				<div class="col-lg-8 centered">
 					<p>
-					<img src='assets/img/blockChainTutorial/4.jpg' class="img-responsive"> </img>
+					<img src='assets/img/blockChainTutorial/4.jpg' class="img-responsive" />
 					</p>
 				</div>
 			</div>
@@ -75,7 +75,7 @@
 				</div>
 				<div class="col-lg-8 centered">
 					<p>
-					<img src='assets/img/blockChainTutorial/5.jpg' class="img-responsive"> </img>
+					<img src='assets/img/blockChainTutorial/5.jpg' class="img-responsive" />
 					</p>
 				</div>
 			</div>
@@ -88,7 +88,7 @@
 				</div>
 				<div class="col-lg-8 centered">
 					<p>
-					<img src='assets/img/blockChainTutorial/6.jpg' class="img-responsive"> </img>
+					<img src='assets/img/blockChainTutorial/6.jpg' class="img-responsive" />
 					</p>
 				</div>
 			</div>
