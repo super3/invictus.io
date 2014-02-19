@@ -61,7 +61,7 @@
 			</div>
 			
 			<div class="row">
-				<h2>Claiming BitShares On Launch</h2>
+				<h2>Claiming BitShares on Launch</h2>
 			</div>
 			
 			<div class="row">
