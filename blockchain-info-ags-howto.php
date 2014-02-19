@@ -70,7 +70,7 @@
 					
 					<p> To retrieve this key from your Blockchain.info wallet, click on the “Import/Export” button, and then select “Export Unencrypted”.</p>
 					
-					<p> Copy the text in the box.</p>
+					<p>Copy the text in the box.</p>
 				</div>
 				<div class="col-lg-8 centered">
 					<p>
@@ -81,7 +81,7 @@
 			
 			<div class="row">
 				<div class="col-lg-4">
-					<p> Open notepad and paste the text.</p>
+					<p>Open a plain text editor, such as Notepad (Windows) or TextEdit (Mac OS X), and paste the text.</p>
 				</div>
 				<div class="col-lg-8 centered">
 					<p>
