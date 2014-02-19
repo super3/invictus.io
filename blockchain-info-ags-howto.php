@@ -68,7 +68,7 @@
 				<div class="col-lg-4">
 					<p>Now the funds have been sent, but to claim your BTS when they are issued, you will need to import the private key for the address you used to purchase your AGS.</p>
 					
-					<p> To retrieve this key from your Blockchain.info wallet, click on the “Import/Export” button, and then select “Export Unencrypted”.</p>
+					<p>To retrieve this key from your Blockchain.info wallet, click on the “Import/Export” button, and then select “Export Unencrypted”.</p>
 					
 					<p>Copy the text in the box.</p>
 				</div>
@@ -92,9 +92,19 @@
 			
 			<div class="row">
 				<div class="col-lg-4">
-					<p> Now save the file with a .json extension.  Make sure that the “Save as type” box reads “All Files (*.*)”.</p>
-					<p style="color:red"> Do not create this file until needed and keep it safe when you create it. It contains the unencrypted keys to your wallet!</p>
-					<p> When the BitShares is launched, tools for claiming your BitShares will be provided.</p>
+					<p>
+						Now save the file with a <code>.json</code> extension.
+						Make sure that the “Save as type” box reads “All Files (*.*)”.
+					</p>
+					
+					<p style="color:red">
+						Do not create this file until it is needed, and keep it safe after you create it.
+						It contains the unencrypted keys to your wallet!
+					</p>
+					
+					<p>
+						When BitShares is launched, tools importing your private key into your BTS wallet will be provided.
+					</p>
 				</div>
 				<div class="col-lg-8 centered">
 					<p>
