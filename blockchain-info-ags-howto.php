@@ -68,7 +68,8 @@
 				<div class="col-lg-4">
 					<p>Now the funds have been sent, but to claim your BTS when they are issued, you will need to import the private key for the address you used to purchase your AGS.</p>
 					
-					<p> To retrieve this key from Blockchain, we will click on the “Import/Export” button, and then select “Export Unencrypted”.</p>
+					<p> To retrieve this key from your Blockchain.info wallet, click on the “Import/Export” button, and then select “Export Unencrypted”.</p>
+					
 					<p> Copy the text in the box.</p>
 				</div>
 				<div class="col-lg-8 centered">
