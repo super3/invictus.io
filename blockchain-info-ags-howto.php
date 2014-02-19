@@ -18,7 +18,7 @@
 
 			<div class="row">
 				<div class="col-lg-4">
-					<p>First of all, you need to log in to Blockchain wallet from which you wish to send BTC.</p>
+					<p>First of all, you need to log into the Blockchain.info wallet from which you wish to send BTC.</p>
 				</div>
 				<div class="col-lg-8 centered">
 					<p>
