@@ -21,8 +21,9 @@
    <p>
       The <code>bts_wallet</code> takes a single optional command line argument used to specify
       which directory contains the blockchain state and wallet of the user.  If no command line
-      arguments are specified <code>bts_wallet</code> will use the directory <code>.bitshares-x</code>
-      in your <code>${HOME}</code> directory.  This directory will be refered to as <code>${DATA_DIR}</code>
+      arguments are specified <code>bts_wallet</code> will use the directory <code>${HOME}/.bitsharesx</code> 
+      on Linux, <code>~/Library/Application Support/BitSharesX</code> on Mac OS X, and <code>%APPDATA%/BitSharesX</code>
+      on Windows.  This directory will be refered to as <code>${DATA_DIR}</code>
       for the rest of this document.
    </p>
    <p>
@@ -36,7 +37,8 @@
           "rpc_endpoint":"127.0.0.1:0",
           "rpc_user":"",
           "rpc_password":"",
-          "unique_node_list":[["127.0.0.1:4567",""]]
+          "unique_node_list":[["127.0.0.1:4567",""]],
+          "ignore_console":false
        }
       </pre>
    <p>
@@ -51,6 +53,10 @@
       The <code>unique_node_list</code> is used to specify known, trusted servers and optionally the public key
       associated with those servers.  For now this list should only contain the official Invictus server, but
       eventually it will contain a set of seed nodes for the decentralized network.
+   </p>
+   <p>
+      If the process is being run as a daemon process then the console input can be disabled by setting the
+      <code>ignore_console</code> property to true.   
    </p>
 
    <h2> JSON-RPC Interface </h2>
