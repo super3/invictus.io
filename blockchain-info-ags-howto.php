@@ -13,7 +13,7 @@
 	<div id="white">	
 		<div class="container">
 			<div class="row">
-				<h2>Sending BTC From blockchain.info Wallet</h2>
+				<h2>Sending BTC from a Blockchain.info Wallet</h2>
 			</div>
 
 			<div class="row">
