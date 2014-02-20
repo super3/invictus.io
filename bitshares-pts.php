@@ -93,6 +93,7 @@
               <h3> Exchanges</h3>
 
                       <p>Exchanges are the trading websites where you can buy or sell PTS. Be careful not to place large sums of PTS on exchanges without adequate security measures, such as a good password and 2-factor authentication.</p>
+                      <p>If you hold PTS in an exchange rather than a wallet for which you control the Private Key, you will be unable to claim a BitShares stake from them in any new DAC chain launches.</p>
                       <ul style="list-style-type: circle;">
                           <li><a href="https://bter.com/">Bter Exchange</a></li>
                           <li><a href="https://www.cryptsy.com/">Cryptsy Exchange</a></li>
