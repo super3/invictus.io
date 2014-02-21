@@ -71,6 +71,7 @@
 					<p>
 			            <i class="fa fa-angle-right"></i> <a href="http://invictus.io/assets/pdf/MomentumProofOfWork.pdf">Momentum Proof of Work</a><br/>
 			            <i class="fa fa-angle-right"></i> <a href="http://invictus.io/assets/pdf/TransactionsAsProofOfStake10.pdf">Transactions as Proof of Stake</a><br/>
+			            <i class="fa fa-angle-right"></i> <a href="https://docs.google.com/document/d/1RLcjSXWuU9vBJzzqLEXVACSCdn8zXKTTJRN_LfoCjNY/edit?disco=AAAAAH7fcks">BitShares X</a><br/>
 					</p>
 				</div><!-- /col-lg-3 -->
 
