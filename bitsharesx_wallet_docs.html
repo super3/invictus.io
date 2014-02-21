@@ -118,6 +118,10 @@
         </td>
       </tr>
       <tr>
+        <td>TIMEPOINT</td>
+        <td> A string of the form <code>19700101T000000</code>, Jan 1 1970 at 00:00:00 </td>
+      </tr>
+      <tr>
         <td>PRIVATE_KEY</td>
         <td>
           A hex string of a raw private key without any check sums.
@@ -356,6 +360,10 @@
               }
             </pre>
         </td>
+      </tr>
+      <tr>
+        <td>market_history</td>
+        <td> [ ASSET_TYPE quote, ASSET_TYPE base, TIMEPOINT from, TIMEPOINT to, BLOCKS_PER_POINT ] </td>
       </tr>
       <tr>
         <td>get_open_bids</td>
