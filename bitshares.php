@@ -69,7 +69,7 @@
 	              <li>All Revenue Spent on Security</li>
 	              <li>Additional 12% Security Tax</li>
 	              <li>Slow Confirmations</li>
-	              <li>Consumes Billions of USDs Annually</li>
+	              <li>Consumes Billions of USD Annually</li>
 	              <li class="final"><span>Many alt-coins with the same unprofitable business model.</span></li>
 	           </ul>
 	         </div>
