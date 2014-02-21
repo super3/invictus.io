@@ -38,8 +38,8 @@
 					<div class="col-lg-7">					
 						<h3>What is BitShares AGS?</h3>					
 						<p style="text-align: justify;">								
-              The Internet has spawned a new era that is transforming our society like never before.  Simultaneously giving us 
-              new freedoms and exposing us to previously inconceivable levels of surveillance and control.  Invictus Innovations is
+              The Internet has spawned a new era that is transforming our society like never before, simultaneously giving us 
+              new freedoms and exposing us to previously-inconceivable levels of surveillance and control.  Invictus Innovations is
               leading the way toward a more free society through the development of new technologies that enable the decentralization
               of everything from banking to voting.
 
@@ -54,7 +54,7 @@
               all of mankind.  We will use all donations in a manner that we feel will best achieve these objectives and we will maintain
               a public transaction ledger that outlines how we are allocating the funds given to us. That said, these are no-strings-attached
               donations and should not be construed to place any legal obligation on Invictus Innovations to provide anything in return
-              for these donations.  
+              for these donations.
 
               You should only donate if you believe we are a good cause and you trust us to use the funds wisely.  
             </p>
@@ -62,7 +62,7 @@
 							<p style="text-align: justify;">								
 							Both BitShares PTS and BitShares AGS rely upon the willingness of us and allied developers to honor these donations
 							with credits in new decentralized blockchain-based products that we as Invictus Innovations and others develop.  All
-              of our products are open source and therefore anyone is able to honor the donors who made these technologies possible.
+              of our products are open source, and therefore anyone is able to honor the donors who made these technologies possible.
               
               From allied developers we expect a Social Consensus to form in the marketplace about
 							what constitutes honorable developer behavior. BitShares PTS and BitShares AGS constitute concrete 
@@ -119,7 +119,7 @@
                   </p>
 					 	 	  </p>
                <h3 style="color:orange"><i>You must send all your donations from a wallet for which you control the Private Key, such as Bitcoin-Qt.</i></h3>
-			   <p>Click <a href="blockchain-info-ags-howto.php">here</a> to see how to send BTC from a blockchain.info wallet and then claim your BitShares AGS.<p> 
+			   <p>Click <a href="/blockchain-info-ags-howto.php">here</a> to see how to send BTC from a blockchain.info wallet and then claim your BitShares AGS.<p> 
                <h3 style="color:red">Do not send donations directly from an exchange, or the exchange will be credited with the AGS instead of you.</h3>
 				  </div>
     	</div><!-- /row -->
