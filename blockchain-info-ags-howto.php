@@ -31,7 +31,7 @@
 			<div class="row">
 				<div class="col-lg-4">
 					<p>
-						Blockchain.info wallets may contain more than one keypair, so it’s important that the AGS purchase be fully funded from a single address.
+						Blockchain.info wallets may contain more than one keypair, so it’s helpful, but not necessary, that the AGS purchase be fully funded from a single address.
 						To ensure that, click on the “Send Money” tab, followed by the “Custom” tab.
 					</p>
 					
