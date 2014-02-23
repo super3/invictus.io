@@ -32,8 +32,9 @@
               Invictus has chosen to allocate 50% to PTS holders in the genesis block.
               </p>
               <p>
-              <a class="btn btn-primary btn-lg" href="https://github.com/InvictusInnovations/ProtoShares/releases/download/vp0.4.0/ProtoShares-0.4.0.zip">Download Windows Wallet (.zip)</a>
-              <a class="btn btn-primary btn-lg" href="https://github.com/InvictusInnovations/ProtoShares/releases/download/vp0.4.0/ProtoShares-0.2.0.dmg">Download Mac Wallet (.dmg)</a>
+              <a class="btn btn-primary btn-lg" href="https://github.com/InvictusInnovations/BitShares-PTS/releases/download/v1.0.0/BitShares-PTS-1.0.0-win32-setup.exe">Download Windows Wallet (.exe)</a>
+              <a class="btn btn-primary btn-lg" href="https://github.com/InvictusInnovations/BitShares-PTS/releases/download/v1.0.0/BitShares-PTS-1.0.0-macosx.dmg">Download Mac Wallet (.dmg)</a>
+              <a class="btn btn-primary btn-lg" href="https://github.com/InvictusInnovations/BitShares-PTS">Source</a>
               </p>
               <p>
               We have previously referred to BitShares PTS as "Protoshares", but no longer do so.  "ProtoShare" is a registered trademark of Site9, Inc. for its prototyping and mock-up software product, ProtoShare.  There is no relationship between ProtoShare and Invictus Innovations.
@@ -49,9 +50,10 @@
                       <p>This is a list of pools mining PTS:</p>
                       <ul style="list-style-type: circle;">
                         <li><a href="http://ptsweb.beeeeer.org">http://ptsweb.beeeeer.org</a> - 2.5% fee, Pay Per Share</li>
-                        <li><a href="http://pts.rpool.net">http://pts.rpool.net</a> -  3% fee, payout per share of last round</li>
-                        <li><a href="http://ptspool.com/">http://ptspool.com/</a> -  3% fee,  Pay Per Share </li>
-                        <li><a href="http://ypool.net">http://ypool.net</a> -  5% fee, multiple coin pool,  Pay Per Share</li>
+                        <li><a href="http://pts.rpool.net">http://pts.rpool.net</a> - 3% fee, payout per share of last round</li>
+                        <li><a href="http://ptspool.com">http://ptspool.com</a> - 3% fee, Pay Per Share </li>
+                        <li><a href="http://pts.1gh.com">http://pts.1gh.com</a> - 3.5% fee, Round-Based Pay Per Share (RBPPS)</li>
+                        <li><a href="http://ypool.net">http://ypool.net</a> - 5% fee, multiple coin pool, Pay Per Share</li>
                       </ul>
 
               </div><!-- end PTS Resources -->
@@ -91,18 +93,18 @@
               <h3> Exchanges</h3>
 
                       <p>Exchanges are the trading websites where you can buy or sell PTS. Be careful not to place large sums of PTS on exchanges without adequate security measures, such as a good password and 2-factor authentication.</p>
+                      <p>If you hold PTS in an exchange rather than a wallet for which you control the Private Key, you will be unable to claim a BitShares stake from them in any new DAC chain launches.</p>
                       <ul style="list-style-type: circle;">
-                          <li><a href="https://bter.com/">Bter Exchange</a></li>
+                          <li><a href="https://bter.com/">BTER Exchange</a></li>
                           <li><a href="https://www.cryptsy.com/">Cryptsy Exchange</a></li>
-                          <li><a href="http://www.btc38.com/">Btc38 Exchange</a></li>
+                          <li><a href="http://www.btc38.com/">BTC38 Exchange</a></li>
                           <li><a href="https://peatio.com/">Peatio Exchange</a></li>
                       </ul>
 
                          <h3> Tools and Forum</h3>
                       <p>To learn more about PTS, explore the following resources:</p>
                       <ul style="list-style-type: circle;">
-                          <li><a href="http://btsblock.com/chain/ProtoShares">Blockchain explorer - View transactions by PTS address</a></li>
-                          <li><a href="https://coinplorer.com/PTS">PTS Coin Information - Current PTS Statistics</a></li>
+                          <li><a href="https://coinplorer.com/PTS">PTS coin information - Current PTS statistics and transactions</a></li>
                           <li><a href="https://bitsharestalk.org/index.php?board=1.0">Official PTS forum</a></li>
                           <li><a href="http://www.reddit.com/r/protoshare">Sub-Reddit for PTS</a></li>
                       </ul>

@@ -61,7 +61,17 @@
             <i class="fa fa-angle-right"></i> <a href="https://github.com/InvictusInnovations">GitHub Repository</a><br/>
             <i class="fa fa-angle-right"></i> <a href="http://wiki.invictus.io">Wiki</a><br/>
 						<i class="fa fa-angle-right"></i> <a href="https://github.com/InvictusInnovations/invictus.io">Code for Invictus.io</a><br/>
-						<i class="fa fa-angle-right"></i> <a href="https://github.com/InvictusInnovations/invictus.io/issues?milestone=1&amp;state=open">Report problems with Invictus.io</a>
+						<i class="fa fa-angle-right"></i> <a href="https://github.com/InvictusInnovations/invictus.io/search?state=open&type=Issues">Report problems with Invictus.io</a>
+					</p>
+				</div><!-- /col-lg-3 -->
+
+				<!-- WHITEPAPERS -->
+				<div class="col-lg-3">
+					<h4>Whitepapers</h4>
+					<p>
+			            <i class="fa fa-angle-right"></i> <a href="http://invictus.io/assets/pdf/MomentumProofOfWork.pdf">Momentum Proof of Work</a><br/>
+			            <i class="fa fa-angle-right"></i> <a href="http://invictus.io/assets/pdf/TransactionsAsProofOfStake10.pdf">Transactions as Proof of Stake</a><br/>
+			            <i class="fa fa-angle-right"></i> <a href="https://docs.google.com/document/d/1RLcjSXWuU9vBJzzqLEXVACSCdn8zXKTTJRN_LfoCjNY/edit?disco=AAAAAH7fcks">BitShares X</a><br/>
 					</p>
 				</div><!-- /col-lg-3 -->
 
