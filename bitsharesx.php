@@ -40,7 +40,6 @@
 					<div class="col-md-12">
              <center>
             <img class="bitsharesx-logo" src="assets/img/bitsharesx.png" alt="BitShares X" />
-            <h2>Trade or hedge <i>anything</i>.</h2>
             </center>
             <h2>BitShares X has a lot in common with your current bank...</h2>
           </div>

@@ -35,11 +35,11 @@
                </div>
             </div>
 				<div class="row">				
-					<div class="col-lg-7">					
-						<h3>What is BitShares AGS?</h3>					
+					<div class="col-lg-14">					
+						<h3>Support BitShares Development</h3>					
 						<p style="text-align: justify;">								
               The Internet has spawned a new era that is transforming our society like never before, simultaneously giving us 
-              new freedoms and exposing us to previously-inconceivable levels of surveillance and control.  Invictus Innovations is
+              new freedoms and exposing us to previously-inconceivable levels of surveillance and control.  Invictus is
               leading the way toward a more free society through the development of new technologies that enable the decentralization
               of everything from banking to voting.
 
@@ -50,23 +50,21 @@
 
 						<h3>How will the funds be used?</h3>	
 					  <p style="text-align: justify;">								
-              Invictus Innovations is committed to using every resource at our disposal to secure the right to life, liberty and property for
-              all of mankind.  We will use all in a manner that we feel will best achieve these objectives and we will maintain
+              Invictus is committed to using every resource at our disposal to secure the right to life, liberty and property for
+              all of mankind.  We will use all funds in a manner that we feel will best achieve these objectives and we will maintain
               a public transaction ledger that outlines how we are allocating the funds given to us. That said, these are no-strings-attached
-              donations and should not be construed to place any legal obligation on Invictus Innovations to provide anything in return
+              donations and should not be construed to place any legal obligation on Invictus to provide anything in return
               for these funds.
-
+              <br/>
+              <br/>
               You should only support us if you believe we are a good cause and you trust us to use the funds wisely.  
             </p>
-          <div class="row">
             <h3> Public Accounting of Supporters </h3>
 
             We feel that those who support this cause should be given public credit as a thank you for helping the cause.  We have suggested that
             this credit be scored by awarding 10,000 points (AGS) each day divided among supporters proportional to how many BTC or PTS they
             send to the ANGEL addresses.
 
-          </div>
-					<div class="col-lg-5">
 							<h3>Support what we are doing by sending BTC to:</h3>					
                <p style="text-align: justify;">								
                </p>
@@ -84,10 +82,11 @@
                <a class="btn btn-yellow btn-lg" href="http://angelshares.info/beta/">Visit angelshares.info</a>
                   </p>
 					 	 	  </p>
-               <h3 style="color:orange"><i>You must send all your support funs from a wallet for which you control the Private Key, such as Bitcoin-Qt.</i></h3>
+               <h3 style="color:orange"><i>If you would like public recognition of your support, you must send all your support funds from a wallet for which you control the Private Key, such as Bitcoin-Qt.  This way you can prove to your friends that you are a supporter of Invictus.</i></h3>
 			   <p>Click <a href="/blockchain-info-ags-howto.php">here</a> to see how to send BTC from a blockchain.info wallet and then claim your BitShares AGS.<p> 
-               <h3 style="color:red">Do not send support directly from an exchange, or the exchange if you care about getting public recongnition of your support of our cause.</h3>
-				  </div>
+               <h3 style="color:red">Do not send support directly from an exchange, if you care about getting public recongnition of your support of our cause.  Otherwise that recognition will belong to the exchange.</h3>
+
+           </div>
     	</div><!-- /row -->
 			
 		
