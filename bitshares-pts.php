@@ -22,15 +22,18 @@
 					<div class="col-lg-7">
 						<h3>What is BitShares PTS?</h3>
 							<p style="text-align: justify;">
-              BitShares PTS is a Bitcoin clone that allows you to buy and trade ownership in future BitShares created by
-              Invictus Innovations or derived from our software.  A BitShare is a stake in what we like to call a
-              Decentralized Autonomous Company (DAC), and Invictus has many innovative blockchains on our road map.
+              BitShares PTS is a Bitcoin clone that allows you to mine and trade your support for the BitShares ecosystem.  You become a
+              member of a larger community of individuals who believe in building decentralized technology when you own even a fraction of
+              a PTS.  
 							</p>
               <p>
-              BitShares PTS comes with a social contract to allocate at least 10% of the total shares in all future
-              BitShare chains to those who hold PTS when the new chain is launched.  In the case of <a href="bitsharesx.php">BitShares X</a>
-              Invictus has chosen to allocate 50% to PTS holders in the genesis block.
+              BitShares PTS comes with a social consensus that at least 10% of the total coins (shares) in all future
+              BitShare block-chains should acknolwedge the support given by the holders of PTS.  In the case of <a href="bitsharesx.php">BitShares X</a>
+              we recommend that supporters be acknolwedged with 50% of the total coins (shares).
               </p>
+              <p>
+              Invictus will not deploy any BitShares systems as we are a software company that only produces open source software.  We only recommend that
+              those who choose to take our software and launch a BitShares blockchain recognize our supporters who made this possible.
               <p>
               <a class="btn btn-primary btn-lg" href="https://github.com/InvictusInnovations/BitShares-PTS/releases/download/v1.0.0/BitShares-PTS-1.0.0-win32-setup.exe">Download Windows Wallet (.exe)</a>
               <a class="btn btn-primary btn-lg" href="https://github.com/InvictusInnovations/BitShares-PTS/releases/download/v1.0.0/BitShares-PTS-1.0.0-macosx.dmg">Download Mac Wallet (.dmg)</a>
