@@ -190,7 +190,7 @@
 					<!--		<small>* USD is calculated from MtGox BTC price and Exchange PTS price.</small> -->
           <br/>
          <center>
-         <a class="btn btn-primary btn-lg" href="bitshares-pts.php">Invest Now with BitShares PTS</a>
+         <a class="btn btn-primary btn-lg" href="bitshares-pts.php">Trade now with BitShares PTS</a>
          </center>
       </div>
     </div>
