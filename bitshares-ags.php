@@ -53,7 +53,7 @@
               Invictus is committed to using every resource at our disposal to secure the right to life, liberty and property for
               all of mankind.  We will use all funds in a manner that we feel will best achieve these objectives and we will maintain
               a public transaction ledger that outlines how we are allocating the funds given to us. That said, these are no-strings-attached
-              donations and should not be construed to place any legal obligation on Invictus to provide anything in return
+              gifts and should not be construed to place any legal obligation on Invictus to provide anything in return
               for these funds.
               <br/>
               <br/>
