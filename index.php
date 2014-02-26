@@ -94,6 +94,11 @@
 -->
 
     	</div><!-- /row -->
+      <div class="inner-page row"> 
+      <center>
+      <iframe src="//player.vimeo.com/video/87448377" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+      </center>
+      </div>
     </div><!-- /container -->
     </div><!-- end index-page -->
 
