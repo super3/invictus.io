@@ -79,8 +79,7 @@
                <p>
                <a class="btn btn-yellow btn-lg" href="http://www1.agsexplorer.com">Visit www1.agsexplorer.com</a>
                <br/>
-               <a class="btn btn-yellow btn-lg" href="http://angelshares.info/beta/">Visit angelshares.info</a>
-                  </p>
+               We make no claim as to the accuracy of these sites as they are not maintained by us.  
 					 	 	  </p>
                <h3 style="color:orange"><i>If you would like public recognition of your support, you must send all your support funds from a wallet for which you control the Private Key, such as Bitcoin-Qt.  This way you can prove to your friends that you are a supporter of Invictus.</i></h3>
 			   <p>Click <a href="/blockchain-info-ags-howto.php">here</a> to see how to send BTC from a blockchain.info wallet and then claim your BitShares AGS.<p> 
