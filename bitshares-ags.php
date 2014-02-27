@@ -83,7 +83,7 @@
 					 	 	  </p>
                <h3 style="color:orange"><i>If you would like public recognition of your support, you must send all your support funds from a wallet for which you control the Private Key, such as Bitcoin-Qt.  This way you can prove to your friends that you are a supporter of Invictus.</i></h3>
 			   <p>Click <a href="/blockchain-info-ags-howto.php">here</a> to see how to send BTC from a blockchain.info wallet and then claim your BitShares AGS.<p> 
-               <h3 style="color:red">Do not send support directly from an exchange, if you care about getting public recongnition of your support of our cause.  Otherwise that recognition will belong to the exchange.</h3>
+               <h3 style="color:red">Do not send support directly from an exchange, if you care about getting public recognition of your support of our cause.  Otherwise that recognition will belong to the exchange.</h3>
 
            </div>
     	</div><!-- /row -->

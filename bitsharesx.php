@@ -142,7 +142,7 @@
   <div class="container">
     <center>
        <a style="text-decoration:none" href="bitshares.php">
-	          <h3  style="display:inline"class="maintitle"><img src="assets/img/bitshares/bitshares-eq.png" alt="bitshares" /></h3>
+	          <h3  style="display:inline"class="maintitle"><img src="assets/img/bitshares/bitshares-eq.png" alt="BitShares" /></h3>
             <h1 style="display:inline"> &nbsp;&nbsp;  vs.&nbsp; &nbsp;  </h1>
 	          <h3  style="display:inline"class="maintitle bank"><img src="assets/img/bitshares/bitcoin.png" alt="Bitcoin" /></h3>
        </a>

@@ -28,8 +28,8 @@
 							</p>
               <p>
               BitShares PTS comes with a social consensus that at least 10% of the total coins (shares) in all future
-              BitShare block-chains should acknolwedge the support given by the holders of PTS.  In the case of <a href="bitsharesx.php">BitShares X</a>
-              we recommend that supporters be acknolwedged with 50% of the total coins (shares).
+              BitShares blockchains should acknowledge the support given by the holders of PTS.  In the case of <a href="bitsharesx.php">BitShares X</a>
+              we recommend that supporters be acknowledged with 50% of the total coins (shares).
               </p>
               <p>
               Invictus will not deploy any BitShares systems as we are a software company that only produces open source software.  We only recommend that
