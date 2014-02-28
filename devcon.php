@@ -67,10 +67,72 @@
          </div>
       </div> <!-- row -->
       <div class="row">
-        <div class="col-lg-5">
-           <center>
-              <a class="btn btn-primary btn-lg" href="http://invictus-innovations.com/conference">Signup Now</a>
-           </center>
+        <div class="col-lg-12">
+           <br/>
+            <legend>Signup Now</legend>
+            <p>The price for a ticket is $279 and has to be paid via Bitpay within 15minutes after signing up, otherwise the reservation is deleted.</p>
+           <form id="devconSignupForm" class="form-horizontal" role="form" style="padding:20px; position: relative;">
+             <div class="form-group">
+               <label for="inputName" class="col-sm-2 control-label">Name</label>
+               <div class="col-sm-5">
+                 <input type="text" class="form-control" id="inputFirstName" placeholder="First Name" required>
+               </div>
+               <div class="col-sm-5">
+                 <input type="text" class="form-control" id="inputLastName" placeholder="Last Name" required>
+               </div>
+             </div>
+             <div class="form-group">
+               <label for="inputEmail" class="col-sm-2 control-label">Email</label>
+               <div class="col-sm-10">
+                 <input type="email" class="form-control" id="inputEmail" placeholder="Email" required>
+               </div>
+             </div>
+             <div class="form-group">
+               <label for="inputMessage" class="col-sm-2 control-label">Message</label>
+               <div class="col-sm-10">
+                 <textarea class="form-control" id="inputMessage" ></textarea>
+               </div>
+             </div>
+             <hr/>
+             <div class="form-group">
+               <label for="inputMessage" class="col-sm-2 control-label">Promo Code</label>
+               <div class="col-sm-5">
+                 <input type="text" class="form-control" id="promoCode" placeholder="Code">
+               </div>
+               <div class="col-sm-5">
+                <div class="alert alert-info" id="promoCodeStatus" style="padding-top: 6px; padding-bottom: 6px; margin: 0;">
+                  <span>No promo code entered yet.</span>
+                  <div class="loading-overlay" style="display: none;">
+                    <div class="center-positioned">
+                      <i class="fa fa-spinner fa-spin" style="position: absolute; top: -0.5em;"></i>
+                    </div>
+                  </div>
+                </div>
+               </div>
+             </div>
+             <div class="form-group">
+               <label for="inputMessage" class="col-sm-2 control-label">Price</label>
+               <div class="col-sm-10" id="priceField" style="padding-top: 7px; font-weight: bold;">
+                 $ 279.00
+               </div>
+             </div>
+             <div class="form-group">
+               <div class="col-sm-offset-2 col-sm-10">
+                 <button type="submit" id="devconSignupBtn" class="btn btn-default">Sign up &amp; pay with BTC now</button>
+               </div>
+             </div>
+             <div class="loading-overlay" style="display: none;">
+                <div class="center-positioned">
+                  <i class="fa fa-spinner fa-spin fa-5x" style="position: absolute; top: -0.5em;"></i>
+                </div>
+              </div>
+           </form>
+           <div id="invoiceFrame" class="col-lg-6 col-lg-offset-3" style="display: none;">
+            <iframe style="overflow: hidden;" width="504" height="200" frameBorder="0" seamless="seamless" scrolling="no"></iframe>
+           </div>
+           <script src="assets/js/jqBootstrapValidation.js"></script>
+           <script src="assets/js/moment.min.js"></script>
+           <script src="assets/js/devconSignup.js"></script>
         </div>
       </div><!-- row -->
     </div> <!-- container -->

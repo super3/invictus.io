@@ -463,6 +463,31 @@ body #white.bitsharesx .boxes li span {
 	border: none;
 }
 
+.bitsharesx .loading-overlay {
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	border-radius: 4px;
+	background-color: rgba(0,0,0,0.4);
+	color: #fff;
+}
+
+.alert .loading-overlay {
+	color: inherit;
+	background-color: rgba(255,255,255,0.4);
+}
+
+.loading-overlay .center-positioned {
+	position: absolute;
+	width: 0px;
+	height: 0px;
+    left: 50%;
+    top: 50%;
+    overflow: visible;
+}
+
 /* Indexpage */
 .index-content {
 	background-color: #f2f7f9;
