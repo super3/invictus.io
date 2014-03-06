@@ -94,10 +94,16 @@
 -->
 
     	</div><!-- /row -->
-      <div class="inner-page row"> 
-      <center>
-      <iframe src="//player.vimeo.com/video/87448377" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-      </center>
+      <div class="inner-page row center-y"> 
+		  <div class="col-md-5" style="text-align:right">
+			<img src="assets/img/ybitcoin.png">
+		  </div>
+		  <div class="col-md-5">
+			<ul id="pdf-profiles">
+				<li><a href="assets/pdf/BitsharesProfile.pdf">BitShares Profile in the Next Issue of yBitcoin Magazine</a></li>
+				<li><a href="assets/pdf/DanielLarimerProfile.pdf">Profile of Danial Larimer in the Next Issue of yBitcoin Magazine</a></li>
+			</ul>
+		  </div>
       </div>
     </div><!-- /container -->
     </div><!-- end index-page -->
