@@ -98,7 +98,7 @@
 		  <div class="col-md-5" style="text-align:right">
 			<img src="assets/img/ybitcoin.png">
 		  </div>
-		  <div class="col-md-5">
+		  <div class="col-md-6">
 			<ul id="pdf-profiles">
 				<li><a href="assets/pdf/BitsharesProfile.pdf">BitShares Profile in the Next Issue of yBitcoin Magazine</a></li>
 				<li><a href="assets/pdf/DanielLarimerProfile.pdf">Profile of Danial Larimer in the Next Issue of yBitcoin Magazine</a></li>
