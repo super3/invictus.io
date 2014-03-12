@@ -128,7 +128,7 @@ h1, h2, h3, h4, h5, h6 {
 	color: #1b485d;
 }
 
-#f a {
+#f a, #pdf-profiles a {
 	color: #1b485d;
 	text-decoration: underline;
 }
@@ -137,8 +137,9 @@ h1, h2, h3, h4, h5, h6 {
 	color: #000;
 }
 
-
-
+.center-y {
+	vertical-align:middle;
+}
 
 /*
 *
@@ -461,6 +462,24 @@ body #white.bitsharesx .boxes li span {
 	font-size: 18px;
 	box-shadow: none;
 	border: none;
+}
+
+#pdf-profiles {
+	margin-left: 0;
+	padding-left: 0;
+	list-style: none;
+}
+
+#pdf-profiles li {
+	background-image: url(/assets/img/pdf_doc.png);
+	padding-left: 80px;
+	background-repeat: no-repeat;
+	background-position: 0 .5em;
+	height: 100px;
+	line-height:100px;
+	font-size:16px;
+	margin-top:12px;
+	font-weight:bold;
 }
 
 /* Indexpage */
