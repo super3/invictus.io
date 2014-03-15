@@ -62,7 +62,7 @@
 					<div class="col-md-6">
 						<h2>Downloads</h2>
 						<p>Note: Keyhotee is now in alpha testing. There may be instability and many bugs. Please <a href="https://bitsharestalk.org/index.php?topic=1984">report any problems you have</a>.</p>
-						<a class="btn large" href="bin/Keyhotee-0.6.1-win32.exe">Download Keyhotee 0.6.1 (Windows)</a>
+						<a class="btn large" href="bin/Keyhotee-0.6.2-win32.exe">Download Keyhotee 0.6.2 (Windows)</a>
 						<br/>
 						<a class="btn large" href="bin/Keyhotee-0.6.1.gz">Download Keyhotee 0.6.1 (Linux)</a>	<br/>
 						<a class="btn large" href="bin/Keyhotee-0.6.1.dmg">Download Keyhotee 0.6.1 (Mac)</a>						
