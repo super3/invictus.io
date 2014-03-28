@@ -33,7 +33,18 @@
 	<div id="white" class="bitsharesx">
 		<div class="container">
 			<div class="inner-page row">
-    		<div class="col-md-4 centered">
+    		<div class="col-md-12 centered">
+           <h1> What are <span style="color:#9ce936;">Bit</span><span style="color:#009df6;">Shares</span>?</h1>
+        
+           <br/>
+           <iframe width="640" height="390" src="//www.youtube.com/embed/XaY_KIsouTY" frameborder="0" allowfullscreen></iframe>
+           <br/>
+           <h1> Digital Businesses for a Digital World.</h1>
+        </div>
+      </div> <!-- row -->
+
+			<div class="inner-page row">
+    		<div class="col-md-6 centered">
             <div style="min-height:20px">
             </div>
             <div class="index-sub-title col-1">
@@ -44,22 +55,13 @@
             </p>
 
         </div>
-    		<div class="col-md-4 centered">
+    		<div class="col-md-6 centered">
             <img width="300px" class="bitsharesx-logo" src="assets/img/keyhotee.png" alt="Keyhotee" />
             <div class="index-sub-title  col-2">
             <h4><i>Own</i> your Identity </h4>
             </div>
             <p>
             <a class="btn large" href="keyhotee.php">Learn More</a>
-            </p>
-        </div>
-    		<div class="col-md-4 centered">
-            <a href="http://beyondbitcoin.org"><img width="300px" class="bitsharesx-logo" style="margin-top:-10px" src="assets/img/bitshares.png" alt="Beyond Bitcoin" /> </a>
-            <div class="index-sub-title col-3">
-            <h4>Beyond Bitcoin Summit</h4>
-            </div>
-            <p>
-            <a class="btn large" href="http://beyondbitcoin.org/">Learn More</a>
             </p>
         </div>
       </div>
