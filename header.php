@@ -11,10 +11,10 @@
     <title>Invictus Innovations - Reimagine Everything</title>
     <script type="text/javascript" src="assets/js/flipcounter.js"></script>
 
-    <!-- Bootstrap core CSS -->
+    <!-- Bootstrap Core CSS -->
     <link href="assets/css/bootstrap.css" rel="stylesheet">
 
-    <!-- Custom styles for this template -->
+    <!-- Custom Styles for this template -->
     <link href="assets/css/main.css" rel="stylesheet">
     <link href="assets/css/colors/color-3498db.css" rel="stylesheet">
     <link href="assets/css/animations.css" rel="stylesheet">
