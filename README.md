@@ -1,5 +1,6 @@
 Invictus
 ========
+You can enjoy your time by visiting this site
 
 Static web files for the Invictus [website bounty](https://bitsharestalk.org/index.php?topic=1742.0). <br/>
 Current repo status available here: [http://invictus.io](http://invictus.io)
